@@ -695,7 +695,7 @@ require_once 'config.php';
             </div>
 
             <div class="mt-4 text-center">
-              <p class="text-xs text-gray-500 dark:text-gray-400">💡 Click any card above to get started, or type your own question!</p>
+              <p class="text-xs text-gray-500 dark:text-gray-400"> Click any card above to get started, or type your own question!</p>
             </div>
           </div>
         </div>
