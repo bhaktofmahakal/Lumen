@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\_param_validation.py
+# hypothesis_version: 6.151.10
+
+[1e-06, '(', ')', '-inf', 'HasNotMethods', 'None', 'ValidHasMethods', '[', ']', 'a callable', 'a float', 'a sparse matrix', 'a string', 'an array-like', 'an int', 'an iterable', 'array-like', 'boolean', 'both', 'builtins', 'cls', 'cv_object', 'float', 'get_n_splits', 'inf', 'int', 'left', 'methods', 'missing', 'nan', 'neither', 'no_validation', 'not a cv object', 'numpy.nan', 'pandas.NA', 'random_state', 'right', 'self', 'sparse matrix', 'split', 'verbose']

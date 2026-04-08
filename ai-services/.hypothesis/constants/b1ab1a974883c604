@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\utils\metrics.py
+# hypothesis_version: 6.151.10
+
+[100.0, 1000.0, 100, 150, 200, 250, 300, 500, 750, 1000, 2000, 5000, 10000, 20000, 30000, 60000, '__self__', 'bytes', 'decode_prefill_ratio', 'decoding', 'failed', 'finished', 'function.is_method', 'function.module', 'function.name', 'ms', 'pending', 'percent', 'prefilling', 'prefilling_split', 'ratio', 'requests', 'tokens', 'tracer', 'transformers.', 'ttft_milliseconds']

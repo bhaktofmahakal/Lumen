@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\mpmath\ctx_mp_python.py
+# hypothesis_version: 6.151.10
+
+['%NAME%', '%WITH_INT%', '%WITH_MPC%', '%WITH_MPF%', '%s of a %s', '%s(real=%s, imag=%s)', '(%s)', '/', '<%s: %s~>', '<no doc>', 'C', 'Computes the %s of x', 'Q', 'R', 'U', 'Z', '__add__', '__div__', '__eq__', '__mod__', '__mul__', '__pow__', '__sub__', '_mpc_', '_mpf_', '_mpi_', '_mpmath_', '_mpq_', 'constant', 'decimal', 'dps', 'mpc', 'mpf', "mpf('%s')", 'numpy', 'prec', 'requires an mpf/mpc', 'rounding']

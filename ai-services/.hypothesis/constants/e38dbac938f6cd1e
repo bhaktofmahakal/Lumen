@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\aiofiles\threadpool\__init__.py
+# hypothesis_version: 6.151.10
+
+['open', 'r', 'stderr', 'stderr_bytes', 'stdin', 'stdin_bytes', 'stdout', 'stdout_bytes', 'sys.stderr', 'sys.stderr.buffer', 'sys.stdin', 'sys.stdin.buffer', 'sys.stdout', 'sys.stdout.buffer']

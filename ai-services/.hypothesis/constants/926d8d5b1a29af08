@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\printing\precedence.py
+# hypothesis_version: 6.151.10
+
+[0.5, 100, 1000, 'Add', 'Adjoint', 'And', 'Atom', 'BitwiseAnd', 'BitwiseOr', 'BitwiseXor', 'Complement', 'Cross', 'Curl', 'Derivative', 'Divergence', 'Dot', 'DotProduct', 'Equality', 'Equivalent', 'Float', 'FracElement', 'Func', 'Function', 'Gradient', 'HadamardPower', 'HadamardProduct', 'Implies', 'Integer', 'Integral', 'Intersection', 'KroneckerProduct', 'Lambda', 'Laplacian', 'Limit', 'MatAdd', 'MatPow', 'MatrixSolve', 'Mod', 'Mul', 'NegativeInfinity', 'Not', 'Or', 'PolyElement', 'Pow', 'Product', 'ProductSet', 'Rational', 'Relational', 'Sub', 'Sum', 'SymmetricDifference', 'TensAdd', 'TensMul', 'TensorProduct', 'Transpose', 'Unequality', 'UnevaluatedExpr', 'Union', 'Xor', 'precedence']

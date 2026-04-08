@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\interpolate\_rgi.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.5, 1.0, '=', 'astype', 'cubic', 'cubic_legacy', 'dask.array', 'dtype', 'interpn', 'linear', 'ndim', 'nearest', 'pchip', 'quintic', 'quintic_legacy', 'same_kind', 'slinear', 'slinear_legacy', 'splinef2d']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\integrate\_tanhsinh.py
+# hypothesis_version: 6.151.10
+
+[-2.0, 0.0, 0.5, 0.75, 1.0, 'No fancy indexing.', 'No mutation.', 'Sn', 'aerr', 'array_api_strict', 'atol', 'complex floating', 'dask.array', 'error', 'ignore', 'integral', 'jax.numpy', 'maxlevel', 'nfev', 'nit', 'nsum', 'real floating', 'rtol', 'status', 'torch']

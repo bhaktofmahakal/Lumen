@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\models\mpnet\modeling_mpnet.py
+# hypothesis_version: 6.151.10
+
+[128, 'MPNetForMaskedLM', 'MPNetLayer', 'MPNetModel', 'MPNetPreTrainedModel', 'embedding_size', 'lm_head.bias', 'lm_head.decoder.bias', 'mpnet', 'position_ids', 'regression']

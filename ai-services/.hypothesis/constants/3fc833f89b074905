@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\huggingface_hub\_upload_large_folder.py
+# hypothesis_version: 6.151.10
+
+[100, 125, 150, 200, 250, 256, 400, 500, 512, 600, 1000, 10000, 100000, 1000000000, '\n  - ', '\r\x1b[K', '\x1b[F', '%Y-%m-%d %H:%M:%S', '**/*', '-', '.', '/', 'Files:   ', 'HfApi', 'Job: commit', 'Job: get upload mode', 'Job: preupload LFS', 'Job: sha256', 'Starting upload...', 'Upload is complete!', 'Workers: ', 'api', 'files', 'lfs', 'rb', 'regular', 'repo_id', 'repo_type', 'revision', 'root', 'status', 'subdirs']

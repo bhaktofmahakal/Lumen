@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\quantizers\quantizer_metal.py
+# hypothesis_version: 6.151.10
+
+['MetalConfig', 'PreTrainedModel', 'cpu', 'device_map', 'disk', 'mps', 'qbiases', 'scales', 'weight', 'weight$']

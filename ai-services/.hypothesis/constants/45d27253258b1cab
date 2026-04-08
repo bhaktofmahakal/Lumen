@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\timeout.py
+# hypothesis_version: 6.151.10
+
+[0.0, 'force_timeout', 'model', 'openai', 'request_timeout']

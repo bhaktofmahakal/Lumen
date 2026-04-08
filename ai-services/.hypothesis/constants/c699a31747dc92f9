@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\aiohttp\http_parser.py
+# hypothesis_version: 6.151.10
+
+[b'\n', b'\r', b'\r\n', b' \t', b'...', b':', b': ', b';', b'[0-9a-fA-F]+', 100, 128, 200, 204, 304, 8190, 32768, '\x00', "!#$%&'*+-.^_`|~", '#', '*', ',', '/', '?', 'CONNECT', 'HTTP/(\\d)\\.(\\d)', 'HeadersParser', 'HttpParser', 'HttpRequestParser', 'HttpResponseParser', 'OPTIONS', 'RawRequestMessage', 'RawResponseMessage', '\\d+', '_MsgT', 'ascii', 'br', 'chunked', 'close', 'code', 'deflate', 'gzip', 'keep-alive', 'latin1', 'method', 'surrogateescape', 'tcp', 'upgrade', 'utf-8', 'websocket', 'zstd']

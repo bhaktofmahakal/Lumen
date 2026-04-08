@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\onnx\_internal\torchscript_exporter\utils.py
+# hypothesis_version: 6.151.10
+
+['.', '::', 'Exported graph: ', 'O2StateDictHook', 'PackedParams', '_', '_add_block', '_add_input_to_block', '_add_output_to_block', '_create_jit_graph', '_decide_input_format', '_dynamic_axes_', '_export', '_get_example_outputs', '_model_to_graph', '_onnx_attrs', '_optimize_graph', '_packed_params', '_run_symbolic_method', '_signature', '_trace', 'add_node_names', 'aten::', 'do_constant_folding', 'export', 'exporter_context', 'forward', 'graph', 'input', 'is_quantized', 'model_signature', 'modules', 'onnx', 'onnx::', 'onnx::Identity', 'output', 'outputs', 'prim::', 'prim::Constant', 'prim::ListConstruct', 'self', 'setup_onnx_logging', 'training', 'unconvertible_ops']

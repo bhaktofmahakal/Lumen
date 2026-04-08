@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\externals\array_api_extra\_lib\_utils\_helpers.py
+# hypothesis_version: 6.151.10
+
+[0.145, 'P', 'T', '_meta', 'asarrays', 'bool', 'boolean indexing', 'capabilities', 'complex floating', 'eager_shape', 'in1d', 'integral', 'is_python_scalar', 'jax_autojit', 'mean', 'meta', 'meta_namespace', 'obj', 'pickle_flatten', 'pickle_unflatten', 'real floating']

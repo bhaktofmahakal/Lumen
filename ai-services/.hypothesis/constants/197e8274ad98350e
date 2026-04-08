@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\methods\describe.py
+# hypothesis_version: 6.151.10
+
+[0.25, 0.5, 0.75, 'DataFrame', 'M', 'Series', 'all', 'count', 'datetime', 'float', 'freq', 'iufb', 'm', 'max', 'mean', 'min', 'object', 'std', 'top', 'unique']

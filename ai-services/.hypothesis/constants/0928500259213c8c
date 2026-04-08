@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\utils\data\sampler.py
+# hypothesis_version: 6.151.10
+
+['BatchSampler', 'RandomSampler', 'Sampler', 'SequentialSampler', 'SubsetRandomSampler', '_T_co']

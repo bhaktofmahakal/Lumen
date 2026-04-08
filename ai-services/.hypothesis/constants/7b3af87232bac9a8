@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\langsmith\run_trees.py
+# hypothesis_version: 6.151.10
+
+[b'baggage', '%Y%m%dT%H%M%S%fZ', ',', '.', '=', 'RunTree', 'Unnamed', '__all__', '_client', 'attachments', 'baggage', 'callbacks', 'chain', 'child_runs', 'client', 'default', 'dotted_order', 'end_time', 'event', 'events', 'extra', 'id', 'ignore', 'inputs', 'langsmith-', 'ls_client', 'message', 'metadata', 'name', 'order_map', 'outputs', 'parent', 'parent_run', 'parent_run_id', 'project_id', 'project_name', 'run_type', 'serialized', 'start_time', 'tags', 'time', 'trace_id', 'uploaded_attachment', 'utf-8']

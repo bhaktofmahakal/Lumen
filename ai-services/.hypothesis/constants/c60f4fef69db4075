@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\langchain_core\callbacks\manager.py
+# hypothesis_version: 6.151.10
+
+['BRM', 'BaseRunManager', 'Func', 'H', 'LANGCHAIN_HANDLER', 'LANGCHAIN_TRACING', 'Runner', 'T', 'id', 'ignore_agent', 'ignore_chain', 'ignore_chat_model', 'ignore_llm', 'ignore_retriever', 'ignore_retry', 'name', 'on_agent_action', 'on_agent_finish', 'on_chain_end', 'on_chain_error', 'on_chain_start', 'on_chat_model_start', 'on_llm_end', 'on_llm_error', 'on_llm_new_token', 'on_llm_start', 'on_retriever_end', 'on_retriever_error', 'on_retriever_start', 'on_retry', 'on_text', 'on_tool_end', 'on_tool_error', 'on_tool_start']

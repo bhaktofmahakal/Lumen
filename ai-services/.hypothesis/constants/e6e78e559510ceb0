@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\plotting\__init__.py
+# hypothesis_version: 6.151.10
+
+['PlotGrid', 'PygletPlot', 'plot', 'plot3d', 'plot_backends', 'plot_contour', 'plot_implicit', 'plot_parametric', 'textplot']

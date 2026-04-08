@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\optimize\_trustregion.py
+# hypothesis_version: 6.151.10
+
+[0.0001, 0.15, 0.25, 0.5, 0.75, 1.0, 1000.0, 200, 'MAXITER_DEFAULT', 'allvecs', 'hess', 'maxiter', 'success']

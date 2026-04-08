@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\quantizers\quantizer_torchao.py
+# hypothesis_version: 6.151.10
+
+[0.5, 0.9, '(\\d)weight', '.', '.safetensors', '2.5.0', '4', '8', 'PreTrainedModel', 'TorchAoConfig', '_default', '_weight_qdata', '_weight_scale', '_weight_zero_point', 'cpu', 'device_map', 'disk', 'pt', 'torch.Tensor', 'weight']

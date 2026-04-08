@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\integrations\flex_attention.py
+# hypothesis_version: 6.151.10
+
+[0.0, '2.5.1', '2.6.0', '2.9.0', 'AuxRequest', 'BlockMask', 'cpu', 'dropout', 'kernel_options', 'return_aux', 'return_lse']

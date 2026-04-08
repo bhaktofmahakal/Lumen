@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\redis\observability\attributes.py
+# hypothesis_version: 6.151.10
+
+[6379, 'AsyncDatabase', 'ConnectionPool', 'SyncDatabase', '_pool_id', 'automatic', 'db.namespace', 'db.operation.name', 'db.system', 'error', 'error.type', 'error_type', 'full', 'hit', 'host', 'idle', 'invalidation', 'manual', 'miss', 'network.peer.address', 'network.peer.port', 'other', 'port', 'publish', 'receive', 'redis', 'redis.client.library', 'replace', 'server.address', 'server.port', 'status_code', 'unknown', 'used', 'utf-8']

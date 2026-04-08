@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\tensor\_ops\_math_ops.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1.0, '-inf', 'avg', 'descending', 'dim', 'inf', 'keepdim', 'max', 'min', 'norm_type', 'product', 'stable', 'sum']

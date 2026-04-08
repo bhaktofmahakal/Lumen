@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\fastapi\utils.py
+# hypothesis_version: 6.151.10
+
+[200, 204, 205, 304, '1XX', '2XX', '3XX', '4XX', '5XX', 'APIRoute', '\\W', '_', 'default', 'serialization', 'validation', '{(.*?)}']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\losses\AdaptiveLayerLoss.py
+# hypothesis_version: 6.151.10
+
+[0.3, 1.0, 'all_layer_embeddings', 'batchmean', 'kl_div_weight', 'kl_temperature', 'last_layer_weight', 'loss', 'n_layers_per_step', 'prior_layers_weight', 'sentence_embedding', 'token_embeddings']

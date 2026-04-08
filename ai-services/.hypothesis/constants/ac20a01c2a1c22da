@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\google\protobuf\text_encoding.py
+# hypothesis_version: 6.151.10
+
+[127, 128, 256, '"', "'", '\\', '\\"', '\\%03o', "\\'", '\\\\', '\\n', '\\r', '\\t', 'latin-1', 'raw_unicode_escape', 'unicode_escape', 'utf-8', 'x0']

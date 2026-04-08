@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\utils\chat_parsing_utils.py
+# hypothesis_version: 6.151.10
+
+[500, '"\\1":', '(?<=[{,])(\\w+):', '0', '1', '<\\|"\\|>(.*?)<\\|"\\|>', 'additionalProperties', 'allow_non_json', 'any', 'array', 'boolean', 'const', 'default', 'false', 'gemma4-tool-call', 'integer', 'items', 'json', 'key', 'number', 'object', 'prefixItems', 'properties', 'required', 'string', 'transform', 'true', 'type', 'value', 'x-parser', 'x-parser-args', 'x-regex', 'x-regex-iterator', 'x-regex-key-value']

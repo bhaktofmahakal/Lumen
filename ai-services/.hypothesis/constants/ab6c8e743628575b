@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\nn\attention\_fa4.py
+# hypothesis_version: 6.151.10
+
+[0.0, 'CUDA', 'CUDA not available', 'FA4', 'FA4 not registered', 'IMPL', 'Ts', '_flash_attn_bwd', '_flash_attn_fwd', 'aten', 'causal', 'cu_seqlens_k', 'cu_seqlens_q', 'dropout_p must be 0', 'logsumexp', 'out', 'return_lse', 'seqused_k', 'softmax_scale', 'window_size_left', 'window_size_right']

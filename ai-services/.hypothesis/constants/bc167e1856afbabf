@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\tensor\_ops\single_dim_strategy.py
+# hypothesis_version: 6.151.10
+
+['.', '::', 'List', 'Scalar', 'ScalarList', 'Shard()', 'Tensor', '_', '_PlacementT', '_StrategyTypeT', '_foreach_', 'aten::_foreach_', 'default', 'memory_format']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\integrations\langfuse.py
+# hypothesis_version: 6.151.10
+
+['2.0.0', 'LANGFUSE_DEBUG', 'LANGFUSE_HOST', 'LANGFUSE_PUBLIC_KEY', 'LANGFUSE_RELEASE', 'LANGFUSE_SECRET_KEY', 'choices', 'completion_tokens', 'functions', 'generation_id', 'generation_name', 'litellm-completion', 'litellm_params', 'message', 'messages', 'metadata', 'model', 'optional_params', 'prompt_tokens', 'tools', 'trace_id', 'trace_user_id', 'usage']

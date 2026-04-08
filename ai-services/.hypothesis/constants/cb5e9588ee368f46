@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\xpu\__init__.py
+# hypothesis_version: 6.151.10
+
+['Event', 'MemPool', 'Stream', 'StreamContext', 'XPUGraph', '_POOL_HANDLE', '_XpuDeviceProperties', '__', '_xpu_isInBadFork', 'current_device', 'current_stream', 'default_generators', 'device', 'device_count', 'device_of', 'empty_cache', 'get_arch_list', 'get_device_name', 'get_gencode_flags', 'get_rng_state', 'get_rng_state_all', 'graph', 'graph_pool_handle', 'init', 'initial_seed', 'is_available', 'is_bf16_supported', 'is_initialized', 'is_initializing', 'is_tf32_supported', 'manual_seed', 'manual_seed_all', 'max_memory_allocated', 'max_memory_reserved', 'mem_get_info', 'memory_allocated', 'memory_reserved', 'memory_snapshot', 'memory_stats', 'seed', 'seed_all', 'set_device', 'set_rng_state', 'set_rng_state_all', 'set_stream', 'stream', 'streams', 'synchronize', 'torch.xpu.Stream', 'use_mem_pool', 'xpu']

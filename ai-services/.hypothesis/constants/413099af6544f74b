@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\strategies\__init__.py
+# hypothesis_version: 6.151.10
+
+['branch', 'canon', 'chain', 'condition', 'debug', 'distribute', 'do_one', 'exhaust', 'flatten', 'glom', 'minimize', 'new', 'null_safe', 'rebuild', 'rl', 'rm_id', 'sort', 'traverse', 'tryit', 'typed', 'unpack']

@@ -1,0 +1,4 @@
+# file: C:\xampp\htdocs\chat-app\ai-services\document_service.py
+# hypothesis_version: 6.151.10
+
+[1024, '.', 'File is empty', 'Filename is required', 'PDF has no pages', '\\d+\\s*[+\\-*/=]\\s*\\d+', 'application/pdf', 'arxiv_id', 'authors', 'created_at', 'document_id', 'document_type', 'doi', 'equation', 'file_hash', 'file_path', 'file_size', 'filename', 'lemma', 'page_count', 'project_id', 'proof', 'publication_date', 'pubmed_id', 'status', 'theorem', 'title', 'updated_at', 'user_id', '∂', '∇', '∏', '∑', '√', '∫']

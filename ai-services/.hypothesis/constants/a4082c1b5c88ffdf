@@ -1,0 +1,4 @@
+# file: C:\xampp\htdocs\chat-app\ai-services\agents\reviewer_agent.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.3, 0.5, 1000, 'Review completed', 'citation_score', 'clarity_score', 'completeness_score', 'content', 'document_count', 'feedback', 'quality_score', 'structure_score', 'suggestions', 'writing_score']

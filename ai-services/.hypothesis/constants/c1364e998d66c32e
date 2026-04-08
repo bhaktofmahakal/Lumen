@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\concrete\summations.py
+# hypothesis_version: 6.151.10
+
+[100, 'More than 1 limit', 'c1', 'c2', 'c3', 'd', 'deep', 'extended_negative', 'extended_nonnegative', 'extended_nonpositive', 'extended_positive', 'extended_real', 'finite', 'i', 'integer', 'is_', 'k', 'limits', 'm', 'n', 'negative', 'nonnegative', 'nonpositive', 'p q r', 'positive', 'rational', 'real', 'w', 'wexp', 'x', 'y', 'z', 'zero']

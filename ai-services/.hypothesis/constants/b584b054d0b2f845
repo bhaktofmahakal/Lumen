@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\utils\generic.py
+# hypothesis_version: 6.151.10
+
+[', ', '.', '.*flash.*', '.json', '0', '1', "<class 'mlx.", "<class 'numpy.", "<class 'torch.", 'QuestionAnswering', 'cls', 'config', 'config.json', 'debug_io', 'debug_io_dir', 'default', 'do_not_pad', 'end_positions', 'f', 'false', 'flash', 'full', 'is_causal', 'label', 'longest', 'max_length', 'meta', 'mlx', 'model_debug', 'n', 'no', 'np', 'off', 'on', 'pretrained_cfg', 'prune_layers', 'pt', 'return_dict', 'return_loss', 'self', 'start_positions', 't', 'true', 'use_cache', 'utf-8', 'vision_aspect_ratio', 'vision_feature_layer', 'y', 'yes']

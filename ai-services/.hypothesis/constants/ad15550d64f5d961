@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\tokenization_python.py
+# hypothesis_version: 6.151.10
+
+[123, 126, '#version: 0.2\n', 'C', 'P', 'Zs', 'added_tokens.json', 'added_tokens_decoder', 'attention_mask', 'backend', 'bert_style', 'bos', 'bos_eos', 'bpe_ranks', 'cls_double_sep', 'cls_sep', 'custom', 'do_lower_case', 'encoder', 'eos', 'input_ids', 'left', 'length', 'longest_first', 'merges.txt', 'merges_file', 'normalized', 'num_truncated_tokens', 'overflowing_tokens', 'prefix_suffix', 'prefix_tokens', 'right', 'special', 'special_tokens_mask', 'split_special_tokens', 'suffix_tokens', 'token_type_ids', 'utf-8', 'vocab', 'vocab.json', 'vocab_file', 'vocab_files_names', 'w']

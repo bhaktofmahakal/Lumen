@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\data\processors\glue.py
+# hypothesis_version: 6.151.10
+
+['*** Example ***', '0', '1', 'classification', 'cola', 'contradiction', 'dev', 'dev.tsv', 'dev_matched', 'dev_matched.tsv', 'dev_mismatched', 'dev_mismatched.tsv', 'entailment', 'function', 'hypothesis', 'idx', 'label', 'max_length', 'mnli', 'mnli-mm', 'mrpc', 'neutral', 'not_entailment', 'premise', 'processor', 'qnli', 'qqp', 'question', 'question1', 'question2', 'regression', 'rte', 'sentence', 'sentence1', 'sentence2', 'sst-2', 'sts-b', 'test', 'test.tsv', 'test_matched', 'test_matched.tsv', 'test_mismatched', 'test_mismatched.tsv', 'train', 'train.tsv', 'utf-8', 'wnli']

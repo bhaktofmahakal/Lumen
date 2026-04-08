@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\redis\observability\metrics.py
+# hypothesis_version: 6.151.10
+
+['1.0.0', '7.2.1', '7.4.0', 'AsyncDatabase', 'By', 'ConnectionPool', 'SyncDatabase', 'application_close', 'batch_size', 'client_errors', 'connection_closed', 'connection_handoff', 'connection_timeouts', 'connection_wait_time', 'consumer_name', 'csc_evictions', 'csc_network_saved', 'csc_requests', 'error', 'geo_failovers', 'healthcheck_failed', 'operation_duration', 'pubsub_messages', 'redis-py', 'redis.client.errors', 's', 'stream_lag', '{connection}', '{error}', '{eviction}', '{geofailover}', '{handoff}', '{item}', '{message}', '{notification}', '{relaxation}', '{request}', '{timeout}']

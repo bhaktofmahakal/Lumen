@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\graph_id_filter.py
+# hypothesis_version: 6.151.10
+
+[',', '.', ':', ';', '<', '<=', '=', '>', '>=', 'T', '^(>=|>|<=|<)(\\d+)$', '^(\\d+)-(\\d+)$', 'backend', 'config', 'default', 'false', 'inductor', 'max-autotune', 'none', 'reduce-overhead', 'true']

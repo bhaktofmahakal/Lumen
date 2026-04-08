@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_higher_order_ops\associative_scan.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1.0, 'associative_scan', 'call_function', 'carry', 'combine_fn', 'cuda', 'generic', 'init', 'mode', 'output', 'pointwise', 'val', 'xpu']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\responses\response_text_config.py
+# hypothesis_version: 6.151.10
+
+['ResponseTextConfig', 'high', 'low', 'medium']

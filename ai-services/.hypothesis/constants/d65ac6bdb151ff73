@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\integrations\npu_flash_attention.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1.0, 2048, 'BSND', 'NPU_FA2_SPARSE_MODE', 'TND']

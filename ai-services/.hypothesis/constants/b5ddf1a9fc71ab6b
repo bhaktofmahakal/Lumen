@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\huggingface_hub\dataclasses.py
+# hypothesis_version: 6.151.10
+
+[', ', 'NotRequired', 'Required', 'T', 'TypedDictType', 'Validator_T', '__annotations__', '__dataclass_fields__', '__init__', '__post_init__', '__total__', 'strict', 'validate', 'validate_', 'validate_typed_dict', 'validated_field', 'validator']

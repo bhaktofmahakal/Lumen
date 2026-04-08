@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\printing\pretty\stringpict.py
+# hypothesis_version: 6.151.10
+
+[' + ', ' >', ' ↪', '(', ')', '*', ',', '-', '- ', '-1', '/', '1.7', '> ', '\\', '\\ \n \\', '_', 'cos', 'degree', 'line', 'num_columns', 'prettyForm(%r,%d,%d)', 'sin', 'stringPict(%r,%d)', 'tan', 'use_unicode', 'wrap_line', '°', '↪ ']

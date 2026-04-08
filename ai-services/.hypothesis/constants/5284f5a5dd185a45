@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\variables\torch.py
+# hypothesis_version: 6.151.10
+
+['.', 'AccumulateGrad', 'BaseTorchVariable', 'NNModuleVariable', 'Parameter', 'PyCodegen', 'StreamVariable', 'T', 'V', 'VariableTracker', '[^a-zA-Z0-9_]+', '_', '__', '__module__', '__objclass__', '__torch_function__', '_check_message', '_input_spec', 'add', 'backends', 'batch_size', 'call_function', 'cond', 'create_graph', 'data', 'default', 'detach', 'device', 'div', 'dtype', 'example_value', 'fake_fn', 'fill_', 'fma', 'get_attr', 'has', 'inputs', 'key', 'leaf_function', 'level', 'lower', 'math', 'message', 'mul', 'nonstrict_trace', 'numel', 'out', 'outputs', 'overloads', 'placeholder', 'placements', 'prim ', 'process', 'randomness', 'real_fn', 'requires_grad', 'retain_graph', 'set_priority', 'shape', 'size', 'sqrt', 'stride', 'sub', 'torch', 'torch.nn', 'unreachable', 'value']

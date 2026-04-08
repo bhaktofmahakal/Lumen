@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_higher_order_ops\cond.py
+# hypothesis_version: 6.151.10
+
+['call_function', 'cond', 'cond_false', 'cond_true', 'device', 'dim', 'dtype', 'false_fn', 'is_conj', 'is_quantized', 'is_sparse', 'layout', 'mode', 'output', 'pred', 'storage_offset', 'torch', 'true_fn', 'true_graph']

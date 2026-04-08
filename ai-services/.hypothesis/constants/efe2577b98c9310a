@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\quantizers\auto.py
+# hypothesis_version: 6.151.10
+
+['_4bit', '_8bit', 'aqlm', 'auto-round', 'awq', 'bitnet', 'bitsandbytes_4bit', 'bitsandbytes_8bit', 'compressed-tensors', 'dequantize', 'eetq', 'fbgemm_fp8', 'fouroversix', 'fp8', 'fp_quant', 'gptq', 'higgs', 'hqq', 'load_in_4bit', 'load_in_8bit', 'metal', 'mxfp4', 'quant', 'quant_method', 'quantization_config', 'quanto', 'quark', 'sinq', 'spqr', 'torchao', 'value', 'vptq']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\errors\__init__.py
+# hypothesis_version: 6.151.10
+
+['4.0', '5.0', 'AbstractMethodError', 'CSSWarning', 'ClosedFileError', 'DataError', 'DatabaseError', 'DtypeWarning', 'DuplicateLabelError', 'EmptyDataError', 'IndexingError', 'IntCastingNaNError', 'InvalidColumnName', 'InvalidComparison', 'InvalidIndexError', 'InvalidVersion', 'LossySetitemError', 'MergeError', 'NoBufferPresent', 'NullFrequencyError', 'NumbaUtilError', 'OptionError', 'OutOfBoundsDatetime', 'OutOfBoundsTimedelta', 'Pandas4Warning', 'Pandas5Warning', 'PandasChangeWarning', 'PandasFutureWarning', 'ParserError', 'ParserWarning', 'PerformanceWarning', 'PyperclipException', 'SpecificationError', 'UnsortedIndexError', 'classmethod', 'method', 'property', 'staticmethod']

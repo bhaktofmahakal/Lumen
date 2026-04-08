@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\cross_encoder\trainer.py
+# hypothesis_version: 6.151.10
+
+['-', '4.46.0', 'WANDB_PROJECT', 'args', 'callbacks', 'compute_metrics', 'data_collator', 'dummy', 'eval', 'eval_dataset', 'label', 'model', 'model_init', 'no', 'optimizers', 'processing_class', 'pt', 'tmp_trainer', 'tokenizer', 'train', 'train_dataset', 'unused']

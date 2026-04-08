@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\printing\jscode.py
+# hypothesis_version: 6.151.10
+
+[0.5, '%d/%d', '%s%s', '%s;', '%s[%s]', '(', '(\n', '((%s) ? (\n%s\n)\n', ')', '// {}', '1/%s', ': ', ': (\n%s\n)', 'Abs', 'Atom', 'JavaScript', 'Math.E', 'Math.PI', 'Math.abs', 'Math.acos', 'Math.acosh', 'Math.asin', 'Math.asinh', 'Math.atan', 'Math.atan2', 'Math.atanh', 'Math.cbrt(%s)', 'Math.ceil', 'Math.cos', 'Math.cosh', 'Math.exp', 'Math.floor', 'Math.log', 'Math.max', 'Math.min', 'Math.pow(%s, %s)', 'Math.sign', 'Math.sin', 'Math.sinh', 'Math.sqrt(%s)', 'Math.tan', 'Math.tanh', 'Max', 'Min', '_javascript', 'acos', 'acosh', 'asin', 'asinh', 'atan', 'atan2', 'atanh', 'ceiling', 'contract', 'cos', 'cosh', 'else if (%s) {', 'else {', 'end', 'exp', 'floor', 'if (%s) {', 'log', 'precision', 'sign', 'sin', 'sinh', 'start', 'tan', 'tanh', 'user_functions', 'var {} = {};', 'varble', '{', '{\n', '{} {} {}', '{}[{}]', '}']

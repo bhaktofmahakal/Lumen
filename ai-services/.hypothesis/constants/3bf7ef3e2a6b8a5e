@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\optimize\_lsq\lsq_linear.py
+# hypothesis_version: 6.151.10
+
+[1e-10, 0.01, 0.5, 'auto', 'bvls', 'exact', 'lsmr', 'trf']

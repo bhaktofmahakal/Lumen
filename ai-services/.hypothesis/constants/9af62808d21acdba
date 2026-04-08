@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\fastapi\routing.py
+# hypothesis_version: 6.151.10
+
+[b'\n', 400, '+json', '/', 'APIRoute', 'APIRouter', 'Cache-Control', 'DELETE', 'GET', 'HEAD', 'JSON decode error', 'OPTIONS', 'PATCH', 'POST', 'PUT', 'Response_', 'StreamItem_', 'Successful Response', 'TRACE', 'X-Accel-Buffering', '_T', '__name__', 'application', 'application/json', 'application/jsonl', 'background', 'body', 'content-type', 'ctx', 'error', 'fastapi_inner_astack', 'file', 'function', 'input', 'json', 'json_invalid', 'line', 'loc', 'model', 'model_dump_json', 'msg', 'name', 'no', 'no-cache', 'path', 'response', 'root_path', 'route', 'serialization', 'shutdown', 'startup', 'status_code', 'text/event-stream', 'type', 'unknown', 'utf-8']

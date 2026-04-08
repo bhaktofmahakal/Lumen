@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\solvers\ode\single.py
+# hypothesis_version: 6.151.10
+
+[' cannot be solved by', '1st_exact', '1st_linear', '1st_rational_riccati', '2F1', '2nd_hypergeometric', '2nd_linear_airy', '2nd_linear_bessel', 'A', 'B', 'Bernoulli', 'C', 'I0', 'Liouville', 'P', 'Q', 'The given ODE ', 'a', 'a3', 'a4', 'almost_linear', 'b', 'b0', 'b1', 'b2', 'b3', 'b4', 'c', 'c1', 'c3', 'c4', 'coeff', 'd', 'd4', 'e', 'eta', 'factorable', 'fy', 'k', 'lie_group', 'linear_coefficients', 'list', 'm', 'n', 'nth_algebraic', 'nth_order_reducible', 'power', 'separable', 'separable_reduced', 'simpliy_flag', 'sing_point', 'sol', 't', 'test', 'trialset', 'type', 'u', 'u1', 'x', 'xi', 'y']

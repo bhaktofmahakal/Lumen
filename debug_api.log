@@ -1,0 +1,2824 @@
+[2025-06-15 16:01:14] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:01:14] Required files loaded successfully[2025-06-15 16:01:14] Constants check passed[2025-06-15 16:01:14] Database connection verified[2025-06-15 16:01:14] Processing POST request[2025-06-15 16:01:14] Client IP | Data: ::1[2025-06-15 16:01:15] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:01:15] Processing text-only request[2025-06-15 16:01:15] Prompt validated | Data: Array
+(
+    [length] => 14
+)
+[2025-06-15 16:01:15] Preparing for streaming[2025-06-15 16:01:15] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-15 16:01:15] Required files loaded successfully[2025-06-15 16:01:15] Constants check passed[2025-06-15 16:01:15] Database connection verified[2025-06-15 16:01:15] Processing GET streaming request[2025-06-15 16:01:15] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:01:15] Stream completed successfully[2025-06-15 16:01:17] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:01:17] Required files loaded successfully[2025-06-15 16:01:17] Constants check passed[2025-06-15 16:01:17] Database connection verified[2025-06-15 16:01:17] Processing POST request[2025-06-15 16:01:17] Client IP | Data: ::1[2025-06-15 16:01:17] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:01:17] Processing text-only request[2025-06-15 16:01:17] Prompt validated | Data: Array
+(
+    [length] => 14
+)
+[2025-06-15 16:01:17] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:01:17] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 1203
+)
+[2025-06-15 16:01:18] Response processed | Data: Array
+(
+    [response_length] => 69
+)
+[2025-06-15 16:01:18] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:01:46] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:01:46] Required files loaded successfully[2025-06-15 16:01:46] Constants check passed[2025-06-15 16:01:46] Database connection verified[2025-06-15 16:01:46] Processing POST request[2025-06-15 16:01:46] Client IP | Data: ::1[2025-06-15 16:01:46] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:01:46] Processing text-only request[2025-06-15 16:01:46] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-15 16:01:46] Preparing for streaming[2025-06-15 16:01:46] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-15 16:01:46] Required files loaded successfully[2025-06-15 16:01:46] Constants check passed[2025-06-15 16:01:46] Database connection verified[2025-06-15 16:01:46] Processing GET streaming request[2025-06-15 16:01:46] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:01:51] Stream completed successfully[2025-06-15 16:01:52] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:01:52] Required files loaded successfully[2025-06-15 16:01:52] Constants check passed[2025-06-15 16:01:52] Database connection verified[2025-06-15 16:01:52] Processing POST request[2025-06-15 16:01:52] Client IP | Data: ::1[2025-06-15 16:01:52] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:01:52] Processing text-only request[2025-06-15 16:01:52] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-15 16:01:52] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:01:57] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 4882
+)
+[2025-06-15 16:01:57] Response processed | Data: Array
+(
+    [response_length] => 3256
+)
+[2025-06-15 16:01:57] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:02:04] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:02:04] Required files loaded successfully[2025-06-15 16:02:04] Constants check passed[2025-06-15 16:02:04] Database connection verified[2025-06-15 16:02:04] Processing POST request[2025-06-15 16:02:04] Client IP | Data: ::1[2025-06-15 16:02:04] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:02:04] Processing text-only request[2025-06-15 16:02:04] Prompt validated | Data: Array
+(
+    [length] => 17
+)
+[2025-06-15 16:02:04] Preparing for streaming[2025-06-15 16:02:04] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-15 16:02:04] Required files loaded successfully[2025-06-15 16:02:04] Constants check passed[2025-06-15 16:02:04] Database connection verified[2025-06-15 16:02:04] Processing GET streaming request[2025-06-15 16:02:04] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:02:06] Stream completed successfully[2025-06-15 16:02:07] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:02:07] Required files loaded successfully[2025-06-15 16:02:07] Constants check passed[2025-06-15 16:02:07] Database connection verified[2025-06-15 16:02:07] Processing POST request[2025-06-15 16:02:07] Client IP | Data: ::1[2025-06-15 16:02:07] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:02:07] Processing text-only request[2025-06-15 16:02:07] Prompt validated | Data: Array
+(
+    [length] => 17
+)
+[2025-06-15 16:02:07] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:02:09] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 1893
+)
+[2025-06-15 16:02:09] Response processed | Data: Array
+(
+    [response_length] => 751
+)
+[2025-06-15 16:02:09] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:02:19] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:02:19] Required files loaded successfully[2025-06-15 16:02:19] Constants check passed[2025-06-15 16:02:19] Database connection verified[2025-06-15 16:02:19] Processing POST request[2025-06-15 16:02:19] Client IP | Data: ::1[2025-06-15 16:02:19] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:02:19] Processing text-only request[2025-06-15 16:02:19] Prompt validated | Data: Array
+(
+    [length] => 36
+)
+[2025-06-15 16:02:19] Preparing for streaming[2025-06-15 16:02:19] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-15 16:02:19] Required files loaded successfully[2025-06-15 16:02:19] Constants check passed[2025-06-15 16:02:19] Database connection verified[2025-06-15 16:02:19] Processing GET streaming request[2025-06-15 16:02:19] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:02:19] Stream completed successfully[2025-06-15 16:02:20] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:02:20] Required files loaded successfully[2025-06-15 16:02:20] Constants check passed[2025-06-15 16:02:20] Database connection verified[2025-06-15 16:02:20] Processing POST request[2025-06-15 16:02:20] Client IP | Data: ::1[2025-06-15 16:02:20] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:02:20] Processing text-only request[2025-06-15 16:02:20] Prompt validated | Data: Array
+(
+    [length] => 36
+)
+[2025-06-15 16:02:20] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:02:21] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 1186
+)
+[2025-06-15 16:02:21] Response processed | Data: Array
+(
+    [response_length] => 54
+)
+[2025-06-15 16:02:21] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:02:38] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => multipart/form-data; boundary=----WebKitFormBoundaryCFoaF4kct878aKwI
+)
+[2025-06-15 16:02:38] Required files loaded successfully[2025-06-15 16:02:38] Constants check passed[2025-06-15 16:02:38] Database connection verified[2025-06-15 16:02:38] Processing POST request[2025-06-15 16:02:38] Client IP | Data: ::1[2025-06-15 16:02:38] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:02:38] Processing file upload[2025-06-15 16:02:38] Prompt validated | Data: Array
+(
+    [length] => 14
+)
+[2025-06-15 16:02:38] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:02:42] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 2572
+)
+[2025-06-15 16:02:42] Response processed | Data: Array
+(
+    [response_length] => 1340
+)
+[2025-06-15 16:02:42] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:03:27] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:03:27] Required files loaded successfully[2025-06-15 16:03:27] Constants check passed[2025-06-15 16:03:27] Database connection verified[2025-06-15 16:03:27] Processing POST request[2025-06-15 16:03:27] Client IP | Data: ::1[2025-06-15 16:03:27] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:03:27] Processing text-only request[2025-06-15 16:03:27] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-15 16:03:27] Preparing for streaming[2025-06-15 16:03:27] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-15 16:03:27] Required files loaded successfully[2025-06-15 16:03:27] Constants check passed[2025-06-15 16:03:27] Database connection verified[2025-06-15 16:03:27] Processing GET streaming request[2025-06-15 16:03:27] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:03:29] Stream completed successfully[2025-06-15 16:03:30] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:03:30] Required files loaded successfully[2025-06-15 16:03:30] Constants check passed[2025-06-15 16:03:30] Database connection verified[2025-06-15 16:03:30] Processing POST request[2025-06-15 16:03:30] Client IP | Data: ::1[2025-06-15 16:03:30] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:03:30] Processing text-only request[2025-06-15 16:03:30] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-15 16:03:30] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:03:32] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 1866
+)
+[2025-06-15 16:03:32] Response processed | Data: Array
+(
+    [response_length] => 711
+)
+[2025-06-15 16:03:32] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:04:02] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:04:02] Required files loaded successfully[2025-06-15 16:04:02] Constants check passed[2025-06-15 16:04:02] Database connection verified[2025-06-15 16:04:02] Processing POST request[2025-06-15 16:04:02] Client IP | Data: ::1[2025-06-15 16:04:02] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:04:02] Processing text-only request[2025-06-15 16:04:02] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-15 16:04:02] Preparing for streaming[2025-06-15 16:04:02] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-15 16:04:02] Required files loaded successfully[2025-06-15 16:04:02] Constants check passed[2025-06-15 16:04:02] Database connection verified[2025-06-15 16:04:02] Processing GET streaming request[2025-06-15 16:04:02] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:04:07] Stream completed successfully[2025-06-15 16:04:08] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:04:08] Required files loaded successfully[2025-06-15 16:04:08] Constants check passed[2025-06-15 16:04:08] Database connection verified[2025-06-15 16:04:08] Processing POST request[2025-06-15 16:04:08] Client IP | Data: ::1[2025-06-15 16:04:08] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:04:08] Processing text-only request[2025-06-15 16:04:08] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-15 16:04:08] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:04:12] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 4851
+)
+[2025-06-15 16:04:12] Response processed | Data: Array
+(
+    [response_length] => 3247
+)
+[2025-06-15 16:04:12] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:04:49] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:04:49] Required files loaded successfully[2025-06-15 16:04:49] Constants check passed[2025-06-15 16:04:49] Database connection verified[2025-06-15 16:04:49] Processing POST request[2025-06-15 16:04:49] Client IP | Data: ::1[2025-06-15 16:04:49] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:04:49] Processing text-only request[2025-06-15 16:04:49] Prompt validated | Data: Array
+(
+    [length] => 38
+)
+[2025-06-15 16:04:49] Preparing for streaming[2025-06-15 16:04:49] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-15 16:04:49] Required files loaded successfully[2025-06-15 16:04:49] Constants check passed[2025-06-15 16:04:49] Database connection verified[2025-06-15 16:04:49] Processing GET streaming request[2025-06-15 16:04:49] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:04:56] Stream completed successfully[2025-06-15 16:04:57] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:04:57] Required files loaded successfully[2025-06-15 16:04:57] Constants check passed[2025-06-15 16:04:57] Database connection verified[2025-06-15 16:04:57] Processing POST request[2025-06-15 16:04:57] Client IP | Data: ::1[2025-06-15 16:04:57] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:04:57] Processing text-only request[2025-06-15 16:04:57] Prompt validated | Data: Array
+(
+    [length] => 38
+)
+[2025-06-15 16:04:57] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:05:03] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 3799
+)
+[2025-06-15 16:05:03] Response processed | Data: Array
+(
+    [response_length] => 2557
+)
+[2025-06-15 16:05:03] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:05:30] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:05:30] Required files loaded successfully[2025-06-15 16:05:30] Constants check passed[2025-06-15 16:05:30] Database connection verified[2025-06-15 16:05:30] Processing POST request[2025-06-15 16:05:30] Client IP | Data: ::1[2025-06-15 16:05:30] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:05:30] Processing text-only request[2025-06-15 16:05:30] Prompt validated | Data: Array
+(
+    [length] => 32
+)
+[2025-06-15 16:05:30] Preparing for streaming[2025-06-15 16:05:30] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-15 16:05:30] Required files loaded successfully[2025-06-15 16:05:30] Constants check passed[2025-06-15 16:05:30] Database connection verified[2025-06-15 16:05:30] Processing GET streaming request[2025-06-15 16:05:30] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:05:31] Stream completed successfully[2025-06-15 16:05:32] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:05:32] Required files loaded successfully[2025-06-15 16:05:32] Constants check passed[2025-06-15 16:05:32] Database connection verified[2025-06-15 16:05:32] Processing POST request[2025-06-15 16:05:32] Client IP | Data: ::1[2025-06-15 16:05:32] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:05:32] Processing text-only request[2025-06-15 16:05:32] Prompt validated | Data: Array
+(
+    [length] => 32
+)
+[2025-06-15 16:05:32] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:05:33] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 1330
+)
+[2025-06-15 16:05:33] Response processed | Data: Array
+(
+    [response_length] => 190
+)
+[2025-06-15 16:05:33] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:05:47] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:05:47] Required files loaded successfully[2025-06-15 16:05:47] Constants check passed[2025-06-15 16:05:47] Database connection verified[2025-06-15 16:05:47] Processing POST request[2025-06-15 16:05:47] Client IP | Data: ::1[2025-06-15 16:05:47] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:05:47] Processing text-only request[2025-06-15 16:05:47] Prompt validated | Data: Array
+(
+    [length] => 31
+)
+[2025-06-15 16:05:47] Preparing for streaming[2025-06-15 16:05:47] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-15 16:05:47] Required files loaded successfully[2025-06-15 16:05:47] Constants check passed[2025-06-15 16:05:47] Database connection verified[2025-06-15 16:05:47] Processing GET streaming request[2025-06-15 16:05:47] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:05:51] Stream completed successfully[2025-06-15 16:05:52] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:05:52] Required files loaded successfully[2025-06-15 16:05:52] Constants check passed[2025-06-15 16:05:52] Database connection verified[2025-06-15 16:05:52] Processing POST request[2025-06-15 16:05:52] Client IP | Data: ::1[2025-06-15 16:05:52] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:05:52] Processing text-only request[2025-06-15 16:05:52] Prompt validated | Data: Array
+(
+    [length] => 31
+)
+[2025-06-15 16:05:52] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:05:56] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 3902
+)
+[2025-06-15 16:05:56] Response processed | Data: Array
+(
+    [response_length] => 2756
+)
+[2025-06-15 16:05:56] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:06:19] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:06:19] Required files loaded successfully[2025-06-15 16:06:19] Constants check passed[2025-06-15 16:06:19] Database connection verified[2025-06-15 16:06:19] Processing POST request[2025-06-15 16:06:19] Client IP | Data: ::1[2025-06-15 16:06:19] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:06:19] Processing text-only request[2025-06-15 16:06:19] Prompt validated | Data: Array
+(
+    [length] => 49
+)
+[2025-06-15 16:06:19] Preparing for streaming[2025-06-15 16:06:19] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-15 16:06:19] Required files loaded successfully[2025-06-15 16:06:19] Constants check passed[2025-06-15 16:06:19] Database connection verified[2025-06-15 16:06:19] Processing GET streaming request[2025-06-15 16:06:19] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:06:23] Stream completed successfully[2025-06-15 16:06:24] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:06:24] Required files loaded successfully[2025-06-15 16:06:24] Constants check passed[2025-06-15 16:06:24] Database connection verified[2025-06-15 16:06:24] Processing POST request[2025-06-15 16:06:24] Client IP | Data: ::1[2025-06-15 16:06:24] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:06:24] Processing text-only request[2025-06-15 16:06:24] Prompt validated | Data: Array
+(
+    [length] => 49
+)
+[2025-06-15 16:06:24] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:06:27] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 3381
+)
+[2025-06-15 16:06:27] Response processed | Data: Array
+(
+    [response_length] => 2239
+)
+[2025-06-15 16:06:27] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:06:45] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:06:45] Required files loaded successfully[2025-06-15 16:06:45] Constants check passed[2025-06-15 16:06:45] Database connection verified[2025-06-15 16:06:45] Processing POST request[2025-06-15 16:06:45] Client IP | Data: ::1[2025-06-15 16:06:45] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:06:45] Processing text-only request[2025-06-15 16:06:45] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-15 16:06:45] Preparing for streaming[2025-06-15 16:06:45] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-15 16:06:45] Required files loaded successfully[2025-06-15 16:06:45] Constants check passed[2025-06-15 16:06:45] Database connection verified[2025-06-15 16:06:45] Processing GET streaming request[2025-06-15 16:06:45] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:06:47] Stream completed successfully[2025-06-15 16:06:48] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:06:48] Required files loaded successfully[2025-06-15 16:06:48] Constants check passed[2025-06-15 16:06:48] Database connection verified[2025-06-15 16:06:48] Processing POST request[2025-06-15 16:06:48] Client IP | Data: ::1[2025-06-15 16:06:48] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:06:48] Processing text-only request[2025-06-15 16:06:48] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-15 16:06:48] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:06:50] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 2011
+)
+[2025-06-15 16:06:50] Response processed | Data: Array
+(
+    [response_length] => 851
+)
+[2025-06-15 16:06:50] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:12:31] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:12:31] Required files loaded successfully[2025-06-15 16:12:31] Constants check passed[2025-06-15 16:12:31] Database connection verified[2025-06-15 16:12:31] Processing POST request[2025-06-15 16:12:31] Client IP | Data: ::1[2025-06-15 16:12:31] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:12:31] Processing text-only request[2025-06-15 16:12:31] Prompt validated | Data: Array
+(
+    [length] => 21
+)
+[2025-06-15 16:12:31] Preparing for streaming[2025-06-15 16:12:31] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-15 16:12:31] Required files loaded successfully[2025-06-15 16:12:31] Constants check passed[2025-06-15 16:12:31] Database connection verified[2025-06-15 16:12:31] Processing GET streaming request[2025-06-15 16:12:31] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:12:37] Stream completed successfully[2025-06-15 16:12:38] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:12:38] Required files loaded successfully[2025-06-15 16:12:38] Constants check passed[2025-06-15 16:12:38] Database connection verified[2025-06-15 16:12:38] Processing POST request[2025-06-15 16:12:38] Client IP | Data: ::1[2025-06-15 16:12:38] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:12:38] Processing text-only request[2025-06-15 16:12:38] Prompt validated | Data: Array
+(
+    [length] => 21
+)
+[2025-06-15 16:12:38] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:12:43] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 3986
+)
+[2025-06-15 16:12:43] Response processed | Data: Array
+(
+    [response_length] => 2800
+)
+[2025-06-15 16:12:43] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:12:45] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:12:45] Required files loaded successfully[2025-06-15 16:12:45] Constants check passed[2025-06-15 16:12:45] Database connection verified[2025-06-15 16:12:45] Processing POST request[2025-06-15 16:12:45] Client IP | Data: ::1[2025-06-15 16:12:45] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:12:45] Processing text-only request[2025-06-15 16:12:45] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-15 16:12:45] Preparing for streaming[2025-06-15 16:12:45] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-15 16:12:45] Required files loaded successfully[2025-06-15 16:12:45] Constants check passed[2025-06-15 16:12:45] Database connection verified[2025-06-15 16:12:45] Processing GET streaming request[2025-06-15 16:12:45] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:12:49] Stream completed successfully[2025-06-15 16:12:50] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:12:50] Required files loaded successfully[2025-06-15 16:12:50] Constants check passed[2025-06-15 16:12:50] Database connection verified[2025-06-15 16:12:50] Processing POST request[2025-06-15 16:12:50] Client IP | Data: ::1[2025-06-15 16:12:50] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:12:50] Processing text-only request[2025-06-15 16:12:50] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-15 16:12:50] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:12:55] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:12:55] Required files loaded successfully[2025-06-15 16:12:55] Constants check passed[2025-06-15 16:12:55] Database connection verified[2025-06-15 16:12:55] Processing POST request[2025-06-15 16:12:55] Client IP | Data: ::1[2025-06-15 16:12:55] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:12:55] Processing text-only request[2025-06-15 16:12:55] Prompt validated | Data: Array
+(
+    [length] => 12
+)
+[2025-06-15 16:12:55] Preparing for streaming[2025-06-15 16:12:55] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 5230
+)
+[2025-06-15 16:12:55] Response processed | Data: Array
+(
+    [response_length] => 3703
+)
+[2025-06-15 16:12:55] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:12:55] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-15 16:12:55] Required files loaded successfully[2025-06-15 16:12:55] Constants check passed[2025-06-15 16:12:55] Database connection verified[2025-06-15 16:12:55] Processing GET streaming request[2025-06-15 16:12:55] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:12:59] Stream completed successfully[2025-06-15 16:13:00] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:13:00] Required files loaded successfully[2025-06-15 16:13:00] Constants check passed[2025-06-15 16:13:00] Database connection verified[2025-06-15 16:13:00] Processing POST request[2025-06-15 16:13:00] Client IP | Data: ::1[2025-06-15 16:13:00] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:13:00] Processing text-only request[2025-06-15 16:13:00] Prompt validated | Data: Array
+(
+    [length] => 12
+)
+[2025-06-15 16:13:00] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:13:04] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 3989
+)
+[2025-06-15 16:13:04] Response processed | Data: Array
+(
+    [response_length] => 2588
+)
+[2025-06-15 16:13:04] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:14:14] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:14:14] Required files loaded successfully[2025-06-15 16:14:14] Constants check passed[2025-06-15 16:14:14] Database connection verified[2025-06-15 16:14:14] Processing POST request[2025-06-15 16:14:14] Client IP | Data: ::1[2025-06-15 16:14:14] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:14:14] Processing text-only request[2025-06-15 16:14:14] Prompt validated | Data: Array
+(
+    [length] => 14
+)
+[2025-06-15 16:14:14] Preparing for streaming[2025-06-15 16:14:14] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-15 16:14:14] Required files loaded successfully[2025-06-15 16:14:14] Constants check passed[2025-06-15 16:14:14] Database connection verified[2025-06-15 16:14:14] Processing GET streaming request[2025-06-15 16:14:14] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:14:14] Stream completed successfully[2025-06-15 16:14:15] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:14:16] Required files loaded successfully[2025-06-15 16:14:16] Constants check passed[2025-06-15 16:14:16] Database connection verified[2025-06-15 16:14:16] Processing POST request[2025-06-15 16:14:16] Client IP | Data: ::1[2025-06-15 16:14:16] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:14:16] Processing text-only request[2025-06-15 16:14:16] Prompt validated | Data: Array
+(
+    [length] => 14
+)
+[2025-06-15 16:14:16] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:14:16] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 1203
+)
+[2025-06-15 16:14:16] Response processed | Data: Array
+(
+    [response_length] => 69
+)
+[2025-06-15 16:14:16] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:18:19] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:18:19] Required files loaded successfully[2025-06-15 16:18:19] Constants check passed[2025-06-15 16:18:19] Database connection verified[2025-06-15 16:18:19] Processing POST request[2025-06-15 16:18:19] Client IP | Data: ::1[2025-06-15 16:18:19] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:18:19] Processing text-only request[2025-06-15 16:18:19] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-15 16:18:19] Preparing for streaming[2025-06-15 16:18:19] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-15 16:18:19] Required files loaded successfully[2025-06-15 16:18:19] Constants check passed[2025-06-15 16:18:19] Database connection verified[2025-06-15 16:18:19] Processing GET streaming request[2025-06-15 16:18:19] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:18:24] Stream completed successfully[2025-06-15 16:18:25] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:18:25] Required files loaded successfully[2025-06-15 16:18:25] Constants check passed[2025-06-15 16:18:25] Database connection verified[2025-06-15 16:18:25] Processing POST request[2025-06-15 16:18:25] Client IP | Data: ::1[2025-06-15 16:18:25] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:18:25] Processing text-only request[2025-06-15 16:18:25] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-15 16:18:25] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:18:30] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 4567
+)
+[2025-06-15 16:18:30] Response processed | Data: Array
+(
+    [response_length] => 3409
+)
+[2025-06-15 16:18:30] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:20:41] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:20:41] Required files loaded successfully[2025-06-15 16:20:41] Constants check passed[2025-06-15 16:20:41] Database connection verified[2025-06-15 16:20:41] Processing POST request[2025-06-15 16:20:41] Client IP | Data: ::1[2025-06-15 16:20:41] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:20:41] Processing text-only request[2025-06-15 16:20:41] Prompt validated | Data: Array
+(
+    [length] => 23
+)
+[2025-06-15 16:20:41] Preparing for streaming[2025-06-15 16:20:41] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-15 16:20:41] Required files loaded successfully[2025-06-15 16:20:41] Constants check passed[2025-06-15 16:20:41] Database connection verified[2025-06-15 16:20:41] Processing GET streaming request[2025-06-15 16:20:41] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:20:43] Stream completed successfully[2025-06-15 16:20:44] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-15 16:20:44] Required files loaded successfully[2025-06-15 16:20:44] Constants check passed[2025-06-15 16:20:44] Database connection verified[2025-06-15 16:20:44] Processing POST request[2025-06-15 16:20:44] Client IP | Data: ::1[2025-06-15 16:20:44] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-15 16:20:44] Processing text-only request[2025-06-15 16:20:44] Prompt validated | Data: Array
+(
+    [length] => 23
+)
+[2025-06-15 16:20:44] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-15 16:20:46] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 2018
+)
+[2025-06-15 16:20:46] Response processed | Data: Array
+(
+    [response_length] => 864
+)
+[2025-06-15 16:20:46] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 13:34:17] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 13:34:17] Required files loaded successfully[2025-06-16 13:34:17] Constants check passed[2025-06-16 13:34:17] Database connection verified[2025-06-16 13:34:17] Processing POST request[2025-06-16 13:34:17] Client IP | Data: ::1[2025-06-16 13:34:17] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 13:34:17] Processing text-only request[2025-06-16 13:34:17] Prompt validated | Data: Array
+(
+    [length] => 23
+)
+[2025-06-16 13:34:17] Preparing for streaming[2025-06-16 13:34:17] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 13:34:17] Required files loaded successfully[2025-06-16 13:34:17] Constants check passed[2025-06-16 13:34:17] Database connection verified[2025-06-16 13:34:17] Processing GET streaming request[2025-06-16 13:34:17] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 13:34:21] Stream completed successfully[2025-06-16 13:34:22] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 13:34:22] Required files loaded successfully[2025-06-16 13:34:22] Constants check passed[2025-06-16 13:34:22] Database connection verified[2025-06-16 13:34:22] Processing POST request[2025-06-16 13:34:22] Client IP | Data: ::1[2025-06-16 13:34:22] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 13:34:22] Processing text-only request[2025-06-16 13:34:22] Prompt validated | Data: Array
+(
+    [length] => 23
+)
+[2025-06-16 13:34:22] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 13:34:22] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 13:34:25] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 1956
+)
+[2025-06-16 13:34:25] Response processed | Data: Array
+(
+    [response_length] => 802
+)
+[2025-06-16 13:34:25] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 13:34:25] Required files loaded successfully[2025-06-16 13:34:25] Constants check passed[2025-06-16 13:34:25] Database connection verified[2025-06-16 13:34:25] Processing POST request[2025-06-16 13:34:25] Client IP | Data: ::1[2025-06-16 13:34:25] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 13:34:25] Processing text-only request[2025-06-16 13:34:25] Prompt validated | Data: Array
+(
+    [length] => 23
+)
+[2025-06-16 13:34:25] Preparing for streaming[2025-06-16 13:34:25] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 13:34:25] Required files loaded successfully[2025-06-16 13:34:25] Constants check passed[2025-06-16 13:34:25] Database connection verified[2025-06-16 13:34:25] Processing GET streaming request[2025-06-16 13:34:25] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 13:34:25] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 13:34:28] Stream completed successfully[2025-06-16 13:34:28] Required files loaded successfully[2025-06-16 13:34:29] Constants check passed[2025-06-16 13:34:29] Database connection verified[2025-06-16 13:34:29] Processing POST request[2025-06-16 13:34:29] Client IP | Data: ::1[2025-06-16 13:34:29] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 13:34:29] Processing text-only request[2025-06-16 13:34:29] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-16 13:34:29] Preparing for streaming[2025-06-16 13:34:29] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 13:34:29] Required files loaded successfully[2025-06-16 13:34:29] Constants check passed[2025-06-16 13:34:29] Database connection verified[2025-06-16 13:34:29] Processing GET streaming request[2025-06-16 13:34:29] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 13:34:29] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 13:34:35] Stream completed successfully[2025-06-16 13:34:35] Required files loaded successfully[2025-06-16 13:34:35] Constants check passed[2025-06-16 13:34:35] Database connection verified[2025-06-16 13:34:35] Processing POST request[2025-06-16 13:34:35] Client IP | Data: ::1[2025-06-16 13:34:35] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 13:34:35] Processing text-only request[2025-06-16 13:34:35] Prompt validated | Data: Array
+(
+    [length] => 23
+)
+[2025-06-16 13:34:35] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 13:34:36] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 13:34:38] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 1957
+)
+[2025-06-16 13:34:38] Response processed | Data: Array
+(
+    [response_length] => 803
+)
+[2025-06-16 13:34:38] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 13:34:38] Required files loaded successfully[2025-06-16 13:34:38] Constants check passed[2025-06-16 13:34:38] Database connection verified[2025-06-16 13:34:38] Processing POST request[2025-06-16 13:34:38] Client IP | Data: ::1[2025-06-16 13:34:38] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 13:34:38] Processing text-only request[2025-06-16 13:34:38] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-16 13:34:38] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 13:34:44] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 5219
+)
+[2025-06-16 13:34:44] Response processed | Data: Array
+(
+    [response_length] => 3700
+)
+[2025-06-16 13:34:44] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 13:44:58] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 13:44:58] Required files loaded successfully[2025-06-16 13:44:58] Constants check passed[2025-06-16 13:44:58] Database connection verified[2025-06-16 13:44:58] Processing POST request[2025-06-16 13:44:58] Client IP | Data: ::1[2025-06-16 13:44:58] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 13:44:58] Processing text-only request[2025-06-16 13:44:58] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-16 13:44:58] Preparing for streaming[2025-06-16 13:44:58] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 13:44:58] Required files loaded successfully[2025-06-16 13:44:58] Constants check passed[2025-06-16 13:44:58] Database connection verified[2025-06-16 13:44:58] Processing GET streaming request[2025-06-16 13:44:58] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 13:45:04] Stream completed successfully[2025-06-16 13:45:05] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 13:45:05] Required files loaded successfully[2025-06-16 13:45:05] Constants check passed[2025-06-16 13:45:05] Database connection verified[2025-06-16 13:45:05] Processing GET streaming request[2025-06-16 13:45:05] No pending prompt found in session | Data: Array
+(
+)
+[2025-06-16 13:45:05] Main execution error | Data: No pending prompt found for streaming[2025-06-16 13:45:07] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 13:45:07] Required files loaded successfully[2025-06-16 13:45:07] Constants check passed[2025-06-16 13:45:07] Database connection verified[2025-06-16 13:45:07] Processing GET streaming request[2025-06-16 13:45:07] No pending prompt found in session | Data: Array
+(
+)
+[2025-06-16 13:45:07] Main execution error | Data: No pending prompt found for streaming[2025-06-16 13:45:08] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 13:45:08] Required files loaded successfully[2025-06-16 13:45:08] Constants check passed[2025-06-16 13:45:08] Database connection verified[2025-06-16 13:45:08] Processing POST request[2025-06-16 13:45:08] Client IP | Data: ::1[2025-06-16 13:45:08] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 13:45:08] Processing text-only request[2025-06-16 13:45:08] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-16 13:45:08] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 13:45:13] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 4697
+)
+[2025-06-16 13:45:13] Response processed | Data: Array
+(
+    [response_length] => 3533
+)
+[2025-06-16 13:45:13] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 13:45:21] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 13:45:21] Required files loaded successfully[2025-06-16 13:45:21] Constants check passed[2025-06-16 13:45:21] Database connection verified[2025-06-16 13:45:21] Processing POST request[2025-06-16 13:45:21] Client IP | Data: ::1[2025-06-16 13:45:21] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 13:45:21] Processing text-only request[2025-06-16 13:45:21] Prompt validated | Data: Array
+(
+    [length] => 14
+)
+[2025-06-16 13:45:21] Preparing for streaming[2025-06-16 13:45:21] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 13:45:21] Required files loaded successfully[2025-06-16 13:45:21] Constants check passed[2025-06-16 13:45:21] Database connection verified[2025-06-16 13:45:21] Processing GET streaming request[2025-06-16 13:45:21] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 13:45:23] Stream completed successfully[2025-06-16 13:45:24] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 13:45:24] Required files loaded successfully[2025-06-16 13:45:24] Constants check passed[2025-06-16 13:45:24] Database connection verified[2025-06-16 13:45:24] Processing GET streaming request[2025-06-16 13:45:24] No pending prompt found in session | Data: Array
+(
+)
+[2025-06-16 13:45:24] Main execution error | Data: No pending prompt found for streaming[2025-06-16 13:45:26] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 13:45:26] Required files loaded successfully[2025-06-16 13:45:26] Constants check passed[2025-06-16 13:45:26] Database connection verified[2025-06-16 13:45:26] Processing GET streaming request[2025-06-16 13:45:26] No pending prompt found in session | Data: Array
+(
+)
+[2025-06-16 13:45:26] Main execution error | Data: No pending prompt found for streaming[2025-06-16 13:45:27] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 13:45:27] Required files loaded successfully[2025-06-16 13:45:27] Constants check passed[2025-06-16 13:45:27] Database connection verified[2025-06-16 13:45:27] Processing POST request[2025-06-16 13:45:27] Client IP | Data: ::1[2025-06-16 13:45:27] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 13:45:27] Processing text-only request[2025-06-16 13:45:27] Prompt validated | Data: Array
+(
+    [length] => 14
+)
+[2025-06-16 13:45:27] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 13:45:29] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 1203
+)
+[2025-06-16 13:45:29] Response processed | Data: Array
+(
+    [response_length] => 69
+)
+[2025-06-16 13:45:29] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:04:48] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:04:48] Required files loaded successfully[2025-06-16 14:04:48] Constants check passed[2025-06-16 14:04:48] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:04:48] Processing POST request[2025-06-16 14:04:48] Client IP | Data: ::1[2025-06-16 14:04:48] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:04:48] Processing text-only request[2025-06-16 14:04:48] Prompt validated | Data: Array
+(
+    [length] => 17
+)
+[2025-06-16 14:04:48] Preparing for streaming[2025-06-16 14:04:48] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:04:48] Required files loaded successfully[2025-06-16 14:04:48] Constants check passed[2025-06-16 14:04:48] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:04:48] Processing GET streaming request[2025-06-16 14:04:48] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:04:51] Stream completed successfully[2025-06-16 14:04:52] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:04:52] Required files loaded successfully[2025-06-16 14:04:52] Constants check passed[2025-06-16 14:04:52] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:04:52] Processing GET streaming request[2025-06-16 14:04:52] No pending prompt found in session | Data: Array
+(
+    [test] => working
+)
+[2025-06-16 14:04:52] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:04:54] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:04:54] Required files loaded successfully[2025-06-16 14:04:54] Constants check passed[2025-06-16 14:04:54] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:04:54] Processing GET streaming request[2025-06-16 14:04:54] No pending prompt found in session | Data: Array
+(
+    [test] => working
+)
+[2025-06-16 14:04:54] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:04:55] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:04:55] Required files loaded successfully[2025-06-16 14:04:55] Constants check passed[2025-06-16 14:04:55] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:04:55] Processing POST request[2025-06-16 14:04:55] Client IP | Data: ::1[2025-06-16 14:04:55] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:04:55] Processing text-only request[2025-06-16 14:04:55] Prompt validated | Data: Array
+(
+    [length] => 17
+)
+[2025-06-16 14:04:55] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:04:58] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 1886
+)
+[2025-06-16 14:04:58] Response processed | Data: Array
+(
+    [response_length] => 743
+)
+[2025-06-16 14:04:58] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:05:06] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:05:06] Required files loaded successfully[2025-06-16 14:05:06] Constants check passed[2025-06-16 14:05:06] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:05:06] Processing POST request[2025-06-16 14:05:06] Client IP | Data: ::1[2025-06-16 14:05:06] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:05:06] Processing text-only request[2025-06-16 14:05:06] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-16 14:05:06] Preparing for streaming[2025-06-16 14:05:06] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:05:06] Required files loaded successfully[2025-06-16 14:05:06] Constants check passed[2025-06-16 14:05:06] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:05:06] Processing GET streaming request[2025-06-16 14:05:06] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:05:13] Stream completed successfully[2025-06-16 14:05:14] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:05:14] Required files loaded successfully[2025-06-16 14:05:14] Constants check passed[2025-06-16 14:05:14] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:05:14] Processing GET streaming request[2025-06-16 14:05:14] No pending prompt found in session | Data: Array
+(
+    [test] => working
+)
+[2025-06-16 14:05:14] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:05:16] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:05:16] Required files loaded successfully[2025-06-16 14:05:16] Constants check passed[2025-06-16 14:05:16] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:05:16] Processing GET streaming request[2025-06-16 14:05:16] No pending prompt found in session | Data: Array
+(
+    [test] => working
+)
+[2025-06-16 14:05:16] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:05:17] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:05:17] Required files loaded successfully[2025-06-16 14:05:17] Constants check passed[2025-06-16 14:05:17] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:05:17] Processing POST request[2025-06-16 14:05:17] Client IP | Data: ::1[2025-06-16 14:05:17] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:05:17] Processing text-only request[2025-06-16 14:05:17] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-16 14:05:17] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:05:22] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 4632
+)
+[2025-06-16 14:05:22] Response processed | Data: Array
+(
+    [response_length] => 3468
+)
+[2025-06-16 14:05:22] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:05:35] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:05:35] Required files loaded successfully[2025-06-16 14:05:35] Constants check passed[2025-06-16 14:05:35] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:05:35] Processing POST request[2025-06-16 14:05:35] Client IP | Data: ::1[2025-06-16 14:05:35] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:05:35] Processing text-only request[2025-06-16 14:05:35] Prompt validated | Data: Array
+(
+    [length] => 16
+)
+[2025-06-16 14:05:35] Preparing for streaming[2025-06-16 14:05:35] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:05:35] Required files loaded successfully[2025-06-16 14:05:35] Constants check passed[2025-06-16 14:05:35] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:05:35] Processing GET streaming request[2025-06-16 14:05:35] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:05:38] Stream completed successfully[2025-06-16 14:05:39] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:05:39] Required files loaded successfully[2025-06-16 14:05:39] Constants check passed[2025-06-16 14:05:39] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:05:39] Processing GET streaming request[2025-06-16 14:05:39] No pending prompt found in session | Data: Array
+(
+    [test] => working
+)
+[2025-06-16 14:05:39] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:05:41] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:05:41] Required files loaded successfully[2025-06-16 14:05:41] Constants check passed[2025-06-16 14:05:41] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:05:41] Processing GET streaming request[2025-06-16 14:05:41] No pending prompt found in session | Data: Array
+(
+    [test] => working
+)
+[2025-06-16 14:05:41] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:05:42] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:05:42] Required files loaded successfully[2025-06-16 14:05:42] Constants check passed[2025-06-16 14:05:42] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:05:42] Processing POST request[2025-06-16 14:05:42] Client IP | Data: ::1[2025-06-16 14:05:42] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:05:42] Processing text-only request[2025-06-16 14:05:42] Prompt validated | Data: Array
+(
+    [length] => 16
+)
+[2025-06-16 14:05:42] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:05:45] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 1809
+)
+[2025-06-16 14:05:45] Response processed | Data: Array
+(
+    [response_length] => 669
+)
+[2025-06-16 14:05:45] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:08:17] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:08:17] Required files loaded successfully[2025-06-16 14:08:17] Constants check passed[2025-06-16 14:08:17] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:08:17] Processing POST request[2025-06-16 14:08:17] Client IP | Data: ::1[2025-06-16 14:08:17] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:08:17] Processing text-only request[2025-06-16 14:08:17] Prompt validated | Data: Array
+(
+    [length] => 23
+)
+[2025-06-16 14:08:17] Preparing for streaming[2025-06-16 14:08:17] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:08:17] Required files loaded successfully[2025-06-16 14:08:17] Constants check passed[2025-06-16 14:08:17] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:08:17] Processing GET streaming request[2025-06-16 14:08:17] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:08:19] Stream completed successfully[2025-06-16 14:08:21] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:08:21] Required files loaded successfully[2025-06-16 14:08:21] Constants check passed[2025-06-16 14:08:21] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:08:21] Processing GET streaming request[2025-06-16 14:08:21] No pending prompt found in session | Data: Array
+(
+    [test] => working
+)
+[2025-06-16 14:08:21] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:08:23] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:08:23] Required files loaded successfully[2025-06-16 14:08:23] Constants check passed[2025-06-16 14:08:23] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:08:23] Processing GET streaming request[2025-06-16 14:08:23] No pending prompt found in session | Data: Array
+(
+    [test] => working
+)
+[2025-06-16 14:08:23] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:08:24] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:08:24] Required files loaded successfully[2025-06-16 14:08:24] Constants check passed[2025-06-16 14:08:24] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:08:24] Processing POST request[2025-06-16 14:08:24] Client IP | Data: ::1[2025-06-16 14:08:24] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:08:24] Processing text-only request[2025-06-16 14:08:24] Prompt validated | Data: Array
+(
+    [length] => 23
+)
+[2025-06-16 14:08:24] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:08:28] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 2035
+)
+[2025-06-16 14:08:28] Response processed | Data: Array
+(
+    [response_length] => 882
+)
+[2025-06-16 14:08:28] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:08:28] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:08:28] Required files loaded successfully[2025-06-16 14:08:28] Constants check passed[2025-06-16 14:08:28] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:08:28] Processing POST request[2025-06-16 14:08:28] Client IP | Data: ::1[2025-06-16 14:08:28] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:08:28] Processing text-only request[2025-06-16 14:08:28] Prompt validated | Data: Array
+(
+    [length] => 29
+)
+[2025-06-16 14:08:28] Preparing for streaming[2025-06-16 14:08:28] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:08:28] Required files loaded successfully[2025-06-16 14:08:28] Constants check passed[2025-06-16 14:08:28] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:08:28] Processing GET streaming request[2025-06-16 14:08:28] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:08:34] Stream completed successfully[2025-06-16 14:08:35] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:08:35] Required files loaded successfully[2025-06-16 14:08:35] Constants check passed[2025-06-16 14:08:35] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:08:35] Processing GET streaming request[2025-06-16 14:08:35] No pending prompt found in session | Data: Array
+(
+    [test] => working
+)
+[2025-06-16 14:08:35] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:08:37] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:08:37] Required files loaded successfully[2025-06-16 14:08:37] Constants check passed[2025-06-16 14:08:37] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:08:37] Processing GET streaming request[2025-06-16 14:08:37] No pending prompt found in session | Data: Array
+(
+    [test] => working
+)
+[2025-06-16 14:08:37] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:08:38] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:08:38] Required files loaded successfully[2025-06-16 14:08:38] Constants check passed[2025-06-16 14:08:38] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:08:38] Processing POST request[2025-06-16 14:08:38] Client IP | Data: ::1[2025-06-16 14:08:38] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:08:38] Processing text-only request[2025-06-16 14:08:38] Prompt validated | Data: Array
+(
+    [length] => 29
+)
+[2025-06-16 14:08:38] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:08:45] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 4209
+)
+[2025-06-16 14:08:45] Response processed | Data: Array
+(
+    [response_length] => 2909
+)
+[2025-06-16 14:08:45] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:08:55] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:08:55] Required files loaded successfully[2025-06-16 14:08:55] Constants check passed[2025-06-16 14:08:55] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:08:55] Processing POST request[2025-06-16 14:08:55] Client IP | Data: ::1[2025-06-16 14:08:55] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:08:55] Processing text-only request[2025-06-16 14:08:55] Prompt validated | Data: Array
+(
+    [length] => 6
+)
+[2025-06-16 14:08:55] Preparing for streaming[2025-06-16 14:08:55] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:08:55] Required files loaded successfully[2025-06-16 14:08:55] Constants check passed[2025-06-16 14:08:55] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:08:55] Processing GET streaming request[2025-06-16 14:08:55] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:08:57] Stream completed successfully[2025-06-16 14:08:58] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:08:58] Required files loaded successfully[2025-06-16 14:08:58] Constants check passed[2025-06-16 14:08:58] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:08:58] Processing GET streaming request[2025-06-16 14:08:58] No pending prompt found in session | Data: Array
+(
+    [test] => working
+)
+[2025-06-16 14:08:58] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:09:03] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:09:03] Required files loaded successfully[2025-06-16 14:09:03] Constants check passed[2025-06-16 14:09:03] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:09:03] Processing GET streaming request[2025-06-16 14:09:03] No pending prompt found in session | Data: Array
+(
+    [test] => working
+)
+[2025-06-16 14:09:03] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:09:05] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:09:05] Required files loaded successfully[2025-06-16 14:09:05] Constants check passed[2025-06-16 14:09:05] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:09:05] Processing POST request[2025-06-16 14:09:05] Client IP | Data: ::1[2025-06-16 14:09:05] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:09:05] Processing text-only request[2025-06-16 14:09:05] Prompt validated | Data: Array
+(
+    [length] => 6
+)
+[2025-06-16 14:09:05] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:09:08] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 1834
+)
+[2025-06-16 14:09:08] Response processed | Data: Array
+(
+    [response_length] => 680
+)
+[2025-06-16 14:09:08] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:09:47] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:09:47] Required files loaded successfully[2025-06-16 14:09:47] Constants check passed[2025-06-16 14:09:47] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:09:47] Processing POST request[2025-06-16 14:09:47] Client IP | Data: ::1[2025-06-16 14:09:47] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:09:47] Processing text-only request[2025-06-16 14:09:47] Prompt validated | Data: Array
+(
+    [length] => 41
+)
+[2025-06-16 14:09:47] Preparing for streaming[2025-06-16 14:09:47] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:09:47] Required files loaded successfully[2025-06-16 14:09:47] Constants check passed[2025-06-16 14:09:47] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:09:47] Processing GET streaming request[2025-06-16 14:09:47] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:09:55] Stream completed successfully[2025-06-16 14:09:56] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:09:56] Required files loaded successfully[2025-06-16 14:09:56] Constants check passed[2025-06-16 14:09:56] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:09:56] Processing GET streaming request[2025-06-16 14:09:56] No pending prompt found in session | Data: Array
+(
+    [test] => working
+)
+[2025-06-16 14:09:56] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:09:58] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:09:58] Required files loaded successfully[2025-06-16 14:09:58] Constants check passed[2025-06-16 14:09:58] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:09:58] Processing GET streaming request[2025-06-16 14:09:58] No pending prompt found in session | Data: Array
+(
+    [test] => working
+)
+[2025-06-16 14:09:58] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:09:59] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:09:59] Required files loaded successfully[2025-06-16 14:09:59] Constants check passed[2025-06-16 14:09:59] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:09:59] Processing POST request[2025-06-16 14:09:59] Client IP | Data: ::1[2025-06-16 14:09:59] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:09:59] Processing text-only request[2025-06-16 14:09:59] Prompt validated | Data: Array
+(
+    [length] => 41
+)
+[2025-06-16 14:09:59] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:10:08] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 5315
+)
+[2025-06-16 14:10:08] Response processed | Data: Array
+(
+    [response_length] => 3039
+)
+[2025-06-16 14:10:08] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:13:03] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:13:03] Required files loaded successfully[2025-06-16 14:13:03] Constants check passed[2025-06-16 14:13:03] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:13:03] Processing POST request[2025-06-16 14:13:03] Client IP | Data: ::1[2025-06-16 14:13:03] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:13:03] Processing text-only request[2025-06-16 14:13:03] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-16 14:13:03] Preparing for streaming[2025-06-16 14:13:03] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:13:03] Required files loaded successfully[2025-06-16 14:13:03] Constants check passed[2025-06-16 14:13:03] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:13:03] Processing GET streaming request[2025-06-16 14:13:03] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:13:07] Stream completed successfully[2025-06-16 14:13:08] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:13:08] Required files loaded successfully[2025-06-16 14:13:08] Constants check passed[2025-06-16 14:13:08] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:13:08] Processing GET streaming request[2025-06-16 14:13:08] No pending prompt found in session | Data: Array
+(
+)
+[2025-06-16 14:13:08] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:13:10] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:13:10] Required files loaded successfully[2025-06-16 14:13:10] Constants check passed[2025-06-16 14:13:10] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:13:10] Processing GET streaming request[2025-06-16 14:13:10] No pending prompt found in session | Data: Array
+(
+)
+[2025-06-16 14:13:10] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:13:11] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:13:11] Required files loaded successfully[2025-06-16 14:13:11] Constants check passed[2025-06-16 14:13:11] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:13:11] Processing POST request[2025-06-16 14:13:11] Client IP | Data: ::1[2025-06-16 14:13:11] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:13:11] Processing text-only request[2025-06-16 14:13:11] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-16 14:13:11] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:13:15] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 2002
+)
+[2025-06-16 14:13:15] Response processed | Data: Array
+(
+    [response_length] => 842
+)
+[2025-06-16 14:13:15] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:13:49] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => multipart/form-data; boundary=----WebKitFormBoundaryMIdQH6F1aGDsyTBL
+)
+[2025-06-16 14:13:49] Required files loaded successfully[2025-06-16 14:13:49] Constants check passed[2025-06-16 14:13:49] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:13:49] Processing POST request[2025-06-16 14:13:49] Client IP | Data: ::1[2025-06-16 14:13:49] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:13:49] Processing file upload[2025-06-16 14:13:49] Prompt validated | Data: Array
+(
+    [length] => 15
+)
+[2025-06-16 14:13:49] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:13:54] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 2052
+)
+[2025-06-16 14:13:54] Response processed | Data: Array
+(
+    [response_length] => 833
+)
+[2025-06-16 14:13:54] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:14:05] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:14:05] Required files loaded successfully[2025-06-16 14:14:05] Constants check passed[2025-06-16 14:14:05] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:14:05] Processing POST request[2025-06-16 14:14:05] Client IP | Data: ::1[2025-06-16 14:14:05] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:14:05] Processing text-only request[2025-06-16 14:14:05] Prompt validated | Data: Array
+(
+    [length] => 17
+)
+[2025-06-16 14:14:05] Preparing for streaming[2025-06-16 14:14:05] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:14:05] Required files loaded successfully[2025-06-16 14:14:05] Constants check passed[2025-06-16 14:14:05] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:14:05] Processing GET streaming request[2025-06-16 14:14:05] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:14:08] Stream completed successfully[2025-06-16 14:14:09] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:14:09] Required files loaded successfully[2025-06-16 14:14:09] Constants check passed[2025-06-16 14:14:09] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:14:09] Processing GET streaming request[2025-06-16 14:14:09] No pending prompt found in session | Data: Array
+(
+)
+[2025-06-16 14:14:09] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:14:11] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:14:11] Required files loaded successfully[2025-06-16 14:14:11] Constants check passed[2025-06-16 14:14:11] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:14:11] Processing GET streaming request[2025-06-16 14:14:11] No pending prompt found in session | Data: Array
+(
+)
+[2025-06-16 14:14:11] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:14:12] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:14:12] Required files loaded successfully[2025-06-16 14:14:12] Constants check passed[2025-06-16 14:14:12] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:14:12] Processing POST request[2025-06-16 14:14:12] Client IP | Data: ::1[2025-06-16 14:14:12] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:14:12] Processing text-only request[2025-06-16 14:14:12] Prompt validated | Data: Array
+(
+    [length] => 17
+)
+[2025-06-16 14:14:12] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:14:15] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 1948
+)
+[2025-06-16 14:14:15] Response processed | Data: Array
+(
+    [response_length] => 806
+)
+[2025-06-16 14:14:15] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:16:07] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:16:07] Required files loaded successfully[2025-06-16 14:16:07] Constants check passed[2025-06-16 14:16:07] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:16:07] Processing POST request[2025-06-16 14:16:07] Client IP | Data: ::1[2025-06-16 14:16:07] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:16:07] Processing text-only request[2025-06-16 14:16:07] Prompt validated | Data: Array
+(
+    [length] => 23
+)
+[2025-06-16 14:16:07] Preparing for streaming[2025-06-16 14:16:07] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:16:07] Required files loaded successfully[2025-06-16 14:16:07] Constants check passed[2025-06-16 14:16:07] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:16:07] Processing GET streaming request[2025-06-16 14:16:07] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:16:10] Stream completed successfully[2025-06-16 14:16:11] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:16:11] Required files loaded successfully[2025-06-16 14:16:11] Constants check passed[2025-06-16 14:16:11] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:16:11] Processing GET streaming request[2025-06-16 14:16:11] No pending prompt found in session | Data: Array
+(
+)
+[2025-06-16 14:16:11] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:16:13] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:16:13] Required files loaded successfully[2025-06-16 14:16:13] Constants check passed[2025-06-16 14:16:13] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:16:13] Processing GET streaming request[2025-06-16 14:16:13] No pending prompt found in session | Data: Array
+(
+)
+[2025-06-16 14:16:13] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:16:14] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:16:14] Required files loaded successfully[2025-06-16 14:16:14] Constants check passed[2025-06-16 14:16:14] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:16:14] Processing POST request[2025-06-16 14:16:14] Client IP | Data: ::1[2025-06-16 14:16:14] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:16:14] Processing text-only request[2025-06-16 14:16:14] Prompt validated | Data: Array
+(
+    [length] => 23
+)
+[2025-06-16 14:16:14] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:16:17] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 1951
+)
+[2025-06-16 14:16:17] Response processed | Data: Array
+(
+    [response_length] => 797
+)
+[2025-06-16 14:16:17] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:16:36] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:16:36] Required files loaded successfully[2025-06-16 14:16:36] Constants check passed[2025-06-16 14:16:36] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:16:36] Processing POST request[2025-06-16 14:16:36] Client IP | Data: ::1[2025-06-16 14:16:36] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:16:36] Processing text-only request[2025-06-16 14:16:36] Prompt validated | Data: Array
+(
+    [length] => 29
+)
+[2025-06-16 14:16:36] Preparing for streaming[2025-06-16 14:16:36] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:16:36] Required files loaded successfully[2025-06-16 14:16:36] Constants check passed[2025-06-16 14:16:36] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:16:36] Processing GET streaming request[2025-06-16 14:16:36] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:16:44] Stream completed successfully[2025-06-16 14:16:45] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:16:45] Required files loaded successfully[2025-06-16 14:16:45] Constants check passed[2025-06-16 14:16:45] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:16:45] Processing GET streaming request[2025-06-16 14:16:45] No pending prompt found in session | Data: Array
+(
+)
+[2025-06-16 14:16:45] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:16:47] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:16:47] Required files loaded successfully[2025-06-16 14:16:47] Constants check passed[2025-06-16 14:16:47] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:16:47] Processing GET streaming request[2025-06-16 14:16:47] No pending prompt found in session | Data: Array
+(
+)
+[2025-06-16 14:16:47] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:16:48] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:16:48] Required files loaded successfully[2025-06-16 14:16:48] Constants check passed[2025-06-16 14:16:48] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:16:48] Processing POST request[2025-06-16 14:16:48] Client IP | Data: ::1[2025-06-16 14:16:48] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:16:48] Processing text-only request[2025-06-16 14:16:48] Prompt validated | Data: Array
+(
+    [length] => 29
+)
+[2025-06-16 14:16:48] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:16:55] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 4036
+)
+[2025-06-16 14:16:55] Response processed | Data: Array
+(
+    [response_length] => 2291
+)
+[2025-06-16 14:16:55] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:25:30] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:25:30] Required files loaded successfully[2025-06-16 14:25:30] Constants check passed[2025-06-16 14:25:30] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:25:30] Processing POST request[2025-06-16 14:25:30] Client IP | Data: ::1[2025-06-16 14:25:30] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:25:30] Processing text-only request[2025-06-16 14:25:30] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-16 14:25:30] Preparing for streaming[2025-06-16 14:25:30] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:25:30] Required files loaded successfully[2025-06-16 14:25:30] Constants check passed[2025-06-16 14:25:30] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:25:30] Processing GET streaming request[2025-06-16 14:25:30] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:25:34] Stream completed successfully[2025-06-16 14:25:38] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:25:38] Required files loaded successfully[2025-06-16 14:25:38] Constants check passed[2025-06-16 14:25:38] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:25:38] Processing GET streaming request[2025-06-16 14:25:38] No pending prompt found in session | Data: Array
+(
+)
+[2025-06-16 14:25:38] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:25:40] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:25:40] Required files loaded successfully[2025-06-16 14:25:40] Constants check passed[2025-06-16 14:25:40] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:25:40] Processing GET streaming request[2025-06-16 14:25:40] No pending prompt found in session | Data: Array
+(
+)
+[2025-06-16 14:25:40] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:25:42] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:25:42] Required files loaded successfully[2025-06-16 14:25:42] Constants check passed[2025-06-16 14:25:42] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:25:42] Processing POST request[2025-06-16 14:25:42] Client IP | Data: ::1[2025-06-16 14:25:42] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:25:42] Processing text-only request[2025-06-16 14:25:42] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-16 14:25:42] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:25:45] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 2193
+)
+[2025-06-16 14:25:45] Response processed | Data: Array
+(
+    [response_length] => 1034
+)
+[2025-06-16 14:25:46] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:26:05] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:26:05] Required files loaded successfully[2025-06-16 14:26:05] Constants check passed[2025-06-16 14:26:05] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:26:05] Processing POST request[2025-06-16 14:26:05] Client IP | Data: ::1[2025-06-16 14:26:05] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:26:05] Processing text-only request[2025-06-16 14:26:05] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-16 14:26:05] Preparing for streaming[2025-06-16 14:26:05] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:26:05] Required files loaded successfully[2025-06-16 14:26:05] Constants check passed[2025-06-16 14:26:05] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:26:05] Processing GET streaming request[2025-06-16 14:26:05] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:26:12] Stream completed successfully[2025-06-16 14:26:13] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:26:13] Required files loaded successfully[2025-06-16 14:26:13] Constants check passed[2025-06-16 14:26:13] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:26:13] Processing GET streaming request[2025-06-16 14:26:13] No pending prompt found in session | Data: Array
+(
+)
+[2025-06-16 14:26:13] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:26:15] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:26:15] Required files loaded successfully[2025-06-16 14:26:15] Constants check passed[2025-06-16 14:26:15] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:26:15] Processing GET streaming request[2025-06-16 14:26:15] No pending prompt found in session | Data: Array
+(
+)
+[2025-06-16 14:26:15] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:26:16] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:26:16] Required files loaded successfully[2025-06-16 14:26:16] Constants check passed[2025-06-16 14:26:16] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:26:16] Processing POST request[2025-06-16 14:26:16] Client IP | Data: ::1[2025-06-16 14:26:16] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:26:16] Processing text-only request[2025-06-16 14:26:16] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-16 14:26:16] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:26:20] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 4524
+)
+[2025-06-16 14:26:20] Response processed | Data: Array
+(
+    [response_length] => 3359
+)
+[2025-06-16 14:26:20] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:33:49] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:33:49] Required files loaded successfully[2025-06-16 14:33:49] Constants check passed[2025-06-16 14:33:49] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:33:49] Processing POST request[2025-06-16 14:33:49] Client IP | Data: ::1[2025-06-16 14:33:49] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:33:49] Processing text-only request[2025-06-16 14:33:49] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-16 14:33:49] Preparing for streaming[2025-06-16 14:33:49] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:33:49] Required files loaded successfully[2025-06-16 14:33:49] Constants check passed[2025-06-16 14:33:49] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:33:49] Processing GET streaming request[2025-06-16 14:33:49] Starting stream response | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:33:56] Stream completed successfully[2025-06-16 14:33:57] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:33:57] Required files loaded successfully[2025-06-16 14:33:57] Constants check passed[2025-06-16 14:33:57] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:33:57] Processing GET streaming request[2025-06-16 14:33:57] No pending prompt found in session | Data: Array
+(
+)
+[2025-06-16 14:33:57] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:33:59] API Request Started | Data: Array
+(
+    [method] => GET
+    [query] => Array
+        (
+            [stream] => true
+        )
+
+    [content_type] => not set
+)
+[2025-06-16 14:33:59] Required files loaded successfully[2025-06-16 14:33:59] Constants check passed[2025-06-16 14:33:59] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:33:59] Processing GET streaming request[2025-06-16 14:33:59] No pending prompt found in session | Data: Array
+(
+)
+[2025-06-16 14:33:59] Main execution error | Data: No pending prompt found for streaming[2025-06-16 14:34:00] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-16 14:34:00] Required files loaded successfully[2025-06-16 14:34:00] Constants check passed[2025-06-16 14:34:00] Starting request processing | Data: Array
+(
+    [has_db] => 1
+)
+[2025-06-16 14:34:00] Processing POST request[2025-06-16 14:34:00] Client IP | Data: ::1[2025-06-16 14:34:00] Rate limit error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-16 14:34:00] Processing text-only request[2025-06-16 14:34:00] Prompt validated | Data: Array
+(
+    [length] => 25
+)
+[2025-06-16 14:34:00] Making API request | Data: Array
+(
+    [url] => https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E
+)
+[2025-06-16 14:34:06] API response received | Data: Array
+(
+    [http_code] => 200
+    [curl_error] => 
+    [response_length] => 4442
+)
+[2025-06-16 14:34:06] Response processed | Data: Array
+(
+    [response_length] => 3281
+)
+[2025-06-16 14:34:06] Save chat error | Data: Table 'chat_app.chat_history' doesn't exist[2025-06-17 10:31:19] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-17 10:31:19] Initialization error | Data: Required file missing: error_handler.php[2025-06-17 10:31:20] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-17 10:31:20] Initialization error | Data: Required file missing: error_handler.php[2025-06-17 11:24:05] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-17 11:24:06] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-17 11:24:09] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-17 11:24:11] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)
+[2025-06-17 11:24:14] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+            [prepareStream] => true
+        )
+
+    [content_type] => application/json
+)
+[2025-06-17 11:24:15] API Request Started | Data: Array
+(
+    [method] => POST
+    [query] => Array
+        (
+        )
+
+    [content_type] => application/json
+)

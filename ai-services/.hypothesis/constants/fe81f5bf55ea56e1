@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\evaluation\TripletEvaluator.py
+# hypothesis_version: 6.151.10
+
+['_', '_results.csv', 'a', 'cosine', 'cosine_accuracy', 'deprecated', 'dot', 'dot_accuracy', 'epoch', 'euclidean', 'euclidean_accuracy', 'manhattan', 'manhattan_accuracy', 'margin', 'max_accuracy', 'steps', 'triplet_evaluation', 'truncate_dim', 'utf-8', 'w']

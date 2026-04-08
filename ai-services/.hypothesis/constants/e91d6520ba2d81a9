@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\polyfills\os.py
+# hypothesis_version: 6.151.10
+
+['__fspath__', 'fspath']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\ao\nn\quantized\modules\batchnorm.py
+# hypothesis_version: 6.151.10
+
+[1e-05, 0.1, 1.0, 'BatchNorm2d', 'BatchNorm3d', 'QuantizedBatchNorm2d', 'QuantizedBatchNorm3d', 'device', 'dtype', 'scale', 'zero_point']

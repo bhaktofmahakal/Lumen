@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\local\payload_filters.py
+# hypothesis_version: 6.151.10
+
+[-180, 180, '__len__', 'lat', 'lon']

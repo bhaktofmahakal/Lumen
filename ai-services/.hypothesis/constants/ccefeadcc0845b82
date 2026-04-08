@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\utilities\__init__.py
+# hypothesis_version: 6.151.10
+
+['capture', 'cartes', 'dict_merge', 'filldedent', 'flatten', 'group', 'has_dups', 'has_variety', 'lambdify', 'memoize_property', 'numbered_symbols', 'postfixes', 'prefixes', 'public', 'reshape', 'rotations', 'sift', 'subsets', 'take', 'threaded', 'timed', 'topological_sort', 'unflatten', 'variations', 'xthreaded']

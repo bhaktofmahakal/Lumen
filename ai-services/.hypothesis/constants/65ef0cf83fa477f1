@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_refs\linalg\__init__.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1.0, 2.0, '-inf', 'IMPL', 'MPS', 'S', 'U', 'Vh', 'aten', 'complex', 'cross', 'diagonal', 'fro', 'ij', 'inf', 'linalg.matrix_norm', 'linalg.vecdot', 'linalg.vector_norm', 'matrix_norm', 'norm', 'nuc', 'real', 'svd', 'svdvals', 'vecdot', 'vector_norm', 'x', 'y']

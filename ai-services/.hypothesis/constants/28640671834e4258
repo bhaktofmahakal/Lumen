@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_higher_order_ops\while_loop.py
+# hypothesis_version: 6.151.10
+
+['additional_inputs', 'body_fn', 'body_output', 'call_function', 'carried_inputs', 'carries', 'cond_fn', 'constant', 'example_value', 'fw_body_fn', 'fw_cond_fn', 'fw_outputs', 'mode', 'val', 'while_loop']

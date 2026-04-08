@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\integrations\helicone.py
+# hypothesis_version: 6.151.10
+
+[200, 1000, '2020-10-01', 'Authorization', 'Content-Type', 'HELICONE_API_KEY', 'Helicone-Auth', 'application/json', 'choices', 'claude', 'completion', 'content', 'endTime', 'gpt', 'gpt-3.5-turbo', 'headers', 'json', 'message', 'messages', 'meta', 'milliseconds', 'model', 'openai-version', 'prompt', 'providerRequest', 'providerResponse', 'role', 'seconds', 'startTime', 'status', 'stop_reason', 'stop_sequence', 'timing', 'url', 'user']

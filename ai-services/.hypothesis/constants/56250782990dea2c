@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_numpy\_ufuncs.py
+# hypothesis_version: 6.151.10
+
+['K', '_', 'add', 'arccos', 'arccosh', 'arcsin', 'arcsinh', 'arctan', 'arctan2', 'arctanh', 'bitwise_and', 'bitwise_left_shift', 'bitwise_or', 'bitwise_right_shift', 'bitwise_xor', 'cbrt', 'copysign', 'cos', 'cosh', 'deg2rad', 'degrees', 'divide', 'divmod', 'exp', 'exp2', 'expm1', 'floor_divide', 'fmax', 'fmin', 'fmod', 'gcd', 'heaviside', 'hypot', 'lcm', 'ldexp', 'log', 'log10', 'log1p', 'log2', 'logaddexp', 'logaddexp2', 'matmul', 'maximum', 'minimum', 'modf', 'multiply', 'pow', 'rad2deg', 'radians', 'reciprocal', 'remainder', 'same_kind', 'sin', 'sinh', 'sqrt', 'square', 'subtract', 'tan', 'tanh', 'torch', 'true_divide', 'trunc']

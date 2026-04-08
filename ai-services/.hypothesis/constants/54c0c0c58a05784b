@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\exc.py
+# hypothesis_version: 6.151.10
+
+['\n  Explanation:', '  Hint: ', '%s', '-', '.', '=', '?', 'Gb_type', 'UserError', '_', '__name__', '_hop_name', 'artifact', 'buck_command', 'convert_frame', 'encoding', 'eval_frame', 'graph_breaks', 'inner_exception', 'minifier_path', 'name', 'real_stack', 'record_filename', 'string', 'unimplemented']

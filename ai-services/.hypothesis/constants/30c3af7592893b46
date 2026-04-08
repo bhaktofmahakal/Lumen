@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\fx\operator_schemas.py
+# hypothesis_version: 6.151.10
+
+['AnyEnumType', 'ArgsKwargsPair', 'Argument', 'Device', 'Future', 'Layout', 'NoneType', 'PyObject', 'QScheme', 'Storage', 'Tensor', '__name__', '__origin__', '__torch__', '_op', 'create_type_hint', 'from', 'generator', 'if_false', 'if_true', 'input', 'normalize_function', 'normalize_module', 'number', 'self', 't', 'to', 'torch', 'torch._C.JitType', 'type_matches']

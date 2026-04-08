@@ -1,0 +1,4 @@
+# file: C:\xampp\htdocs\chat-app\ai-services\rag_service.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.3, 0.4, 0.7, 200, 3600, '#', 'confidence', 'content', 'decomposition_used', 'document_count', 'document_id', 'fast_latency', 'fast_results', 'final_results', 'from_cache', 'original_query', 'project_id', 'retrieval_time', 'score', 'slow_latency', 'slow_metadata', 'slow_results', 'slow_triggered', 'sub_queries', 'total_candidates']

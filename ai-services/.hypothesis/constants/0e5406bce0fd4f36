@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\llms\custom_httpx\azure_dall_e_2.py
+# hypothesis_version: 6.151.10
+
+[120, 200, 400, '2023-06-01-preview', '2023-07-01-preview', '2023-08-01-preview', '2023-09-01-preview', '2023-10-01-preview', 'GET', 'Timeout', 'api-version', 'code', 'error', 'failed', 'images/generations', 'message', 'operation-location', 'result', 'retry-after', 'status', 'succeeded', 'utf-8']

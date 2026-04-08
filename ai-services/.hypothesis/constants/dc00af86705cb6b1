@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\llms\bedrock.py
+# hypothesis_version: 6.151.10
+
+[400, 401, 500, '\n\nAssistant: ', '\n\nHuman: ', '*/*', '.', 'AWS_REGION', 'AWS_REGION_NAME', 'HTTPStatusCode', 'POST', 'ResponseMetadata', '__', 'ai21', 'amazon', 'anthropic', 'application/json', 'aws_access_key_id', 'aws_bedrock_client', 'aws_region_name', 'bedrock-runtime', 'body', 'choices', 'cohere', 'complete_input_dict', 'completion', 'completions', 'content', 'created', 'data', 'default', 'embedding', 'embeddings', 'final_prompt_value', 'finish_reason', 'generation', 'generations', 'index', 'initial_prompt_value', 'inputText', 'input_type', 'list', 'message', 'meta', 'model', 'object', 'os.environ/', 'outputText', 'prompt', 'request_str', 'results', 'role', 'roles', 'search_document', 'self', 'stop_reason', 'stream', 'text', 'textGenerationConfig', 'texts', 'user', 'utf-8']

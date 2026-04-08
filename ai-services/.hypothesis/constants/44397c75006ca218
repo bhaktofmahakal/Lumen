@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\linalg\basic.py
+# hypothesis_version: 6.151.10
+
+['LinAlgError', 'LinAlgWarning', '_basic', 'basic', 'det', 'get_lapack_funcs', 'inv', 'linalg', 'lstsq', 'matmul_toeplitz', 'matrix_balance', 'pinv', 'pinvh', 'solve', 'solve_banded', 'solve_circulant', 'solve_toeplitz', 'solve_triangular', 'solveh_banded']

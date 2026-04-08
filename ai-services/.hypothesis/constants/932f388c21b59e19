@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_library\opaque_object.py
+# hypothesis_version: 6.151.10
+
+['OpaqueType', '__fx_repr__', 'aten::OpaqueObject', 'builtins', 'inlined', 'reference', 'use_real', 'value']

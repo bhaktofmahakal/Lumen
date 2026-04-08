@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\sets\__init__.py
+# hypothesis_version: 6.151.10
+
+['Complement', 'ComplexRegion', 'ConditionSet', 'Contains', 'DisjointUnion', 'EmptySet', 'FiniteSet', 'ImageSet', 'Integers', 'Intersection', 'Interval', 'Naturals', 'Naturals0', 'OmegaPower', 'Ordinal', 'PowerSet', 'ProductSet', 'Range', 'Rationals', 'Reals', 'Set', 'SymmetricDifference', 'Union', 'UniversalSet', 'imageset', 'ord0']

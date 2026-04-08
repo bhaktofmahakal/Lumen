@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\array_algos\take.py
+# hypothesis_version: 6.151.10
+
+['F', 'M8[ns]', 'bool', 'datetime64[ns]', 'float32', 'float64', 'int16', 'int32', 'int64', 'int8', 'm', 'm8[ns]', 'mM', 'object', 'timedelta64[ns]', 'uint16', 'uint32', 'uint64', 'uint8']

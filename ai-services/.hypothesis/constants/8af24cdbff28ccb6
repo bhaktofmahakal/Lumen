@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\io\common.py
+# hypothesis_version: 6.151.10
+
+['.bz2', '.gz', '.tar', '.tar.bz2', '.tar.gz', '.tar.xz', '.xz', '.zip', '.zst', '::', 'BaseBufferT', 'Content-Encoding', 'a', 'anon', 'b', 'botocore', 'bz2', 'cctx', 'compression', 'dctx', 'file:', 'fileno', 'fsspec', 'gzip', 'http://', 'https://', 'ignore', 'infer', 'method', 'mode', 'r', 'rb', 'read', 'readable', 's3://', 's3a://', 's3n://', 'seekable', 'strict', 't', 'tar', 'utf-16', 'utf-32', 'utf-8', 'w', 'writable', 'write', 'x', 'xz', 'zip', 'zstandard', 'zstd']

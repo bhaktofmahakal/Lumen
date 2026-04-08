@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\sparse_encoder\SparseEncoder.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1.0, 256, 512, 'Batches', 'ForMaskedLM', '__len__', 'active_dims', 'architectures', 'corpus', 'cosine', 'document', 'dot', 'euclidean', 'input', 'input_ids', 'is_sparse_csr', 'local_files_only', 'manhattan', 'max', 'max_active_dims', 'mean', 'onnx', 'openvino', 'output', 'passage', 'processes', 'prompt_length', 'query', 'revision', 'sentence_embedding', 'sparsity_ratio', 'task', 'token', 'torch', 'trust_remote_code']

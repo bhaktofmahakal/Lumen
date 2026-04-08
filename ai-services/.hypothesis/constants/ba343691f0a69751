@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\core\symbol.py
+# hypothesis_version: 6.151.10
+
+['%s', '%s ', '%s_%i', '(', ')', ',', ':', 'Dummy_', '\\ ', '\\,', '\\:', '_', '_assumptions0', '_assumptions_orig', 'a', 'commutative', 'dummy_index', 'exclude', 'ignore', 'missing end range', 'missing symbol', 'name', 'no symbols given', 'properties', 'seq']

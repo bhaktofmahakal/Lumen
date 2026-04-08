@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\image_utils.py
+# hypothesis_version: 6.151.10
+
+[255.0, 255, ',', ', ', 'InterpolationMode', 'PIL.Image.Image', 'PILImageResampling', 'RGB', 'SizeDict', 'annotations', 'channels_first', 'channels_last', 'coco_detection', 'coco_panoptic', 'data:image/', 'file_name', 'http://', 'https://', 'image_id', 'numpy', 'pillow', 'segments_info', 'torch', 'torch.Tensor', 'vision']

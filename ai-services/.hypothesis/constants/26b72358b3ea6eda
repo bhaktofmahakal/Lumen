@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\sparse_encoder\models\SparseAutoEncoder.py
+# hypothesis_version: 6.151.10
+
+[1e-05, 512, 'auxiliary_embedding', 'cache_folder', 'dead_threshold', 'decoded_embedding_4k', 'decoded_embedding_k', 'hidden_dim', 'input_dim', 'k', 'k_aux', 'local_files_only', 'max_active_dims', 'mu', 'normalize', 'revision', 'sentence_embedding', 'stats_last_nonzero', 'std', 'subfolder', 'token']

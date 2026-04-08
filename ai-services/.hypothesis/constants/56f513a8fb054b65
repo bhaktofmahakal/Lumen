@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\http\api\service_api.py
+# hypothesis_version: 6.151.10
+
+['/', '/healthz', '/livez', '/metrics', '/readyz', '/telemetry', '2.', 'BaseModel', 'GET', 'Model', 'anonymize', 'details_level', 'json', 'model_dump_json', 'timeout']

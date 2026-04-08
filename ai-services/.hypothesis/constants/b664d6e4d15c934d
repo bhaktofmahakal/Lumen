@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\model_card_templates.py
+# hypothesis_version: 6.151.10
+
+['**Loss**:\n\n`{}` {}', 'batch_sampler', 'batch_size', 'cls', 'cls_pooling', 'feature-extraction', 'get_config_dict', 'max', 'max_pooling', 'mean', 'mean_pooling', 'sampler', 'sentence-similarity', 'unknown', '{CITING}', '{EVALUATION}', '{MODEL_DESCRIPTION}', '{PIPELINE_TAG}', '{TRAINING_SECTION}']

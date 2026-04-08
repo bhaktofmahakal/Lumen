@@ -1,0 +1,4 @@
+# file: C:\xampp\htdocs\chat-app\ai-services\agent_orchestrator.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.8, 'agent', 'citation', 'citation_issues', 'citations', 'completed_at', 'configurable', 'content', 'continue', 'document_ids', 'draft_content', 'end', 'error', 'errors', 'feedback', 'final_output', 'findings', 'gaps', 'issues', 'iteration_count', 'max_iterations', 'project_id', 'quality_score', 'query', 'recursion_limit', 'research_findings', 'research_gaps', 'researcher', 'review_feedback', 'reviewer', 'started_at', 'suggestions', 'thread_id', 'timestamp', 'user_id', 'workflow_id', 'writer']

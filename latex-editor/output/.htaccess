@@ -1,0 +1,8 @@
+# Prevent directory listing
+Options -Indexes
+
+# Allow direct access to PDF files (needed for download/preview)
+# Access is controlled at the application level via compile.php
+<FilesMatch "\.pdf$">
+    Allow from all
+</FilesMatch>

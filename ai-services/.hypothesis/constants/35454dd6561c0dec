@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\polys\matrices\sdm.py
+# hypothesis_version: 6.151.10
+
+['%s(%s, %s, %s)', '%s: %s', '%s: {%s}', ', ', 'Column out of range', 'Row out of range', 'SDM.to_dfm', 'SDM.to_dfm_or_ddm', 'flint', 'index out of range', 'sparse', '{%s}']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\_shard\sharded_tensor\api.py
+# hypothesis_version: 6.151.10
+
+['_sharded_tensor_id', 'copy', 'cpu', 'cuda', 'device', 'dtype', 'gloo', 'layout', 'local ShardMetadata', 'memory_format', 'non_blocking', 'pin_memory', 'process_group', 'requires_grad', 'size', 'tensor property']

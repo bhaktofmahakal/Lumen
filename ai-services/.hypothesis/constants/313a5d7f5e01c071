@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\huggingface_hub\utils\_parsing.py
+# hypothesis_version: 6.151.10
+
+[365, 1000, 1000000, 1000000000, 1000000000000, 1000000000000000, '(\\d+)([a-z]+)', 'a few seconds ago', 'd', 'day', 'g', 'h', 'hour', 'k', 'm', 'minute', 'mo', 'month', 'p', 's', 'second', 't', 'w', 'week', 'y', 'year']

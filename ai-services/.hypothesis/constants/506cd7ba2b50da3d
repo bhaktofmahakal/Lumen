@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\safetensors\torch.py
+# hypothesis_version: 6.151.10
+
+[', ', '.', '2.3.0', 'BF16', 'BOOL', 'C64', 'F16', 'F32', 'F64', 'F8_E4M3', 'F8_E5M2', 'I16', 'I32', 'I64', 'I8', 'U16', 'U32', 'U64', 'U8', 'big', 'cpu', 'data', 'dtype', 'float4_e2m1fn_x2', 'float8_e4m3fn', 'float8_e5m2', 'float8_e8m0fnu', 'meta', 'pt', 'shape']

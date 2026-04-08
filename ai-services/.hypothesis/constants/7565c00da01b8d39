@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\losses\MultipleNegativesRankingLoss.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1.0, 20.0, 'all_negatives', 'directions', 'doc_to_doc', 'doc_to_query', 'hard_negatives', 'hardness_mode', 'hardness_strength', 'in_batch_negatives', 'joint', 'partition_mode', 'per_direction', 'query_to_doc', 'query_to_query', 'scale', 'sentence_embedding', 'similarity_fct']

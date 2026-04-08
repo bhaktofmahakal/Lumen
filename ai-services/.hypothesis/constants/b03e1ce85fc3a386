@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_library\custom_ops.py
+# hypothesis_version: 6.151.10
+
+['::', 'ADInplaceOrView', 'AutocastCPU', 'AutocastCUDA', 'Autograd', 'BackendSelect', 'CustomOpDef', 'FRAGMENT', 'FuncTorchBatched', 'cpu', 'cuda', 'disable', 'enable', 'ignore', 'torch.library']

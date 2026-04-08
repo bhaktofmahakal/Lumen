@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\llms\vertex_ai.py
+# hypothesis_version: 6.151.10
+
+[400, 500, '.mp4', 'POST', '__', 'arguments', 'chat', 'choices', 'complete_input_dict', 'content', 'created', 'function', 'function_call', 'gs://', 'https:/', 'id', 'image/jpeg', 'image/png', 'image_url', 'message', 'model', 'name', 'png', 'prompt_token_count', 'request_str', 'safety_settings', 'self', 'stream', 'text', 'tools', 'type', 'url', 'usage_metadata', 'vertex_ai', 'video/mp4', 'vision']

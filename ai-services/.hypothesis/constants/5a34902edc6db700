@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\cuda\graphs.py
+# hypothesis_version: 6.151.10
+
+['CUDAGraph', '_CUDAGraph', '_CudaStreamBase', '_P', '_R', '_graph_pool_handle', 'global', 'graph', 'graph_pool_handle', 'torch.nn.Module']

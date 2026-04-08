@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\models\t5gemma2\configuration_t5gemma2.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1e-06, 0.02, 10000.0, 1000000.0, 256, 2304, 4096, 9216, 131072, 255999, 256000, 256001, 262144, 262208, 'T5Gemma2Config', 'T5Gemma2TextConfig', 'attention_mask', 'boi_token_id', 'boi_token_index', 'bos_token_id', 'colwise', 'decoder', 'default', 'embed_tokens', 'encoder', 'eoi_token_id', 'eoi_token_index', 'eos_token_id', 'full_attention', 'gelu_pytorch_tanh', 'global', 'hidden_states', 'image_token_id', 'image_token_index', 'input_ids', 'inputs_embeds', 'layers', 'layers.*.mlp.up_proj', 'local', 'norm', 'pad_token_id', 'past_key_values', 'rope_local_base_freq', 'rope_scaling', 'rope_theta', 'rope_type', 'rowwise', 'sliding_attention', 't5gemma2', 't5gemma2_decoder', 't5gemma2_encoder', 't5gemma2_text', 'text_config', 'vision_config', 'vocab_size']

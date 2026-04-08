@@ -1,0 +1,4 @@
+# file: C:\xampp\htdocs\chat-app\ai-services\config.py
+# hypothesis_version: 6.151.10
+
+[384, 3306, 3600, 6333, 6379, 2592000, 52428800, ',', '.env', '/app/uploads', 'ai_research', 'all-MiniLM-L6-v2', 'development', 'gemini', 'gemini-1.5-flash', 'http://localhost', 'http://ollama:11434', 'ignore', 'llama3', 'llama3-8b-8192', 'mysql', 'pdf', 'qdrant', 'redis', 'redispassword', 'root', 'rootpassword']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pymysql\converters.py
+# hypothesis_version: 6.151.10
+
+[128, 3600, '\x1a', '"', "'", "'%s'", '(', ')', ',', '-', '-inf', '0', 'NULL', '\\', '\\"', "\\'", '\\0', '\\Z', '\\\\', '\\n', '\\r', "_binary'%s'", 'ascii', 'e', 'e0', 'f', 'inf', 'nan', 'surrogateescape']

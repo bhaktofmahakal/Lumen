@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\aiohttp\_cookie_helpers.py
+# hypothesis_version: 6.151.10
+
+['"', '$', ';', '=', 'Morsel[str]', 'coded_value', 'comment', 'domain', 'expires', 'httponly', 'key', 'max-age', 'parse_cookie_header', 'partitioned', 'path', 'samesite', 'secure', 'val', 'value', 'version']

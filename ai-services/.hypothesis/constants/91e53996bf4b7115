@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\cross_encoder\fit_mixin.py
+# hypothesis_version: 6.151.10
+
+[0.0, 2e-05, 0.01, 0.05, -9999999, 10000, '4.41.0', 'Epoch', 'Iteration', 'LayerNorm.bias', 'LayerNorm.weight', 'WarmupLinear', 'batch_size', 'bias', 'checkpoints/model', 'dataset', 'eval', 'eval_strategy', 'evaluation_strategy', 'evaluator', 'greater_is_better', 'input_ids', 'label', 'longest_first', 'lr', 'no', 'params', 'primary_metric', 'pt', 'steps', 'weight_decay']

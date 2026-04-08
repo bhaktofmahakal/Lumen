@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\quantizers\quantizer_auto_round.py
+# hypothesis_version: 6.151.10
+
+['PreTrainedModel', 'device_map', 'input_ids']

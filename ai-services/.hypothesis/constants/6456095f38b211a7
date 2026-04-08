@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\interactive\printing.py
+# hypothesis_version: 6.151.10
+
+[1.0, 150, '\n\\special{color %s}', '$\\displaystyle %s$', '--no-fonts', '--scale={}', '0cm,0cm', '1.0', '10pt', 'Black', 'BytesIO', 'Gray', 'IPython', 'Transparent', 'White', '_latex', '_pretty', '_sympyrepr', '_sympystr', 'image/png', 'image/svg+xml', 'inline', 'ipython-console', 'lightbg', 'linux', 'mathjax', 'matplotlib', 'mode', 'plain', 'png', 'png printing:', 'preview failed with:', 'svg', 'svg printing:', 'text/latex', 'text/plain', 'tight', 'utf-8']

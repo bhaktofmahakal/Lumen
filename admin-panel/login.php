@@ -39,6 +39,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
         if (!$conn) {
             // Fallback authentication if database fails
             if ($username === 'admin' && $password === 'admin123') {
+                // Regenerate session ID to prevent session fixation attacks
+                session_regenerate_id(true);
+                
                 $_SESSION['admin_logged_in'] = true;
                 $_SESSION['admin_username'] = 'admin';
                 $_SESSION['admin_id'] = 1;
@@ -63,6 +66,9 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
                 if (password_verify($password, $admin['password']) || 
                     hash('sha256', $password) === $admin['password'] || 
                     $password === $admin['password']) {
+                    
+                    // Regenerate session ID to prevent session fixation attacks
+                    session_regenerate_id(true);
                     
                     $_SESSION['admin_logged_in'] = true;
                     $_SESSION['admin_username'] = $admin['username'];

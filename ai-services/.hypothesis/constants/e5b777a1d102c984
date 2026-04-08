@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\polys\domains\finitefield.py
+# hypothesis_version: 6.151.10
+
+['.', 'FF', 'FiniteField', 'GF(%s)', '_is_field', 'flint', 'gmpy', 'python']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\huggingface_hub\community.py
+# hypothesis_version: 6.151.10
+
+['DiscussionEvent', '_event', 'author', 'closed', 'comment', 'commit', 'createdAt', 'created_at', 'data', 'deleted', 'draft', 'edited', 'from', 'hidden', 'history', 'html', 'id', 'latest', 'merged', 'name', 'oid', 'open', 'raw', 'status', 'status-change', 'subject', 'title-change', 'to', 'type', 'updatedAt']

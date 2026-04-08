@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\redis\_parsers\hiredis.py
+# hypothesis_version: 6.151.10
+
+['Buffer is closed.', 'Push response: ', 'PushNotification', '_reader', 'encoding', 'errors', 'notEnoughData', 'protocolError', 'push_response', 'replyError']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\redis\commands\helpers.py
+# hypothesis_version: 6.151.10
+
+['-infinity', 'infinity', 'nan', 'null', 'protocol', 'replace', 'utf-8']

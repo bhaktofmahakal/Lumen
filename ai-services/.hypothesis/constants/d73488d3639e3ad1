@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\cross_encoder\model_card.py
+# hypothesis_version: 6.151.10
+
+['cross-encoder', 'dataset_name', 'model_max_length', 'model_num_labels', 'reranker', 'text-classification', 'text-ranking', '🤗']

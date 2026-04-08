@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\aot_compile_types.py
+# hypothesis_version: 6.151.10
+
+['__module__', '__name__', 'example_value', 'fn', 'graph_module', 'nn_module_stack', 'serialize', 'source_fn_stack']

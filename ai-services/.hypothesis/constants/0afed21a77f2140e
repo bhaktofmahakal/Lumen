@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\sparse\semi_structured.py
+# hypothesis_version: 6.151.10
+
+[128, 'SPARSE_DISPATCH', 'cusparselt', 'cutlass', 'meta', 'meta_t', 'packed', 'packed_t', 'shape']

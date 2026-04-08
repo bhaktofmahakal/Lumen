@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\grpc\qdrant_pb2_grpc.py
+# hypothesis_version: 6.151.10
+
+['HealthCheck', 'qdrant.Qdrant']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\sparse\_construct.py
+# hypothesis_version: 6.151.10
+
+[0.01, ' axis ', 'A is not square', 'B is not square', 'F', 'block_array', 'block_diag', 'blocks must be 2-D', 'bmat', 'bsr', 'coo', 'csc', 'csr', 'd', 'diags', 'diags_array', 'expand_dims', 'eye', 'eye_array', 'hstack', 'identity', 'index ', 'kron', 'kronsum', 'ndim', 'object', 'permute_dims', 'rand', 'random', 'random_array', 'random_state', 'restructuredtext en', 'skip_file_prefixes', 'spdiags', 'stacklevel', 'swapaxes', 'vstack']

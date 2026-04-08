@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\activations.py
+# hypothesis_version: 6.151.10
+
+[-1e-06, 0.044715, 0.282095, 0.5, 0.707107, 0.7978845608, 0.8, 1.0, 1.702, 2.0, 3.0, 'FastGELU', 'GeLU', 'GeluTanh', 'NewGELU', 'QuickGELU', 'SiLU', 'beta', 'eps', 'gelu', 'gelu_10', 'gelu_accurate', 'gelu_fast', 'gelu_new', 'gelu_python', 'gelu_python_tanh', 'gelu_pytorch_tanh', 'hardswish', 'laplace', 'leaky_relu', 'linear', 'max', 'min', 'mish', 'prelu', 'quick_gelu', 'relu', 'relu2', 'relu6', 'sigmoid', 'silu', 'swish', 'tanh', 'use_gelu_python', 'use_gelu_tanh_python', 'xielu']

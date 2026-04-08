@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\fx\experimental\recording.py
+# hypothesis_version: 6.151.10
+
+['%s-> %s', '%scall %s(*%r, **%r)', ', ', 'FakeTensorMeta', 'NotEqualError', 'ShapeEnvEvent', 'args', 'evaluate_expr', 'field set mismatch:', 'found unique fields:', 'fx_node', 'name_to_node', 'self', 'trace_shape_events', '{', '}']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\io\parsers\python_parser.py
+# hypothesis_version: 6.151.10
+
+[100, '.', '. ', 'NULL byte', 'callable', 'colspecs', 'comment', 'decimal', 'delimiter', 'doublequote', 'escapechar', 'has_index_names', 'infer', 'infer_nrows', 'line contains NUL', 'lineterminator', 'normal', 'quotechar', 'quoting', 'readline', 'skip_blank_lines', 'skipfooter', 'skipinitialspace', 'skiprows', 'thousands', '\ufeff']

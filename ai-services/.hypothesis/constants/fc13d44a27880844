@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_higher_order_ops\torchbind.py
+# hypothesis_version: 6.151.10
+
+[' str method', ') ->', ',', 'call_function', 'call_torchbind', 'val']

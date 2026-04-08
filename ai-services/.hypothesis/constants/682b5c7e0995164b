@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_functorch\deprecated.py
+# hypothesis_version: 6.151.10
+
+['\n.. warning::\n\n', 'error', 'functionalize', 'grad', 'grad_and_value', 'hessian', 'jacfwd', 'jacrev', 'jvp', 'make_functional', 'mutations', 'torch.vmap', 'vjp', 'vmap']

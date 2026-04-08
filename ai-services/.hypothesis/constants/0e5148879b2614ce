@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\indexes\range.py
+# hypothesis_version: 6.151.10
+
+['__floordiv__', 'ascending', 'count', 'dtype', 'f', 'float64', 'i', 'ignore', 'inner', 'integer', 'iu', 'kind', 'last', 'left', 'm', 'max', 'min', 'name', 'outer', 'pandas', 'proportion', 'rangeindex', 'right', 'safe', 'signed integer', 'start', 'step', 'stop']

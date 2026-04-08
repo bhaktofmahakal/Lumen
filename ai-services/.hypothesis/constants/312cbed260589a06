@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\grpc\json_with_int_pb2.py
+# hypothesis_version: 6.151.10
+
+[b'8\x01', b'\xaa\x02\x12Qdrant.Client.Grpc', 145, 148, 380, 382, 424, 426, 453, 'DESCRIPTOR', '_LISTVALUE', '_NULLVALUE', '_STRUCT', '_STRUCT_FIELDSENTRY', '_VALUE', 'json_with_int_pb2']

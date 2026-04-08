@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\shared_docs.py
+# hypothesis_version: 6.151.10
+
+['aggregate', 'compare', 'compression_options', 'groupby', 'replace', 'storage_options', 'transform']

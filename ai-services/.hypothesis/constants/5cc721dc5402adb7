@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\printing\repr.py
+# hypothesis_version: 6.151.10
+
+['%s(%d, %d)', '%s(%s)', '%s(%s, %s%s)', '%s(%s, %s)', '%s(%s, %s, %s)', "%s('%s')", '%s: %s', '%s=%s', '(', '(%s)', '(%s,)', ',', ', ', ', order=', ', size=%s', '1.6', "<'%s.%s'>", 'Complexes', 'Cycle', 'EmptySequence', 'EmptySet', 'ExtElem(%s, %s)', 'FiniteExtension(%s)', 'Fraction(%s, %s)', 'Function(%r)', 'Integer(%i)', 'Integers', 'Naturals', 'Naturals0', 'Permutation%s', 'Permutation(%s)', 'Permutation()', 'Q.%s', 'Rational(%s, %s)', 'Rational(1, 2)', 'Rationals', 'Reals', 'UniversalSet', '[%s]', '__iter__', '__module__', '__name__', '__srepr__', '_sympyrepr', 'args', 'dummy_index', 'false', 'nan', 'none', 'old', 'order', 'perm_cyclic', 'set()', 'true', '{%s}']

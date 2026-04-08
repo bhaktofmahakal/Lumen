@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\plotting\intervalmath\interval_arithmetic.py
+# hypothesis_version: 6.151.10
+
+[2.0, '[%f, %f]', 'inf', 'interval(%f, %f)']

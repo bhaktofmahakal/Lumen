@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\mtia\memory.py
+# hypothesis_version: 6.151.10
+
+['allocated_bytes', 'dram', 'max_memory_allocated', 'memory_allocated', 'memory_stats', 'peak_bytes']

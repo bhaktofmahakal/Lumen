@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\utils\data\datapipes\iter\grouping.py
+# hypothesis_version: 6.151.10
+
+[10000, 'BatcherIterDataPipe', 'GrouperIterDataPipe', '_T_co', 'batch', 'groupby', 'unbatch']

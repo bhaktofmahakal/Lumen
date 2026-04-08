@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\optimize\_lsq\trf_linear.py
+# hypothesis_version: 6.151.10
+
+[-0.1, 0.005, 0.01, 0.1, 0.5, 100, 'auto', 'economic', 'exact', 'lsmr']

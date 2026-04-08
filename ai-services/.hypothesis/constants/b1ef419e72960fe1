@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_functorch\utils.py
+# hypothesis_version: 6.151.10
+
+['argnums_t', 'exposed_in', 'unwrap_dead_wrappers']

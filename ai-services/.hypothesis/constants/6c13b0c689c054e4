@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\_composable\contract.py
+# hypothesis_version: 6.151.10
+
+['Checking buffers: ', 'Checking modules: ', '_M', '_P', '_State', '_T', '_TState']

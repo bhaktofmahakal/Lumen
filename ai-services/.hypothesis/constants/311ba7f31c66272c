@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\masking_utils.py
+# hypothesis_version: 6.151.10
+
+[0.0, '\x1b[0m', '\x1b[92m', '\x1b[93m', '...', '2.5', '2.6', '5.6.0', 'AttentionMask', 'allow_is_causal_skip', 'allow_torch_fix', 'and_mask_function', 'attention_chunk_size', 'attention_mask', 'chunked_attention', 'config', 'cpu', 'eager', 'flash_attention_2', 'flash_attention_3', 'flash_attention_4', 'flex_attention', 'full_attention', 'input_embeds', 'inputs_embeds', 'is_causal', 'is_compileable', 'is_sliding', 'layer_types', 'majong', 'or_mask_function', 'past_key_values', 'position_ids', 'sdpa', 'sliding_attention', 'sliding_window', '∙', '█', '░', '▙', '▜', '■', '⬔', '⬕', '⬚', '🀆', '🀙', '🀛', '🀞']

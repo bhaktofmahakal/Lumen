@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\export\exported_program.py
+# hypothesis_version: 6.151.10
+
+['.', 'CustomDecompTable', 'ExportedProgram', "L['self']", 'ModuleCallEntry', 'ModuleCallSignature', 'aten', 'call_function', 'from_node', 'original_callable', 'output', 'parametrizations.', 'placeholder', 'stack_trace', 'val']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\quantizers\quantizer_bnb_4bit.py
+# hypothesis_version: 6.151.10
+
+[0.5, 0.9, 'BitsAndBytesConfig', 'PreTrainedModel', 'bias', 'cpu', 'device_map', 'disk', 'hpu', 'is_4bit_serializable', 'is_loaded_in_4bit', 'npu', 'torch.Tensor', 'weight', 'weight.absmax', 'weight.nested_absmax', 'weight.quant_map']

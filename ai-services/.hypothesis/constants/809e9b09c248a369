@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\models\mpnet\tokenization_mpnet.py
+# hypothesis_version: 6.151.10
+
+['##', '</s>', '<mask>', '<pad>', '<s>', 'MPNetTokenizer', '[UNK]', 'attention_mask', 'input_ids', 'tokenizer.json', 'tokenizer_file', 'vocab.txt', 'vocab_file']

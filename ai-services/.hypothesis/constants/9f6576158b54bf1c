@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\hybrid\formula.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.5, 1.0, 1.2, 2.3, '$score', '$score[0]', '$score[10].other', '$score[1]', '$score[2]', '$score[invalid]', '[', ']', 'key']

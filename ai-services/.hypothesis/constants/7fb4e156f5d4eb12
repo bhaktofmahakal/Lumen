@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\util\environment.py
+# hypothesis_version: 6.151.10
+
+['Home-page', 'LOCAL_RANK', 'Name', 'accelerate', 'cpu', 'datasets', 'habana_frameworks', 'hpu', 'huggingface', 'mps', 'npu', 'xpu']

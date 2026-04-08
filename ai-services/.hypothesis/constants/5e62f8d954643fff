@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\integrations\fsdp.py
+# hypothesis_version: 6.151.10
+
+['ACCELERATE_USE_FSDP', 'False', 'adapter_only', 'quantization_method']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\huggingface_hub\utils\_http.py
+# hypothesis_version: 6.151.10
+
+[100, 300, 399, 400, 401, 403, 416, 429, 500, 502, 503, 504, 1000, 1000000, '\n\nBad request:', ',', '-H', '-X', '-d', '.', '/', ';', '<TOKEN>', '<streaming body>', 'Amz CF ID', 'Amzn Trace ID', 'Content-Type', 'Content-length', 'EntryNotFound', 'GatedRepo', 'Location', 'Range', 'RepoNotFound', 'Request ID', 'RevisionNotFound', 'Send: %s', 'X-Amzn-Trace-Id', 'X-Error-Code', 'X-Error-Message', 'X-HF-Warning', '_HfHubHTTPErrorT', 'authorization', 'blob', 'commit', 'curl', 'data', 'discussions', 'error', 'errors', 'html', 'ignore', 'message', 'q', 'r', 'ratelimit', 'ratelimit-policy', 'raw', 'refs', 'register_at_fork', 'request', 'resolve', 'resource_type', 'response', 'retry_on_exceptions', 'revision', 'settings', 't', 'tree', 'utf-8', 'w', 'x-amz-cf-id', 'x-request-id']

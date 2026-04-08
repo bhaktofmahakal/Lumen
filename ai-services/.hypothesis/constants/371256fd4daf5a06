@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\models\WordEmbeddings.py
+# hypothesis_version: 6.151.10
+
+[1000000, '.gz', '/', 'Embeddings', 'Load Word Embeddings', 'PADDING_TOKEN', '\\', 'attention_mask', 'cache_folder', 'cls_token_embeddings', 'emb_layer.weight', 'input_ids', 'local_files_only', 'max_seq_length', 'revision', 'rt', 'sentence_lengths', 'subfolder', 'token', 'token_embeddings', 'tokenizer_class', 'update_embeddings', 'utf8', 'weight']

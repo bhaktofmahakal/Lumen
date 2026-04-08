@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\router_strategy\least_busy.py
+# hypothesis_version: 6.151.10
+
+['id', 'inf', 'litellm_params', 'metadata', 'model_group', 'model_info']

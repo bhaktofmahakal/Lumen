@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\huggingface_hub\_space_api.py
+# hypothesis_version: 6.151.10
+
+['APP_STARTING', 'BUILDING', 'BUILD_ERROR', 'CONFIG_ERROR', 'DELETING', 'NO_APP_FILE', 'PAUSED', 'RUNNING', 'RUNNING_APP_STARTING', 'RUNNING_BUILDING', 'RUNTIME_ERROR', 'STOPPED', 'a100-large', 'a100x4', 'a100x8', 'a10g-large', 'a10g-largex2', 'a10g-largex4', 'a10g-small', 'canceled', 'cpu-basic', 'cpu-performance', 'cpu-upgrade', 'cpu-xl', 'created', 'current', 'description', 'gcTimeout', 'h200', 'h200x2', 'h200x4', 'h200x8', 'hardware', 'hotReloading', 'inf2x6', 'l40sx1', 'l40sx4', 'l40sx8', 'l4x1', 'l4x4', 'large', 'medium', 'replicaStatuses', 'requested', 'small', 'sprx8', 'stage', 'status', 'storage', 't4-medium', 't4-small', 'updatedAt', 'value', 'zero-a10g']

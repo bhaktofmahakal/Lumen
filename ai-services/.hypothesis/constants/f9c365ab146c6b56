@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\cross_encoder\util.py
+# hypothesis_version: 6.151.10
+
+['activation_fct', 'activation_fn', 'automodel_args', 'cache_dir', 'cache_folder', 'classifier_dropout', 'config_args', 'config_kwargs', 'model_kwargs', 'model_name', 'model_name_or_path', 'num_workers', 'tokenizer_args', 'tokenizer_kwargs']

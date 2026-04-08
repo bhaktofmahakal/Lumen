@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\models\LSTM.py
+# hypothesis_version: 6.151.10
+
+['bidirectional', 'cache_folder', 'dropout', 'hidden_dim', 'local_files_only', 'lstm_config.json', 'num_layers', 'revision', 'sentence_lengths', 'subfolder', 'token', 'token_embeddings']

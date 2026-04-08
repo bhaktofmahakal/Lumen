@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\_trace_wrapped_higher_order_op.py
+# hypothesis_version: 6.151.10
+
+['bw_state', 'call_function', 'dtype mismatch', 'size mismatch', 'stride mismatch', 'trace_wrapped']

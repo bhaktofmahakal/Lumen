@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\functions\elementary\complexes.py
+# hypothesis_version: 6.151.10
+
+['!=', '%s^{\\dagger}', '+', '==', '\\left(%s\\right)^{%s}', '_eval_Abs', 't', 'unbranched', '†']

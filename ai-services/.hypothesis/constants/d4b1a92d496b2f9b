@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\generation\continuous_batching\input_outputs.py
+# hypothesis_version: 6.151.10
+
+['No requests in batch', 'attention_mask', 'block_table', 'cache', 'cpu', 'cu_seq_lens_k', 'cu_seq_lens_q', 'cuda', 'full_attention', 'input_ids', 'logits_indices', 'max_seqlen_k', 'max_seqlen_q', 'position_ids', 'read_index', 'sliding_attention', 'sliding_window', 'use_cache', 'write_index']

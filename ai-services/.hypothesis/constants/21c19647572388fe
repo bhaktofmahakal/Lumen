@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\metrics\_plot\precision_recall_curve.py
+# hypothesis_version: 6.151.10
+
+[-0.01, 1.01, '--', '1.8', 'Precision', 'Recall', 'auto', 'color', 'deprecated', 'drawstyle', 'equal', 'k', 'label', 'linestyle', 'lower left', 'steps-post']

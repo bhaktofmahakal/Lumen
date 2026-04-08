@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\io\excel\_base.py
+# hypothesis_version: 6.151.10
+
+[b'\t\x00\x04\x00\x07\x00\x10\x00', b'\t\x02\x06\x00\x00\x00\x10\x00', b'\t\x04\x06\x00\x00\x00\x10\x00', b'PK\x03\x04', b'\xd0\xcf\x11\xe0\xa1\xb1\x1a\xe1', 32767, 86400, '.', '/', '0', 'YYYY-MM-DD', 'YYYY-MM-DD HH:MM:SS', '\\', '_WorkbookT', 'a', 'auto', 'b', 'book', 'calamine', 'close', 'compression', 'content.xml', 'error', 'ignore', 'method', 'name', 'new', 'nrows', 'odf', 'ods', 'openpyxl', 'overlay', 'pandas', 'pyxlsb', 'r+', 'rb', 'read', 'reader', 'release_resources', 'replace', 'stream is empty', 'w', 'writer', 'xl/workbook.bin', 'xl/workbook.xml', 'xlrd', 'xls', 'xlsb', 'xlsx', 'zip']

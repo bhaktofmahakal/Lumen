@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\cpu\__init__.py
+# hypothesis_version: 6.151.10
+
+['Event', 'Stream', 'StreamContext', 'amx_fp16', 'amx_tile', 'avx2', 'avx512_bf16', 'avx512_f', 'avx512_vnni', 'cpu', 'current_device', 'current_stream', 'device_count', 'get_capabilities', 'is_available', 'is_initialized', 'set_device', 'stream', 'synchronize']

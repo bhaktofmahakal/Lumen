@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\optimize\lbfgsb.py
+# hypothesis_version: 6.151.10
+
+['LbfgsInvHessProduct', 'OptimizeResult', '_lbfgsb_py', 'fmin_l_bfgs_b', 'lbfgsb', 'optimize', 'zeros']

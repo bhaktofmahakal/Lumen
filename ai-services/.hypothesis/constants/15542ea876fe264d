@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\bytecode_analysis.py
+# hypothesis_version: 6.151.10
+
+[100, '-inf', 'DELETE', 'Instruction', 'JUMP_ABSOLUTE', 'JUMP_BACKWARD', 'JUMP_FORWARD', 'LOAD', 'MAKE_CELL', 'RAISE_VARARGS', 'RERAISE', 'RETURN_CONST', 'RETURN_VALUE', 'STORE', 'StackSize', 'inf']

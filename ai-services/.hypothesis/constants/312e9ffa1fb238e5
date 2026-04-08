@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\variables\base.py
+# hypothesis_version: 6.151.10
+
+['<unknown type>', 'ConstantVariable', 'PyCodegen', 'UserFunctionVariable', 'VariableTracker', '__getattr__', '__iter__', '__len__', '__next__', '_call_once_guarded', '_no_implicit_realize', '_vt_active_calls', 'as_python_constant', 'guards', 'is_leaf', 'mutation_type', 'parents_tracker', 'reconstruct', 'source', 'value']

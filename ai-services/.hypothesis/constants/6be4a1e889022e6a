@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\utilities\misc.py
+# hypothesis_version: 6.151.10
+
+[100, '  %s\n', '"', '"""', '%s\n%s', '%s\nr%s', '%s is not an integer', '%s%s = %s\n', "'", "'''", '(\n    %s\n)', '(\n%s%%s%s\n)', '(\nr%s%%s%s\n)', '+-%s\n', '-bit', '.', '.exe', '1.7', "<class '", "<type '", 'Eq', 'Equality', 'Ge', 'GreaterThan', 'Gt', 'Le', 'LessThan', 'Lt', 'Ne', 'P', 'PATH', 'PATHEXT', 'StrictGreaterThan', 'StrictLessThan', 'Unequality', '\\', '__name__', 'func', 'hash_randomization', 'nd', 'os2', 'rd', 'st', 'th', 'win32', '|', '| %s\n']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\plotting\intervalmath\__init__.py
+# hypothesis_version: 6.151.10
+
+['Abs', 'And', 'Or', 'acos', 'acosh', 'asin', 'asinh', 'atan', 'atanh', 'ceil', 'cos', 'cosh', 'exp', 'floor', 'imax', 'imin', 'interval', 'log', 'log10', 'sin', 'sinh', 'sqrt', 'tan', 'tanh']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_functorch\_aot_autograd\collect_metadata_analysis.py
+# hypothesis_version: 6.151.10
+
+['CppFunction', 'torch._dynamo']

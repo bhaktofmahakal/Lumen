@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\jmespath\functions.py
+# hypothesis_version: 6.151.10
+
+[',', '-', ':', 'NoneType', 'OrderedDict', '_Expression', '_Projection', '_func_', 'array', 'array-number', 'array-string', 'bool', 'boolean', 'dict', 'expref', 'float', 'function', 'int', 'list', 'long', 'max_by', 'min_by', 'null', 'number', 'object', 'signature', 'sort_by', 'str', 'string', 'types', 'unicode', 'unknown', 'variadic']

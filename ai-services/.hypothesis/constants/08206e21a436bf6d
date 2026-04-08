@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\package\find_file_dependencies.py
+# hypothesis_version: 6.151.10
+
+['*', '.', '__import__', 'fromlist', 'id', 'keywords', 'level']

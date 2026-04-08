@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\solvers\__init__.py
+# hypothesis_version: 6.151.10
+
+['Complexes', 'check_assumptions', 'checkodesol', 'checkpdesol', 'checksol', 'classify_ode', 'classify_pde', 'decompogen', 'det_quick', 'diophantine', 'dsolve', 'factor_system', 'failing_assumptions', 'homogeneous_order', 'inv_quick', 'linear_eq_to_matrix', 'linprog', 'linsolve', 'lpmax', 'lpmin', 'nonlinsolve', 'nsolve', 'ode_order', 'pde_separate', 'pde_separate_add', 'pde_separate_mul', 'pdsolve', 'reduce_inequalities', 'rsolve', 'rsolve_hyper', 'rsolve_poly', 'rsolve_ratio', 'solve', 'solve_linear', 'solve_linear_system', 'solve_poly_system', 'solve_triangulated', 'solveset', 'substitution']

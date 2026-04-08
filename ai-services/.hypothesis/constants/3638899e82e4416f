@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\integrations\sdpa_attention.py
+# hypothesis_version: 6.151.10
+
+[0.0, '2.5', '2.8', 'enable_gqa', 'is_causal', 'num_key_value_groups', 'output_attentions']

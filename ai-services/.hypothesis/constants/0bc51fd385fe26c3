@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\huggingface_hub\utils\_telemetry.py
+# hypothesis_version: 6.151.10
+
+['/', 'library_name', 'library_version', 'topic', 'user_agent']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\tokenizers\implementations\sentencepiece_bpe.py
+# hypothesis_version: 6.151.10
+
+[1000, 30000, '<unk>', 'SentencePieceBPE', 'add_prefix_space', 'always', 'dropout', 'model', 'never', 'replacement', 'unk_token', '▁']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\_lib\array_api_extra\_delegation.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1e-08, 1e-05, 'atleast_nd', 'auto', 'constant', 'cov', 'create_diagonal', 'expand_dims', 'integral', 'isclose', 'nan_to_num', 'one_hot', 'pad', 'real floating', 'sinc']

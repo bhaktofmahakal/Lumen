@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\local\async_qdrant_local.py
+# hypothesis_version: 6.151.10
+
+[20000, '.lock', ':memory:', 'aliases', 'collection', 'collections', 'init_from', 'meta.json', 'qdrant-client', 'r', 'r+', 'tmp lock file', 'w']

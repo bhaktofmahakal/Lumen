@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\fsdp\__init__.py
+# hypothesis_version: 6.151.10
+
+['BackwardPrefetch', 'CPUOffload', 'CPUOffloadPolicy', 'FSDPModule', 'FullStateDictConfig', 'LocalStateDictConfig', 'MixedPrecision', 'MixedPrecisionPolicy', 'OffloadPolicy', 'OptimStateDictConfig', 'OptimStateKeyType', 'ShardingStrategy', 'StateDictConfig', 'StateDictSettings', 'StateDictType', 'UnshardHandle', 'fully_shard', 'share_comm_ctx']

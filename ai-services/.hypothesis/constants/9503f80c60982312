@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\langsmith\schemas.py
+# hypothesis_version: 6.151.10
+
+['api', 'categorical', 'chain', 'chat', 'continuous', 'embedding', 'freeform', 'id', 'inputs', 'inputs_schema', 'kv', 'llm', 'metadata', 'model', 'num_downloads', 'num_likes', 'num_views', 'outputs_schema', 'parser', 'prompt', 'retriever', 'revision_id', 'tags', 'tool', 'trace_id', 'updated_at']

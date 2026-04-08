@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\generation\logits_process.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.25, 0.5, 0.9, 1.0, 2.0, 100, 1000003, 15485863, 6364136223846793005, '-inf', 'GenerationConfig', 'Inf', 'attention_mask', 'cpu', 'first_pass', 'inf', 'input_features', 'input_ids', 'inputs', 'lefthash', 'min_new_tokens', 'past_key_values', 'selfhash', 'use_cache']

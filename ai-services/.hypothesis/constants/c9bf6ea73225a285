@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\llms\palm.py
+# hypothesis_version: 6.151.10
+
+[400, 500, 'POST', '__', 'choices', 'complete_input_dict', 'content', 'created', 'inference_params', 'message', 'model', 'output', 'palm/', 'role', 'self', 'stream', 'user']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\polys\rootisolation.py
+# hypothesis_version: 6.151.10
+
+['(%s, %s)', '(%s, %s) x (%s, %s)', 'A1', 'A2', 'A3', 'A4', 'E', 'N', 'NE', 'NW', 'OO', 'Q1', 'Q2', 'Q3', 'Q4', 'S', 'SE', 'SW', 'W']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_functorch\_aot_autograd\functional_utils.py
+# hypothesis_version: 6.151.10
+
+[', ', '_ViewMeta', 'aot_joint_graph', 'copy_', 'placeholder', 'resize_', 'set_', 'set_buffer_donor_', 'stack_trace']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\solvers\solvers.py
+# hypothesis_version: 6.151.10
+
+[1e-09, 126, ', ', 'ImmutableDenseMatrix', 'J(x):', 'X%d', '_denominators', '_eval_simplify', '_reverse', '_split', '_take', '_unrad', 'abcdAB', 'bivariate', 'bivariate-cov', 'check', 'could not solve %s', 'cov', 'cubics', 'dict', 'exclude', 'f(x):', 'force', 'implicit', 'incomplete', 'integer_power', 'inverse', 'manual', 'method', 'minimal', 'minsolve: %s', 'modules', 'mpmath', 'n', 'numerical', 'p', 'particular', 'prec', 'quartics', 'quick', 'quintics', 'rational', 'rpt', 'set', 'simplify', 'solve(%s, %s)', 'solve(%s, *%s)', 'subs', 't', 'tsolve', 'tsolve_saw', 'verbose', 'warn']

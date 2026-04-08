@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\dtypes\cast.py
+# hypothesis_version: 6.151.10
+
+[0.0, 5e-16, 5e-08, 0.0005, '<U', 'Categorical', 'Float64', 'Int64', 'M', 'M8[ns]', 'NaT', 'NumpyArrayT', 'O', 'S', 'TimeUnit', 'US', 'V', 'b', 'biu', 'bool', 'boolean', 'bytes', 'c', 'datetime64', 'dtype', 'f', 'fb', 'float64', 'floating', 'i', 'if', 'ignore', 'integer', 'iu', 'iuc', 'iuf', 'iufb', 'iufc', 'iufcmM', 'm', 'mM', 'mMSU', 'mixed', 'mixed-integer', 'no types given', 'ns', 'numpy_nullable', 'object', 'pyarrow', 'string', 'subtype', 'timedelta64', 'u']

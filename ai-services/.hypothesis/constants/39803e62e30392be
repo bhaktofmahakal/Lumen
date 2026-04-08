@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\llms\nlp_cloud.py
+# hypothesis_version: 6.151.10
+
+[b'\x00', 1024, '/generation', 'Authorization', '__', 'accept', 'api_base', 'application/json', 'choices', 'complete_input_dict', 'content', 'content-type', 'created', 'error', 'generated_text', 'headers', 'message', 'model', 'nb_generated_tokens', 'nb_input_tokens', 'self', 'stream', 'text', 'utf-8']

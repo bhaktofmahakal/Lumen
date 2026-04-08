@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_functorch\_aot_autograd\runtime_wrappers.py
+# hypothesis_version: 6.151.10
+
+['  [%s] %s', '%s (count=%s):', '%s: %s', 'Incoming args', '__annotations__', '__doc__', '__name__', '__type_params__', '_boxed_call', '_c10d_functional', 'aot_graphs', 'backward', 'bw_donated_idxs', 'c10d', 'cpu', 'fsdp', 'fw_metadata', 'namespace', 'onednn', 'saved_context', 'val']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\arrays\string_arrow.py
+# hypothesis_version: 6.151.10
+
+['\\', '\\Z', '\\g<', '\\z', 'all', 'any', 'argmax', 'argmin', 'float64', 'max', 'min', 'na', 'pandas.arrays', 'pyarrow', 'string', 'sum', '|']

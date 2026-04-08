@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\common\version_check.py
+# hypothesis_version: 6.151.10
+
+[200, '.', 'Version', 'Version is None', 'major', 'minor', 'rest', 'version']

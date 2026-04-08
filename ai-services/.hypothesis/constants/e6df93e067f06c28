@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\hyperparameter_search.py
+# hypothesis_version: 6.151.10
+
+["'ray[tune]'", 'optuna', 'ray', 'wandb']

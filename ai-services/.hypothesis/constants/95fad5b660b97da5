@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\optimization.py
+# hypothesis_version: 6.151.10
+
+[-0.8, 0.0, 1e-30, 1e-08, 1e-07, 1e-06, 0.001, 0.01, 0.5, 0.95, 1.0, 2.0, 500, 10000, '-inf', '1-sqrt', 'RMS', '_init_lrs', '_last_lr', '_streaming_avg', 'abs', 'best', 'beta1', 'clip_threshold', 'cooldown', 'cooldown_counter', 'cosine', 'decay_rate', 'eps', 'exp_avg', 'exp_avg_sq', 'exp_avg_sq_col', 'exp_avg_sq_row', 'factor', 'inf', 'initial_lr', 'last_epoch', 'linear', 'lr', 'max', 'max_lrs', 'min', 'min_lrs', 'mode', 'num_bad_epochs', 'num_good_epochs', 'params', 'patience', 'rel', 'relative_step', 'reset_start', 'reset_start_original', 'scale_parameter', 'smooth', 'step', 'sum', 'threshold', 'threshold_mode', 'values', 'verbose', 'warmup', 'warmup_counter', 'warmup_init', 'weight_decay', 'window_size']

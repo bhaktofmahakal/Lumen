@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\discrete\__init__.py
+# hypothesis_version: 6.151.10
+
+['convolution', 'covering_product', 'fft', 'fwht', 'ifft', 'ifwht', 'intersecting_product', 'intt', 'mobius_transform', 'ntt']

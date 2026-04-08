@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\mpmath\libmp\libhyper.py
+# hypothesis_version: 6.151.10
+
+[0.528766, 0.693, 1.44, 100, 144, 1000, 12345, '            break', '        break', '        if not mul:', '    ACRE_# += one', '    AINT_# += 1', '    AP_# += AQ_#', '    AREAL_# += one', '    BCRE_# += one', '    BINT_# += 1', '    BP_# += BQ_#', '    BREAL_# += one', '    PIM >>= wp', '    PRE >>= wp', '    SIM += PIM', '    SRE += PRE', '    div = ', '    else:', '    if SIM:', '    if n > MAX:', '    if not div:', '    magn = -wp+1', '    magn = a[2]+a[3]', '    magn = b[2]+b[3]', '    mul = ', ' * ', '#', '(none)', 'A', 'AINT_#', 'AP_#', 'AQ_#', 'B', 'BINT_#', 'BP_#', 'BQ_#', 'C', 'E1(x) for x < 0', 'LOW = -HIGH', 'Q', 'R', 'SIM = PIM = MPZ_ZERO', 'Z', 'elif SIM:', 'else:', 'if SRE:', 'if offset >= 0:', 'if xsign: xm = -xm', 'if ysign: ym = -ym', 'n', 'offset = xe + wp', 'offset = ye + wp', 'sage']

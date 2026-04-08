@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\matrices\expressions\__init__.py
+# hypothesis_version: 6.151.10
+
+['Adjoint', 'BlockDiagMatrix', 'BlockMatrix', 'CompanionMatrix', 'Determinant', 'DiagMatrix', 'DiagonalMatrix', 'DiagonalOf', 'DotProduct', 'FunctionMatrix', 'HadamardPower', 'HadamardProduct', 'Identity', 'Inverse', 'KroneckerProduct', 'MatAdd', 'MatMul', 'MatPow', 'MatrixExpr', 'MatrixPermute', 'MatrixSet', 'MatrixSlice', 'MatrixSymbol', 'OneMatrix', 'Permanent', 'PermutationMatrix', 'Trace', 'Transpose', 'ZeroMatrix', 'block_collapse', 'blockcut', 'combine_kronecker', 'det', 'diagonalize_vector', 'hadamard_power', 'hadamard_product', 'kronecker_product', 'matrix_symbols', 'per', 'trace']

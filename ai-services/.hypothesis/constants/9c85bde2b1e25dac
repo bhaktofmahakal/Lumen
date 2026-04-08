@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\google\protobuf\internal\well_known_types.py
+# hypothesis_version: 6.151.10
+
+[1000.0, 1000000.0, 1000000000.0, -62135596800, 1000, 1970, 3600, 1000000, 1000000000, 253402300799, 315576000000, '%Y-%m-%dT%H:%M:%S', '%d', '%s%s', '%s/%s', '+', '-', '-0{0}', '.', '.%03dZ', '.%03ds', '.%06dZ', '.%06ds', '.%09dZ', '.%09ds', '/', '0.', '0{0}', ':', 'Unexpected type', 'Value not set', 'Z', 'bool_value', 'datetime', 'google.protobuf.Any', 'kind', 'list_value', 'null_value', 'number_value', 's', 'string_value', 'struct_value', 't', 'timedelta', 'type.googleapis.com/']

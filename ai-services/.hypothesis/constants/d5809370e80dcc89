@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\onnx\_internal\torchscript_exporter\_type_utils.py
+# hypothesis_version: 6.151.10
+
+['BFloat16', 'Bool', 'Byte', 'Char', 'ComplexDouble', 'ComplexFloat', 'ComplexHalf', 'Double', 'Float', 'Float8E4M3FN', 'Float8E4M3FNUZ', 'Float8E5M2', 'Float8E5M2FNUZ', 'Half', 'Int', 'Long', 'QInt32', 'QInt8', 'QUInt8', 'Short', 'Undefined', 'bfloat16', 'bool', 'complex128', 'complex32', 'complex64', 'double', 'float', 'float8_e4m3fn', 'float8_e4m3fnuz', 'float8_e5m2', 'float8_e5m2fnuz', 'half', 'int', 'int16_t', 'int64_t', 'int8_t', 'prim::Constant', 'qint32', 'qint8', 'quint8', 'uint8_t']

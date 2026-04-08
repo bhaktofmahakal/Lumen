@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\llms\cloudflare.py
+# hypothesis_version: 6.151.10
+
+[200, 'Authorization', 'Bearer ', 'POST', '__', 'accept', 'api_base', 'application/json', 'bos_token', 'choices', 'cloudflare/', 'complete_input_dict', 'content', 'content-type', 'created', 'eos_token', 'final_prompt_value', 'headers', 'initial_prompt_value', 'message', 'messages', 'model', 'response', 'result', 'roles', 'self', 'stream']

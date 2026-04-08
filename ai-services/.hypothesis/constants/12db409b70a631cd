@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\autograd\__init__.py
+# hypothesis_version: 6.151.10
+
+[' and output[', '.', 'Function', 'NestedIOFunction', 'Variable', '] has a dtype of ', '] has a shape of ', 'backward', 'detect_anomaly', 'enable_grad', 'grad', 'grad_mode', 'gradcheck', 'gradgradcheck', 'inference_mode', 'no_grad', 'set_detect_anomaly', 'set_grad_enabled', 'variable']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\io\json\__init__.py
+# hypothesis_version: 6.151.10
+
+['build_table_schema', 'read_json', 'to_json', 'ujson_dumps', 'ujson_loads']

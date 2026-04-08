@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\arrays\string_.py
+# hypothesis_version: 6.151.10
+
+['0', 'Int64', 'K', 'T', 'U', '_', '_na_value', 'all', 'any', 'argmax', 'argmin', 'auto', 'b', 'backfill', 'bool', 'cummax', 'cummin', 'cumprod', 'cumsum', 'dtype', 'extension', 'float64', 'left', 'max', 'min', 'mode.string_storage', 'mul', 'object', 'pad', 'pandas', 'pandas.arrays', 'pyarrow', 'python', 'right', 'rmul', 'storage', "storage='python', ", 'str', 'string', 'string[pyarrow]', 'string[python]', 'sum', 'uint8']

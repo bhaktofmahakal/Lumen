@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\externals\array_api_compat\numpy\fft.py
+# hypothesis_version: 6.151.10
+
+['fft2', 'ifft2', 'irfft2', 'rfft2']

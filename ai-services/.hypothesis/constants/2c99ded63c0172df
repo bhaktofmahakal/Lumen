@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\responses\response_input_item.py
+# hypothesis_version: 6.151.10
+
+['ComputerCallOutput', 'FunctionCallOutput', 'ImageGenerationCall', 'ItemReference', 'LocalShellCall', 'LocalShellCallAction', 'LocalShellCallOutput', 'McpApprovalRequest', 'McpApprovalResponse', 'McpCall', 'McpListTools', 'McpListToolsTool', 'Message', 'ResponseInputItem', 'completed', 'computer_call_output', 'developer', 'exec', 'failed', 'function_call_output', 'generating', 'in_progress', 'incomplete', 'item_reference', 'local_shell_call', 'mcp_approval_request', 'mcp_call', 'mcp_list_tools', 'message', 'system', 'type', 'user']

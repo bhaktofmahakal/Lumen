@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\special\_support_alternative_backends.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.5, 1.0, 1000, 'array_api_strict', 'bessel_j0', 'bessel_j1', 'bessel_y0', 'bessel_y1', 'betainc', 'cupy', 'dask.array', 'data', 'digamma', 'gammainc', 'gammaincc', 'ignore', 'jax.numpy', 'marray', 'mask', 'modified_bessel_k0', 'modified_bessel_k1', 'numpy', 'scipy.special', 'special', 'stdtr', 'torch']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\optimize\_direct_py.py
+# hypothesis_version: 6.151.10
+
+[1e-16, 1e-06, 0.0001, -100, 1000, 'Forced stop', 'Invalid arguments', 'Out of memory', 'direct', 'maxfun is too large', 'maxfun must be > 0.', 'maxiter must be > 0.']

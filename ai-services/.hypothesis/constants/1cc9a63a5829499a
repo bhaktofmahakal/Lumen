@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\fx\subgraph_rewriter.py
+# hypothesis_version: 6.151.10
+
+['.', 'InternalMatch', 'Match', 'ReplacedPatterns', 'call_module', 'get_attr', 'output', 'placeholder', 'replace_pattern']

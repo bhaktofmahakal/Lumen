@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\compiler\config.py
+# hypothesis_version: 6.151.10
+
+['TORCH_COMPILE_JOB_ID', 'TORCH_CUDAGRAPH_GC', 'dynamic_shapes', 'force_disable_caches', 'job_id', 'log_file_name', 'recompile_limit', 'verbose', 'wrap_top_frame']

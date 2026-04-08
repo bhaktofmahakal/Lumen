@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\linalg\_special_matrices.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1.0, 'block_diag', 'c', 'circulant', 'companion', 'constant', 'convolution_matrix', 'dft', 'f', 'fiedler', 'fiedler_companion', 'full', 'hadamard', 'hankel', 'helmert', 'hilbert', 'invhilbert', 'invpascal', 'leslie', 'lower', 'n', 'pascal', 'r', 's', 'same', 'sqrtn', 'symmetric', 'toeplitz', 'upper', 'valid']

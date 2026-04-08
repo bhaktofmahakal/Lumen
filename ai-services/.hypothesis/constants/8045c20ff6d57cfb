@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\construction.py
+# hypothesis_version: 6.151.10
+
+['Float64', 'M', 'M8[s]', 'SU', 'U', '__array__', '_typ', 'b', 'boolean', 'categoricalindex', 'datetimeindex', 'f', 'index', 'int64', 'intervalindex', 'iu', 'm', 'mM', 'multiindex', 'ndim', 'npy_extension', 'object', 'pandas', 'periodindex', 'python', 'rangeindex', 'series', 'str', 'timedeltaindex', 'uint64']

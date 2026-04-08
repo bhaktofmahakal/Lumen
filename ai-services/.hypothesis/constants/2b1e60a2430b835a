@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\http\api\indexes_api.py
+# hypothesis_version: 6.151.10
+
+['2.', 'BaseModel', 'Content-Type', 'DELETE', 'Model', 'PUT', 'application/json', 'collection_name', 'field_name', 'json', 'model_dump_json', 'ordering', 'timeout', 'wait']

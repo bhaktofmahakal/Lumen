@@ -1,0 +1,4 @@
+# file: C:\xampp\htdocs\chat-app\ai-services\rag_service.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.3, 0.4, 0.7, 200, 1000, 3600, '#', '.', 'Unknown', '\\[Source (\\d+)\\]', 'accuracy_score', 'agentic', 'authors', 'citation', 'citations', 'confidence', 'content', 'cost', 'decomposition_used', 'document_count', 'document_id', 'document_title', 'fast_latency', 'fast_results', 'final_results', 'flagged_citations', 'from_cache', 'inline_marker', 'input_tokens', 'metadata', 'method', 'model', 'numbered', 'original_query', 'output_tokens', 'page_number', 'position_end', 'position_start', 'project_id', 'query', 'reason', 'response', 'retrieval_metadata', 'retrieval_time', 'score', 'section', 'slow_latency', 'slow_metadata', 'slow_results', 'slow_triggered', 'statement', 'sub_queries', 'text', 'text_excerpt', 'title', 'total_candidates', 'total_citations', 'total_time', 'unknown', 'verification', 'verified_citations', 'voice_rag']

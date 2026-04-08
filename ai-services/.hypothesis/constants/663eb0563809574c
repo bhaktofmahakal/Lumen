@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\packaging\markers.py
+# hypothesis_version: 6.151.10
+
+['!=', '(', ')', '+', '.', '<', '<=', '==', '>', '>=', 'Environment', 'EvaluateContext', 'InvalidMarker', 'Marker', 'UndefinedComparison', 'and', 'default_environment', 'dependency_groups', 'extra', 'extras', 'final', 'implementation_name', 'in', 'lhs must be a string', 'lock_file', 'metadata', 'not in', 'or', 'os_name', 'platform_machine', 'platform_release', 'platform_system', 'platform_version', 'python_full_version', 'python_version', 'requirement', 'str', 'str | None', 'sys_platform']

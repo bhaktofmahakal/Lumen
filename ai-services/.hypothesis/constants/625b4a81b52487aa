@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\models\bert\modeling_bert.py
+# hypothesis_version: 6.151.10
+
+[-0.5, 0.0, 'BertEmbeddings', 'BertForMaskedLM', 'BertForPreTraining', 'BertLMHeadModel', 'BertLayer', 'BertModel', 'BertPreTrainedModel', 'attentions', 'bert', 'cls.predictions.bias', 'cross_attentions', 'crossattention', 'embedding_size', 'hidden_states', 'position_ids', 'regression', 'token_type_ids']

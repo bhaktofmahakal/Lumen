@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\utils\type_validators.py
+# hypothesis_version: 6.151.10
+
+[' and', ', got {value}.', '-inf', ':', 'PILImageResampling', 'Value must be', 'cpu', 'cuda', 'do_not_pad', 'do_not_truncate', 'duration', 'fps', 'frames_indices', 'height', 'inf', 'length', 'longest', 'longest_edge', 'longest_first', 'max_height', 'max_length', 'max_width', 'meta', 'mlx', 'mps', 'np', 'only_first', 'only_second', 'pt', 'shape', 'shortest_edge', 'torch.Tensor', 'total_num_frames', 'video_backend', 'width', 'xla', 'xpu']

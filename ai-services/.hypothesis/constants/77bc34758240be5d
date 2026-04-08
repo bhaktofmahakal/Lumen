@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\langsmith\_internal\_operations.py
+# hypothesis_version: 6.151.10
+
+['.', 'Content-Length', '_none', 'application/json', 'attachments', 'dict', 'events', 'feedback', 'id', 'inputs', 'operation', 'outputs', 'patch', 'post', 'trace_id']

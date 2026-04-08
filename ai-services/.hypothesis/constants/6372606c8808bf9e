@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\methods\selectn.py
+# hypothesis_version: 6.151.10
+
+['C', 'all', 'b', 'first', 'i8', 'last', 'nlargest', 'nsmallest', 'stable']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\utils\output_capturing.py
+# hypothesis_version: 6.151.10
+
+['attentions', 'cross_', 'cross_attentions', 'hidden_states', 'last_hidden_state', 'output_', 'output_attentions', 'output_collector', 'return_dict', 'torch', 'vision_hidden_states']

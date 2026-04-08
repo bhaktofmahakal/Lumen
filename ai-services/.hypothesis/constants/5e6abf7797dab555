@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\io\json\_json.py
+# hypothesis_version: 6.151.10
+
+[31536000, 31536000000, 31536000000000, 31536000000000000, ', ', 'FrameSeriesStrT', 'M', 'Mm', '_at', '_time', 'a', 'chunksize', 'columns', 'convert_axes', 'convert_dates', 'data', 'date', 'date_unit', 'datetime', 'dtype', 'dtype_backend', 'epoch', 'f', 'float', 'float64', 'frame', 'ignore', 'index', 'infer', 'int', 'int64', 'iso', 'iso8601', 'keep_default_dates', 'm', 'mixed', 'modified', 'ms', 'name', 'nrows', 'ns', 'object', 'orient', 'pandas', 'pandas.api.typing', 'precise_float', 'pyarrow', 'pyarrow.json', 'r', 'raise', 'records', 's', 'schema', 'series', 'split', 'strict', 'string', 'table', 'timedelta', 'timestamp', 'ujson', 'us', 'values', 'w']

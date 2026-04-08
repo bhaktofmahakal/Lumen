@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\sparse_encoder\losses\SpladeLoss.py
+# hypothesis_version: 6.151.10
+
+['base_loss', 'document_regularizer', 'loss', 'query_regularizer', 'sentence_embedding', 'threshold']

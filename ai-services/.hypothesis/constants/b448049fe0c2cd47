@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\core_model_loading.py
+# hypothesis_version: 6.151.10
+
+['$', '*', ', ', '.', '.*', '.*.', '.0.', 'BF', 'F', 'Loading weights', '\\(.+?\\)', '\\(\\?.+?\\)?\\)', '\\.', '\\..*\\.', '\\1', '^', '_weight_conversions', 'cpu', 'dim', 'disk', 'full_layer_name', 'get_dtype', 'model', 'num_attention_heads', 'operations', 'source_patterns', 'target_patterns', '|']

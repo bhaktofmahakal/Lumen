@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\sparse\__init__.py
+# hypothesis_version: 6.151.10
+
+['addmm', 'as_sparse_gradcheck', 'compressed_indices', 'indices', 'is_coalesced', 'layout', 'log_softmax', 'masked', 'mm', 'plain_indices', 'shape', 'softmax', 'solve', 'sum']

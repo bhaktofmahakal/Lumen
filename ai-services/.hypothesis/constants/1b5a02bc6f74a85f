@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\polys\matrices\domainmatrix.py
+# hypothesis_version: 6.151.10
+
+[0.5, '*', '+', '-', 'Column out of range', 'DomainMatrix.to_dfm', 'Negative powers', 'Non-unique solution.', 'Not a field', 'Row out of range', 'Shape', 'auto', 'charpoly', 'denominator is zero', 'dense', 'flint', 'gmpy', 'not square', 'python', 'rref', 'sparse']

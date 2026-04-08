@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\sparse\linalg\matfuncs.py
+# hypothesis_version: 6.151.10
+
+['LinearOperator', '_matfuncs', 'expm', 'inv', 'matfuncs', 'sparse.linalg', 'spsolve']

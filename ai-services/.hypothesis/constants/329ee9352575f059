@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\models\tokenizer\WhitespaceTokenizer.py
+# hypothesis_version: 6.151.10
+
+['do_lower_case', 'stop_words', 'vocab', 'w']

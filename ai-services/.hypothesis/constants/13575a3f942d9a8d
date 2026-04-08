@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\_shard\sharding_spec\chunk_sharding_spec_ops\embedding.py
+# hypothesis_version: 6.151.10
+
+[0.0, 'max_norm', 'norm_type', 'padding_idx', 'scale_grad_by_freq', 'sparse']

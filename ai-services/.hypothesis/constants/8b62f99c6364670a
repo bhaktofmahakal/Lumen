@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\compiled_autograd.py
+# hypothesis_version: 6.151.10
+
+[123, 123456789, '%s', '.', 'CppNode', 'DCE removed %d nodes', '_aot_id', 'artifact', 'aten', 'call_function', 'call_module', 'captures', 'compiled_autograd', 'cpu', 'cuda', 'encoding', 'example_value', 'force_eager', 'get_attr', 'graph_id', 'hook_type', 'hooks', 'inputs', 'json', 'name', 'output', 'packed_data', 'placeholder', 'post_acc_grad_hook', 'post_hook', 'pre_hook', 'prims', 'scalars', "shouldn't get here", 'sizes', 'string', 'symbolic', 'tensor_meta', 'tensor_pre_hook', 'unpack_hook', 'val', 'validate_outputs']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\interpolate\_bsplines.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1e-15, 1.0, 'BSpline', 'Bounded', 'C', 'F', 'Need more x points.', 'c', 'clamped', 'dask.array', 'gbsv', 'make_interp_spline', 'make_lsq_spline', 'natural', 'norm-eq', 'not-a-knot', 'periodic', 'qr']

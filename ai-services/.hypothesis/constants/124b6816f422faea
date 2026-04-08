@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\ao\nn\qat\modules\linear.py
+# hypothesis_version: 6.151.10
+
+['Linear', 'bias', 'device', 'dtype', 'qconfig', 'weight']

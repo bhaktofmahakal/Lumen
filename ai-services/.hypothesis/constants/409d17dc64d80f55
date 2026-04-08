@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\optimize\_cobyqa_py.py
+# hypothesis_version: 6.151.10
+
+[1e-08, 1e-06, 1.0, 500, 1000, 'disp', 'feasibility_tol', 'maxfev', 'maxiter', 'radius_final', 'radius_init', 'scale', 'target']

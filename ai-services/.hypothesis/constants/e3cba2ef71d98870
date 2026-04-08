@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\evaluation\MSEEvaluator.py
+# hypothesis_version: 6.151.10
+
+[100, 'MSE', '_results.csv', 'a', 'epoch', 'mse_evaluation_', 'negative_mse', 'steps', 'truncate_dim', 'utf-8', 'w']

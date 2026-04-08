@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\metrics\_plot\det_curve.py
+# hypothesis_version: 6.151.10
+
+[0.001, 0.01, 0.05, 0.2, 0.5, 0.8, 0.95, 0.99, 0.999, 100, '1.8', 'False Negative Rate', 'False Positive Rate', 'auto', 'deprecated', 'label', 'lower right', '{:.0%}', '{:.1%}']

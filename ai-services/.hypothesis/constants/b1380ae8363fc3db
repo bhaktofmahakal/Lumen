@@ -1,0 +1,4 @@
+# file: C:\xampp\htdocs\chat-app\ai-services\text_extraction.py
+# hypothesis_version: 6.151.10
+
+['RGB', '[,;]|\\sand\\s', 'author', 'authors', 'creationDate', 'creation_date', 'creator', 'eng', 'equation_count', 'extraction_method', 'figure_count', 'has_figures', 'has_tables', 'keywords', 'marker', 'modDate', 'modification_date', 'page_count', 'producer', 'pymupdf_nougat', 'subject', 'tesseract_ocr', 'title']

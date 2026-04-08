@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\audio_response_format.py
+# hypothesis_version: 6.151.10
+
+['AudioResponseFormat', 'json', 'srt', 'text', 'verbose_json', 'vtt']

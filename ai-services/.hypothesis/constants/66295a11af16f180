@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\grpc\collections_service_pb2_grpc.py
+# hypothesis_version: 6.151.10
+
+['CollectionExists', 'Create', 'CreateShardKey', 'Delete', 'DeleteShardKey', 'Get', 'List', 'ListAliases', 'ListShardKeys', 'Update', 'UpdateAliases', 'qdrant.Collections']

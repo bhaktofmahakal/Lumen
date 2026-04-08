@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\joblib\externals\loky\backend\resource_tracker.py
+# hypothesis_version: 6.151.10
+
+[b'PROBE:0:noop\n', '-c', ':', 'MAYBE_UNLINK', 'PROBE', 'REGISTER', 'UNREGISTER', '__del__', 'ascii', 'ensure_running', 'file', 'folder', 'noop', 'posix', 'pthread_sigmask', 'rb', 'register', 'sem_unlink', 'semlock', 'unregister', 'utf-8', 'win32']

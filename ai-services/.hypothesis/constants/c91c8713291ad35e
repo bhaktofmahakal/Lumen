@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\mpmath\functions\bessel.py
+# hypothesis_version: 6.151.10
+
+[-0.75, -0.5, -0.25, 0.0, 0.01, 0.25, 0.5, 0.75, 0.8, 0.999, 1.5, 1.8, 2.0, 2.4, 3.0, 105, 982, 2075, 3039, 3537, 3779, 6949, 153855, 296492, 1248002, 1585743, 5853627, 6277237, 7414380, '1/6', '2/3', 'Z', 'derivative', 'illinois', 'v cannot be negative']

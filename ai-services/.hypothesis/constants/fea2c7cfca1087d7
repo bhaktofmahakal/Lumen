@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\ao\nn\quantized\reference\modules\utils.py
+# hypothesis_version: 6.151.10
+
+[1.0, -2147483648, -128, 127, 255, 2147483647, 'axis', 'dtype', 'is_decomposed', 'qscheme', 'quant_max', 'quant_min', 'scale', 'weight_axis', 'weight_dtype', 'weight_qscheme', 'weight_scale', 'weight_zero_point', 'zero_point']

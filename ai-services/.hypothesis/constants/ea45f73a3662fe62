@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\__config__.py
+# hypothesis_version: 6.151.10
+
+['0.18.1', '0.3.30', '10.3.0', '3.0.2', '3.12', '3.2.4', 'Build Dependencies', 'Compilers', 'D:/a/scipy/scipy', 'False', 'Machine Information', 'Python Information', 'True', 'args', 'blas', 'build', 'c', 'c++', 'commands', 'config-tool', 'cpu', 'cross-compiled', 'cython', 'detection method', 'dicts', 'endian', 'false', 'family', 'fortran', 'found', 'gcc', 'gfortran', 'has ilp64', 'host', 'include directory', 'lapack', 'ld.bfd', 'lib directory', 'linker', 'linker args', 'little', 'name', 'path', 'pc file directory', 'pkgconfig', 'pybind11', 'pythran', 'scipy-openblas', 'show', 'stdout', 'system', 'unknown', 'version', 'windows', 'x86_64']

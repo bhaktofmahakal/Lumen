@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\modeling_flash_attention_utils.py
+# hypothesis_version: 6.151.10
+
+[0.0, '-', '0', '1', '_', 'causal', 'cuda', 'deterministic', 'device', 'dropout', 'dropout_p', 'dtype', 'flash-attn', 'flash-attn-3', 'flash-attn-4', 'flash_attention_2', 'flash_attention_3', 'flash_attention_4', 'flash_attn', 'flash_attn_func', 'flash_attn_interface', 'flash_attn_version', 'learnable_sink', 'max_seqlen_k', 'max_seqlen_q', 'mlu', 'mps', 'npu', 'paged|', 's_aux', 'sliding_window', 'softcap', 'softmax_scale', 'supported_devices', 'window_size', 'xpu', '|']

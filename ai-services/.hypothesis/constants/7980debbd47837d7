@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\ao\quantization\fuse_modules.py
+# hypothesis_version: 6.151.10
+
+['.', 'fuse_known_modules', 'fuse_modules', 'fuse_modules_qat']

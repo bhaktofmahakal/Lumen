@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\metrics\_base.py
+# hypothesis_version: 6.151.10
+
+[0.0, 'binary', 'macro', 'micro', 'multilabel-indicator', 'samples', 'weighted']

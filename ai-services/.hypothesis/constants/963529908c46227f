@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\side_effects.py
+# hypothesis_version: 6.151.10
+
+['\n********\n\n', ' (no source)', 'BUILD_LIST', 'BUILD_SLICE', 'DELETE_ATTR', 'LOAD_CONST', 'OutputGraph', 'POP_TOP', 'STORE_ATTR', 'STORE_FAST', 'STORE_GLOBAL', 'STORE_SUBSCR', 'SideEffects', '__enter__', '__exit__', '__getattribute__', '__new__', '__setattr__', 'artifact', 'builtins', 'cell_contents', 'clear', 'co_varnames', 'colno', 'dict_from', 'dict_to', 'dynamo_side_effects', 'encoding', 'end_colno', 'end_lineno', 'extend', 'iter_next', 'list_from', 'list_to', 'make_cell', 'mro_index', 'name', 'object', 'object_new', 'save_for_backward', 'setstate', 'side_effects', 'silent', 'string', 'tensor_hooks', 'update', 'value']

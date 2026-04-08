@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\numpy\_core\printoptions.py
+# hypothesis_version: 6.151.10
+
+[1000, '-', 'edgeitems', 'floatmode', 'format_options', 'formatter', 'inf', 'infstr', 'legacy', 'linewidth', 'maxprec', 'nan', 'nanstr', 'override_repr', 'precision', 'sign', 'suppress', 'threshold']

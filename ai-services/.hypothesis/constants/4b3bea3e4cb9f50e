@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\fastapi\sse.py
+# hypothesis_version: 6.151.10
+
+[b': ping\n\n', 15.0, '\x00', 'ServerSentEvent', 'after', 'data', 'event', 'id', 'integer', 'minimum', 'object', 'properties', 'retry', 'string', 'text/event-stream', 'type', 'utf-8']

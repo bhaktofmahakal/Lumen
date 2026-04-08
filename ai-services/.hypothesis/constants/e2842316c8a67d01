@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\aiohttp\base_protocol.py
+# hypothesis_version: 6.151.10
+
+['Connection lost', '_connection_lost', '_drain_waiter', '_loop', '_paused', '_reading_paused', 'transport']

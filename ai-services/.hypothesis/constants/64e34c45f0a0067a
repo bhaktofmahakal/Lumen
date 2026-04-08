@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\_composable\checkpoint_activation.py
+# hypothesis_version: 6.151.10
+
+[',', 'context_fn', 'debug', 'determinism_check', 'early_stop', 'preserve_rng_state', 'use_reentrant']

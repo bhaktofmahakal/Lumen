@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\concrete\expr_with_limits.py
+# hypothesis_version: 6.151.10
+
+['1.6', '_diff_wrt', 'expecting Range', 'force', 'is_commutative']

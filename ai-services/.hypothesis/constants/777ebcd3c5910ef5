@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_functorch\_aot_autograd\schemas.py
+# hypothesis_version: 6.151.10
+
+['FQN', 'FakifiedFlatArgs', 'GraphInputName', 'GraphOutputName', 'OutputCode', 'OutputType', 'SubclassTracingInfo', 'TOutputCode', '_P', '_R', 'alias_of_input', 'custom_function_view', 'is_input', 'maybe_subclass_meta', 'non_alias', 'plain_tensor_args', 'unsafe_view_alias', 'utf-8']

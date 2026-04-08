@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\beta\assistant_tool_choice.py
+# hypothesis_version: 6.151.10
+
+['AssistantToolChoice', 'code_interpreter', 'file_search', 'function']

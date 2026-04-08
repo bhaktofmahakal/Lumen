@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\version.py
+# hypothesis_version: 6.151.10
+
+['2.11.0+cpu', '__version__', 'cuda', 'debug', 'git_version', 'hip', 'rocm', 'xpu']

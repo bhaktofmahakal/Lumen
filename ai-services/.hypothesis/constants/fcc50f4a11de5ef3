@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_inductor\__init__.py
+# hypothesis_version: 6.151.10
+
+['.cpp', '.pt2', '.so', '_guards_fn', 'accuracy', 'allow_buffer_reuse', 'aot_inductor.package', 'call_module', 'compile', 'default', 'fallback_by_default', 'from_example_inputs', 'from_graph', 'from_tracing_context', 'list_mode_options', 'list_options', 'lite', 'max-autotune', 'max_autotune', 'reduce-overhead', 'selective_decompose', 'standalone_compile', 'triton.cudagraphs', 'use_dce', 'use_post_grad_passes', 'use_pre_grad_passes']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\xpu\memory.py
+# hypothesis_version: 6.151.10
+
+['.', 'Device', 'MemPool', '_XPUMemPool', '_xpu_XPUAllocator', '_xpu_releasePool', 'all', 'alloc', 'dump_snapshot.pickle', 'empty_cache', 'max_memory_allocated', 'max_memory_reserved', 'mem_get_info', 'memory_allocated', 'memory_reserved', 'memory_snapshot', 'memory_stats', 'python', 'segments', 'state', 'use_mem_pool', 'wb']

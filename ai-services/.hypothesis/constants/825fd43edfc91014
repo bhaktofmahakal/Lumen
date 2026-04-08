@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_higher_order_ops\run_const_graph.py
+# hypothesis_version: 6.151.10
+
+['BaseFunctionalizeAPI', '_const_graph', 'call_function', 'run_const_graph']

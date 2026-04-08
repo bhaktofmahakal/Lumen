@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\_composable\replicate.py
+# hypothesis_version: 6.151.10
+
+['__deepcopy__', 'cpu', 'device_id', 'device_ids', 'device_mesh', 'fully_shard']

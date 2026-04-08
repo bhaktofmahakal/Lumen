@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\data\data_collator.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.1, 0.15, 0.5, 0.8, 1.0, -100, 'MainProcess', 'attention_mask', 'cu_seq_lens_k', 'cu_seq_lens_q', 'decoder_input_ids', 'deprecation_warnings', 'detach', 'input_ids', 'label', 'label_ids', 'labels', 'max_length_k', 'max_length_q', 'np', 'numpy', 'offset_mapping', 'perm_mask', 'position_ids', 'pt', 'right', 'sentence_order_label', 'seq_idx', 'special_tokens_mask', 'target_mapping', 'token_type_ids', 'tolist']

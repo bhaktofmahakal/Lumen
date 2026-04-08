@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\quantizers\quantizer_gptq.py
+# hypothesis_version: 6.151.10
+
+['1.24.0', '1.4.3', 'GPTQConfig', 'PreTrainedModel', 'cpu', 'gptqmodel', 'input_ids', 'optimum', 'torch.dtype']

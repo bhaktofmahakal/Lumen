@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\backends\cudnn\__init__.py
+# hypothesis_version: 6.151.10
+
+[91100, '0', '1', 'DYLD_LIBRARY_PATH', 'LD_LIBRARY_PATH', 'PATH', 'all', 'conv', 'cuda', 'cudnn', 'darwin', 'none', 'win32']

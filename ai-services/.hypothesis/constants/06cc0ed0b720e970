@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\proxy\proxy_cli.py
+# hypothesis_version: 6.151.10
+
+[0.5, 256, 600, 1024, 8000, 49152, '--accept-data-loss', '--add_key', '--alias', '--api_base', '--api_version', '--config', '--debug', '--detailed_debug', '--drop_params', '--headers', '--health', '--host', '--local', '--max_budget', '--max_tokens', '--model', '--num_requests', '--num_workers', '--port', '--request_timeout', '--save', '--telemetry', '--temperature', '--test', '--test_async', '--use_queue', '--version', '-c', '-m', '-v', '0.0.0.0', '2023-07-01-preview', 'API base URL.', 'DATABASE_URL', 'My API Key', 'To debug the input', '__main__', 'bind', 'content', 'db', 'finished', 'for local debugging', 'gpt-3.5-turbo', 'litellm', 'litellm.secrets', 'litellm[proxy]', 'localhost', 'messages', 'model', 'ollama', 'preload', 'prisma', 'push', 'result', 'role', 'serve', 'status', 'url', 'user', 'w', 'worker_class', 'workers']

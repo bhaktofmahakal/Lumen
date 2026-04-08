@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\export\_remove_effect_tokens_pass.py
+# hypothesis_version: 6.151.10
+
+['get_attr', 'has_with_effects', 'output', 'placeholder', 'unbacked_bindings', 'val']

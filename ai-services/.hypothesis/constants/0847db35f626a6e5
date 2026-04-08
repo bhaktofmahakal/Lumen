@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\tiktoken_ext\openai_public.py
+# hypothesis_version: 6.151.10
+
+[50256, 50257, 50281, 50282, 50283, 100257, 100258, 100259, 100260, 100276, '<|endofprompt|>', '<|endoftext|>', '<|fim_middle|>', '<|fim_prefix|>', '<|fim_suffix|>', 'cl100k_base', 'explicit_n_vocab', 'gpt2', 'mergeable_ranks', 'name', 'p50k_base', 'p50k_edit', 'pat_str', 'r50k_base', 'special_tokens']

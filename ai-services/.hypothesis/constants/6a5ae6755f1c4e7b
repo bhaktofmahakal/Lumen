@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\redis\sentinel.py
+# hypothesis_version: 6.151.10
+
+['check_connection', 'connection_class', 'connection_pool', 'ip', 'is_master', 'is_odown', 'is_sdown', 'master', 'num-other-sentinels', 'once', 'port', 'return_responses', 'slave', 'socket_', 'ssl', '{host}:{port}']

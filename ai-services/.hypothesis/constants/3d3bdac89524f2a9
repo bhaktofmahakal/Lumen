@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_higher_order_ops\_invoke_quant.py
+# hypothesis_version: 6.151.10
+
+['invoke_quant', 'invoke_quant_packed', 'scheme']

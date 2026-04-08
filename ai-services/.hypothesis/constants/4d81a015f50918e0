@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\integrations\supabase.py
+# hypothesis_version: 6.151.10
+
+['-m', 'SUPABASE_KEY', 'SUPABASE_URL', 'choices', 'content', 'end_user', 'error', 'failure', 'initiated', 'install', 'litellm_call_id', 'message', 'messages', 'model', 'pip', 'request_logs', 'response', 'response_time', 'status', 'success', 'supabase', 'total_cost']

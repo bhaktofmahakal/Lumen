@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_higher_order_ops\schema.py
+# hypothesis_version: 6.151.10
+
+['HopSchema', 'call_function', 'example_value', 'get_attr', 'out', 'val']

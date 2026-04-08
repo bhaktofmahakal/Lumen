@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributions\kl.py
+# hypothesis_version: 6.151.10
+
+[-0.5, 0.5, 2.0, 'kl_divergence', 'register_kl', 'types']

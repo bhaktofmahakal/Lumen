@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\mpmath\ctx_mp.py
+# hypothesis_version: 6.151.10
+
+['  mp.dps = %s', '  mp.prec = %s', '%s/%s', '(', '(%s)', ')', ', ', '1 deg = pi / 180', "Apery's constant", 'C', "Catalan's constant", "Euler's constant", "Glaisher's constant", 'Golden ratio phi', "Khinchin's constant", "Mertens' constant", 'Mpmath settings:', 'R', 'Twin prime constant', 'Z', '[%s]', '[default: 15]', '[default: 53]', '[default: False]', '__main__', '_mpc_', '_mpf_', '_mpi_', '_sage_cos', '_sage_exp', '_sage_ln', '_sage_sin', '_sage_sqrt', 'apery', 'catalan', 'degree', 'dps', 'e', 'e = exp(1)', 'eps', 'euler', 'exact', 'f', 'glaisher', 'im', 'j', 'khinchin', 'ln(10)', 'ln(2)', 'ln10', 'ln2', 'maxprec', 'mertens', 'phi', 'pi', 'plaintext', 'prec', 're', 'requires an mpf/mpc', 'rounding', 'sage', 'twinprime', 'zeroprec']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\quantizers\quantizer_quanto.py
+# hypothesis_version: 6.151.10
+
+[0.25, 0.5, 0.9, 'PreTrainedModel', 'QuantoConfig', 'cpu', 'device_map', 'disk', 'float8', 'int2', 'int4', 'int8', 'torch.Tensor', 'weight']

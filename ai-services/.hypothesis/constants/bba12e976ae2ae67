@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\_testing\asserters.py
+# hypothesis_version: 6.151.10
+
+[1e-08, 1e-05, 100.0, 'Attributes', 'Categorical', 'DataFrame', 'DatetimeArray', 'ExtensionArray', 'Index', 'Input', 'IntervalArray', 'MultiIndex', 'PeriodArray', 'Series', 'SparseArray.index', 'TimedeltaArray', 'base', 'check_freq', 'closed', 'copy', 'dtype', 'equiv', 'fill_value', 'freq', 'ignore', 'index are not equal', 'inferred_type', 'iu', 'mM', 'name', 'names', 'numpy array', 'ordered', 'pandas.testing', 'python', 'same', 'tz']

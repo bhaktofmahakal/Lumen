@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\utils\versions.py
+# hypothesis_version: 6.151.10
+
+['!=', ',', '.', '<', '<=', '==', '>', '>=', '^([\\s!=<>]{1,2})(.+)', '^[\\w_\\-\\d]+$', 'python']

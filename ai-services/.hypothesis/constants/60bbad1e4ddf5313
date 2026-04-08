@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\cuda\_utils.py
+# hypothesis_version: 6.151.10
+
+[160, 1024, 49152, 65536, '--pch', '.', '0', '12.8', 'Unknown CUDA error', '_CudaKernel', 'amdhip64', 'cpu', 'cuda', 'gfx950', 'hiprtc', 'libamdhip64.so', 'libcuda.so.1', 'libhiprtc.so', 'libnvrtc.so', 'not configured', 'nvcuda.dll', 'utf-8', 'win32']

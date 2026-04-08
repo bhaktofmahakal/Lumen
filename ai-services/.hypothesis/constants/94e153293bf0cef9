@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\models\__init__.py
+# hypothesis_version: 6.151.10
+
+['Asym', 'BoW', 'CLIPModel', 'CNN', 'Dense', 'Dropout', 'InputModule', 'LSTM', 'LayerNorm', 'Module', 'Normalize', 'Pooling', 'Router', 'StaticEmbedding', 'Transformer', 'WeightedLayerPooling', 'WordEmbeddings', 'WordWeights']

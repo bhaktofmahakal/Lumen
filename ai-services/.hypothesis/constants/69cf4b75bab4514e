@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\integrations\aispend.py
+# hypothesis_version: 6.151.10
+
+[1.5e-06, 1.63e-06, 2e-06, 3e-06, 4e-06, 5.51e-06, 1.102e-05, 1.5e-05, 3.268e-05, 6e-05, 0.00012, 0.0032, 100, 4000, 4096, 8000, 8192, 16000, 100000, '%Y-%m-%d', 'AISPEND_ACCOUNT_ID', 'AISPEND_API_KEY', 'Authorization', 'Content-Type', 'application/json', 'chat-bison-001', 'claude-2', 'claude-instant-1', 'command-nightly', 'completion_tokens', 'context_tokens', 'created', 'generated_tokens', 'gpt-3.5-turbo', 'gpt-3.5-turbo-0301', 'gpt-3.5-turbo-0613', 'gpt-3.5-turbo-16k', 'gpt-35-turbo', 'gpt-35-turbo-16k', 'gpt-4', 'gpt-4-0613', 'gpt-4-32k', 'input_cost_per_token', 'max_tokens', 'model', 'model_id', 'prompt_tokens', 'recorded_date', 'replicate', 'requests', 'requests_context', 'requests_generated', 'text-bison-001', 'usage']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\loss\loss_d_fine.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1e-16, 0.1, 0.5, 1.0, 'auxiliary_outputs', 'boxes', 'cardinality', 'dn_auxiliary_outputs', 'dn_num_split', 'focal', 'local', 'logits', 'loss_bbox', 'loss_ddf', 'loss_fgl', 'loss_giou', 'loss_vfl', 'mean', 'none', 'pred_boxes', 'pred_corners', 'ref_points', 'sum', 'teacher_corners', 'teacher_logits', 'vfl']

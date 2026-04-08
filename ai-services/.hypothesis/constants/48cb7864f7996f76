@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\printing\glsl.py
+# hypothesis_version: 6.151.10
+
+[0.5, '%s%s', '%s;', '(', '(\n', '((%s) ? (\n%s\n)\n', ')', ',\n', ', ', '// {}', '1.0/%s', ': ', ': (\n%s\n)', 'Abs', 'GLSL', '_glsl', 'abs', 'acos', 'add', 'array_type', 'asin', 'atan', 'atan2', 'ceil', 'ceiling', 'contract', 'cos', 'else if (%s) {', 'else {', 'end', 'exp', 'float', 'float {} = {};', 'float[](', 'floor', 'glsl_types', 'if (%s) {', 'log', 'mat_nested', 'mat_separator', 'mat_transpose', 'mat{}({})', 'mat{}x{}({})', 'mul', 'pow', 'precision', 'sign', 'sin', 'sqrt(%s)', 'start', 'sub', 'tan', 'use_operators', 'user_functions', 'varble', 'vec{}({})', 'vec{}{}', 'zero', '{', '{\n', '{} {} {}', '{}({})', '{}.0/{}.0', '{}[{}]', '{}[{}][{}]', '{}[{}][{}](\n{}\n)', '}']

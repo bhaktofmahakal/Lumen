@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\integrations\tensor_parallel.py
+# hypothesis_version: 6.151.10
+
+['*', '.', '.*', '2.5', 'BF16', 'BOOL', 'F16', 'F32', 'F64', 'F8_E4M3', 'F8_E5M2', 'I16', 'I32', 'I64', 'I8', 'LOCAL_RANK', 'RANK', 'U8', 'WORLD_SIZE', '\\.\\d+(\\.|$)', '\\d+', '_bias', '_input_mask', '_is_hooked', 'bias', 'colwise', 'cpu', 'cuda', 'embedding_colwise', 'embedding_dim', 'embedding_rowwise', 'ep_router', 'gloo', 'grouped_gemm', 'hccl', 'hpu', 'in_features', 'mla_kv_a_proj', 'moe_identity_expert', 'moe_tp_experts', 'mps', 'nccl', 'neuron', 'num_embeddings', 'num_experts', 'out_features', 'packed_colwise', 'packed_rowwise', 'qk_rope_head_dim', 'rowwise', 'rowwise_split_input', 'sequence_parallel', 'tp', 'xccl', 'xpu']

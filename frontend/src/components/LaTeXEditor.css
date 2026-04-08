@@ -1,0 +1,164 @@
+.latex-editor-container {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background: #fff;
+}
+
+.editor-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 20px;
+  background: #f8f9fa;
+  border-bottom: 1px solid #e1e8ed;
+}
+
+.editor-header h3 {
+  font-size: 16px;
+  color: #2c3e50;
+  font-weight: 600;
+  margin: 0;
+}
+
+.editor-stats {
+  display: flex;
+  gap: 15px;
+  font-size: 13px;
+  color: #6c757d;
+}
+
+.editor-stats span {
+  padding: 4px 8px;
+  background: #fff;
+  border-radius: 4px;
+  border: 1px solid #e1e8ed;
+}
+
+.auto-save-status {
+  font-weight: 500;
+}
+
+.auto-save-status.saving {
+  color: #f39c12;
+}
+
+.auto-save-status.saved {
+  color: #27ae60;
+}
+
+.codemirror-wrapper {
+  flex: 1;
+  overflow: auto;
+}
+
+/* CodeMirror 6 custom styling */
+.cm-editor {
+  height: 100%;
+  font-family: 'Consolas', 'Monaco', 'Courier New', monospace;
+  font-size: 14px;
+}
+
+.cm-scroller {
+  overflow: auto;
+}
+
+.cm-content {
+  padding: 10px 0;
+}
+
+.cm-line {
+  padding: 0 10px;
+}
+
+/* Syntax highlighting */
+.cm-keyword {
+  color: #c678dd;
+  font-weight: 500;
+}
+
+.cm-keyword.cm-strong {
+  color: #e06c75;
+  font-weight: 600;
+}
+
+.cm-heading {
+  color: #61afef;
+  font-weight: 600;
+}
+
+.cm-atom {
+  color: #d19a66;
+}
+
+.cm-strong {
+  color: #98c379;
+  font-weight: 500;
+}
+
+.cm-link {
+  color: #56b6c2;
+  text-decoration: underline;
+}
+
+.cm-comment {
+  color: #5c6370;
+  font-style: italic;
+}
+
+.cm-bracket {
+  color: #abb2bf;
+}
+
+.cm-number {
+  color: #d19a66;
+}
+
+.cm-variable-2 {
+  color: #e5c07b;
+}
+
+/* Fold gutter */
+.cm-foldGutter {
+  width: 16px;
+}
+
+.cm-foldPlaceholder {
+  background-color: #e1e8ed;
+  border: 1px solid #c0c0c0;
+  color: #808080;
+  border-radius: 3px;
+  padding: 0 4px;
+  cursor: pointer;
+}
+
+/* Line numbers */
+.cm-lineNumbers {
+  color: #858585;
+  background-color: #f8f9fa;
+  border-right: 1px solid #e1e8ed;
+}
+
+.cm-activeLineGutter {
+  background-color: #e8f4f8;
+}
+
+/* Active line highlight */
+.cm-activeLine {
+  background-color: #f0f8ff;
+}
+
+/* Selection */
+.cm-selectionBackground {
+  background-color: #3498db40 !important;
+}
+
+.cm-focused .cm-selectionBackground {
+  background-color: #3498db60 !important;
+}
+
+/* Cursor */
+.cm-cursor {
+  border-left-color: #528bff;
+  border-left-width: 2px;
+}

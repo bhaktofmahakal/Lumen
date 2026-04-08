@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\optim\adagrad.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1e-10, 0.01, 1.0, 'Adagrad', 'adagrad', 'cpu', 'differentiable', 'eps', 'foreach', 'found_inf', 'fused', 'grad_scale', 'lr', 'lr_decay', 'maximize', 'params', 'step', 'sum', 'weight_decay']

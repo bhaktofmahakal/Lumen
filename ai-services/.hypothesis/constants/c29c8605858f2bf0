@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\arrays\sparse\accessor.py
+# hypothesis_version: 6.151.10
+
+['density', 'fill_value', 'from_coo', 'npoints', 'property', 'scipy', 'sp_values', 'to_coo']

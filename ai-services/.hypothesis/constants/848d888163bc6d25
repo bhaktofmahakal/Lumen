@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\core\cache.py
+# hypothesis_version: 6.151.10
+
+['1000', 'Got: %s', 'SYMPY_CACHE_SIZE', 'SYMPY_USE_CACHE', '__', '__wrapped__', 'cache_clear', 'cache_info', 'debug', 'no', 'none', 'unhashable type:', 'yes']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\quantizers\base.py
+# hypothesis_version: 6.151.10
+
+['.weight', 'Llama4TextExperts', 'PreTrainedModel', 'dequantize', 'hf_quantizer', 'is_quantized', 'meta', 'module_name', 'pre_quantized', 'quantization_config', 'quantization_method', 'quantization_methods', 'torch.Tensor', 'torch.dtype']

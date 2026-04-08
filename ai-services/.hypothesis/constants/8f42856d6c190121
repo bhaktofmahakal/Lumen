@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\variables\distributed.py
+# hypothesis_version: 6.151.10
+
+['BackwardHookVariable', 'NON_GROUP_MEMBER', 'PyCodegen', 'WORLD', '__getattr__', '__init__', '__setattr__', '_flatten', '_get_backend_name', '_sym_get_coordinate', 'call_function', 'call_method', 'device_type', 'dim', 'example_value', 'get_coordinate', 'get_group', 'get_local_rank', 'get_rank', 'group_name', 'is_partial', 'is_replicate', 'is_shard', 'mesh_dim_names', 'mod', 'ndim', 'rank', 'setup_input_hook', 'setup_output_hook', 'size']

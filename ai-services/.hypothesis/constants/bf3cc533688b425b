@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\aiofiles\tempfile\temptypes.py
+# hypothesis_version: 6.151.10
+
+['cleanup', 'close', 'closed', 'encoding', 'fileno', 'flush', 'isatty', 'mode', 'name', 'newlines', 'read', 'readline', 'readlines', 'rollover', 'seek', 'tell', 'truncate']

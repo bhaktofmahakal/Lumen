@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\sparse_encoder\models\SpladePooling.py
+# hypothesis_version: 6.151.10
+
+['-inf', 'activation_function', 'attention_mask', 'log1p_relu', 'max', 'out of memory', 'pooling_strategy', 'relu', 'sentence_embedding', 'sum', 'token_embeddings']

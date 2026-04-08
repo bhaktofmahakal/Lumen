@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\fsdp\_wrap_utils.py
+# hypothesis_version: 6.151.10
+
+['.', 'auto_wrap_policy', 'ignored_modules', 'ignored_params', 'mixed_precision', 'module', 'only_wrap_children', 'policy', 'use_orig_params', 'wrapper_cls']

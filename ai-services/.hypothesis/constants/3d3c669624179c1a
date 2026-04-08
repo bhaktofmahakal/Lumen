@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\regex\_main.py
+# hypothesis_version: 6.151.10
+
+[500, '()[]{}?*+|^$\\.-#&~', '2026.3.32', 'A', 'ASCII', 'B', 'BESTMATCH', 'D', 'DEBUG', 'DEFAULT_VERSION', 'DOTALL', 'E', 'ENHANCEMATCH', 'F', 'FULLCASE', 'I', 'IGNORECASE', 'L', 'LOCALE', 'M', 'MULTILINE', 'Match', 'P', 'POSIX', 'Pattern', 'R', 'REVERSE', 'Regex', 'RegexFlag', 'S', 'Scanner', 'T', 'TEMPLATE', 'U', 'UNICODE', 'V0', 'V1', 'VERBOSE', 'VERSION0', 'VERSION1', 'W', 'WORD', 'X', '\\', '__doc__', '__version__', 'cache_all', 'compile', 'error', 'escape', 'findall', 'finditer', 'fullmatch', 'latin-1', 'match', 'prefixmatch', 'purge', 'search', 'split', 'splititer', 'sub', 'subf', 'subfn', 'subn', 'template']

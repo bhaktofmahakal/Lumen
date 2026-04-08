@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\http\api\collections_api.py
+# hypothesis_version: 6.151.10
+
+['/collections', '2.', 'BaseModel', 'Content-Type', 'DELETE', 'GET', 'Model', 'PATCH', 'PUT', 'application/json', 'collection_name', 'completed_limit', 'json', 'model_dump_json', 'timeout', 'with']

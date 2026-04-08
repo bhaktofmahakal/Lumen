@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\linalg\interpolative.py
+# hypothesis_version: 6.151.10
+
+[1.0, 'estimate_rank', 'id_to_svd', 'interp_decomp', 'svd']

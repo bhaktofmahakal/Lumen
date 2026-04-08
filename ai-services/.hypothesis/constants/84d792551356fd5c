@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\mtia\__init__.py
+# hypothesis_version: 6.151.10
+
+['MTIAGraph', '_mtia_exchangeDevice', 'all', 'current_device', 'current_stream', 'default_stream', 'device', 'device_count', 'empty_cache', 'get_rng_state', 'get_rng_state_all', 'graph', 'graph_pool_handle', 'init', 'initial_seed', 'is_available', 'is_bf16_supported', 'is_initialized', 'is_initializing', 'manual_seed', 'manual_seed_all', 'max_memory_allocated', 'memory_allocated', 'memory_stats', 'mtia', 'python', 'seed', 'seed_all', 'set_device', 'set_rng_state', 'set_rng_state_all', 'set_stream', 'snapshot', 'stream', 'synchronize']

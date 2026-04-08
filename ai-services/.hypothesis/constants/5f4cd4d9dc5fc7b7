@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\plotting\backends\base_backend.py
+# hypothesis_version: 6.151.10
+
+['1.13', 'Plot.append', 'Plot.extend', '[%d]: ', 'annotations', 'args', 'auto', 'default', 'fill', 'is_finite', 'is_real', 'linear', 'markers', 'matplotlib', 'rectangles', 'size', 'xlim', 'ylim']

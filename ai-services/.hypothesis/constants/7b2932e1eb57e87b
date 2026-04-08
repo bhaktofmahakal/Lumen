@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\quantizers\quantizer_fbgemm_fp8.py
+# hypothesis_version: 6.151.10
+
+['FbgemmFp8Config', 'Llama4', 'PreTrainedModel', 'bias', 'colwise', 'cpu', 'device_map', 'disk', 'input_scale_ub', 'norm.weight', 'packed_rowwise', 'rowwise', 'sequence_parallel', 'torch.Tensor', 'torch.dtype']

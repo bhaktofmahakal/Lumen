@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\external\gmpy.py
+# hypothesis_version: 6.151.10
+
+['.', '0.10', '0.6', '0.7', '0.8', '0.9', '2.0.0', 'GROUND_TYPES', 'HAS_GMPY', 'MPQ', 'MPZ', 'SYMPY_GROUND_TYPES', 'SYMPY_INTS', 'auto', 'bit_scan0', 'bit_scan1', 'factorial', 'flint', 'gcd', 'gcdext', 'gmpy', 'gmpy2', 'invert', 'iroot', 'is_bpsw_prp', 'is_euler_prp', 'is_fermat_prp', 'is_fibonacci_prp', 'is_lucas_prp', 'is_selfridge_prp', 'is_square', 'is_strong_bpsw_prp', 'is_strong_lucas_prp', 'is_strong_prp', 'jacobi', 'kronecker', 'lcm', 'legendre', 'python', 'remove', 'sqrt', 'sqrtrem', 'version']

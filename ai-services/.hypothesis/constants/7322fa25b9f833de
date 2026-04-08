@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\cache_utils.py
+# hypothesis_version: 6.151.10
+
+[128, '0.2.5', '2.7', 'attention_chunk_size', 'chunked_attention', 'compute_dtype', 'conv', 'cpu', 'cumulative_length', 'full_attention', 'hqq', 'hybrid', 'is_sliding', 'layer_types', 'linear_attention', 'mamba', 'moe', 'num_kv_shared_layers', 'quanto', 'scale', 'sliding_attention', 'sliding_window', 'zero']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\indexing.py
+# hypothesis_version: 6.151.10
+
+['No label returned', 'Too many indexers', 'Too many indices', '_iLocIndexer', 'at', 'b', 'boolean', 'dtype', 'i', 'iat', 'iloc', 'index', 'integer', 'key', 'loc', 'max', 'min', 'ndim', 'not applicable', 'numpy_dtype', 'pandas']

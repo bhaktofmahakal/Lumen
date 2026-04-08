@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\mps\profiler.py
+# hypothesis_version: 6.151.10
+
+['event', 'interval', 'interval,event', 'is_capturing_metal', 'metal_capture', 'profile', 'start', 'stop']

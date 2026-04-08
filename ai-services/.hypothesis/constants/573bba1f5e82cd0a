@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\dotenv\parser.py
+# hypothesis_version: 6.151.10
+
+['"', '"((?:\\\\"|[^"])*)"', '#', "'", "'((?:\\\\'|[^'])*)'", "'([^']+)'", '(=[^\\S\\r\\n]*)', '([^=\\#\\s]+)', '([^\\r\\n]*)', '(\\r\\n|\\n|\\r)', '=', 'Position', '[^\\S\\r\\n]*', '\\\\[\\\\\'\\"abfnrtv]', "\\\\[\\\\']", '\\s*', '\\s+#.*', 'read: End of string', 'unicode-escape']

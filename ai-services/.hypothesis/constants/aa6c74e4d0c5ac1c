@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\_array_api.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.145, 0.5, 1.0, 1000, '1', '1.14.0', '2024.12', 'C', 'CPU_DEVICE', 'SCIPY_ARRAY_API', '__dlpack__', 'array_api_dispatch', 'array_api_strict', 'bincount', 'complex floating', 'cpu', 'cuda', 'cupy', 'device', 'device1', 'device2', 'dtype', 'float16', 'float32', 'float64', 'ignore', 'median', 'mps', 'numpy', 'real floating', 'torch', 'xpu', 'xpx']

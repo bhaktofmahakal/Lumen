@@ -1,0 +1,4 @@
+# file: C:\xampp\htdocs\chat-app\ai-services\agents\citation_agent.py
+# hypothesis_version: 6.151.10
+
+[200, '.', 'Unknown', '\\\\cite\\{([^}]+)\\}', 'citations', 'cite_key', 'document_id', 'finding', 'formatted_citation', 'issues', 'message', 'missing_source', 'page_number', 'position_end', 'position_start', 'statement', 'text_excerpt', 'type', 'warning']

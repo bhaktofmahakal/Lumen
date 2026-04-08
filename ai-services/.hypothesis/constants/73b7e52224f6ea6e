@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\utils\hooks.py
+# hypothesis_version: 6.151.10
+
+['BackwardHook', 'RemovableHandle', 'unserializable_hook', 'warn_if_has_hooks']

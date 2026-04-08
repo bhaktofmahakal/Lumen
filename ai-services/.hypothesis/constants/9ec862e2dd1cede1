@@ -1,0 +1,4 @@
+# file: C:\xampp\htdocs\chat-app\ai-services\database.py
+# hypothesis_version: 6.151.10
+
+['autocommit', 'charset', 'cursorclass', 'database', 'document_id', 'host', 'password', 'port', 'user', 'utf8mb4']

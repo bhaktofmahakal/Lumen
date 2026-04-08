@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributions\wishart.py
+# hypothesis_version: 6.151.10
+
+['...i,...j->...ij', 'Wishart', 'covariance_matrix', 'df', 'precision_matrix', 'scale_tril']

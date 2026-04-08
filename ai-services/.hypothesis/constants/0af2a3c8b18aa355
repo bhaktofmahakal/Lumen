@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\_local_tensor\_c10d.py
+# hypothesis_version: 6.151.10
+
+['avg', 'band', 'bor', 'bxor', 'max', 'min', 'premul_sum', 'product', 'sum']

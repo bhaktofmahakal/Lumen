@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\quantizers\quantizer_compressed_tensors.py
+# hypothesis_version: 6.151.10
+
+['colwise', 'rowwise', 'torch.dtype']

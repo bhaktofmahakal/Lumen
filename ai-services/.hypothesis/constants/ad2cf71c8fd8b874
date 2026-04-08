@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\stats\_quantile.py
+# hypothesis_version: 6.151.10
+
+[-0.5, 0.0, 0.5, '_higher', '_lower', '_midpoint', '_nearest', 'closest_observation', 'dask.array', 'harrell-davis', 'hazen', 'integral', 'inverted_cdf', 'left', 'linear', 'median_unbiased', 'normal_unbiased', 'propagate', 'real floating', 'right', 'round_inward', 'round_nearest', 'round_outward', 'weibull']

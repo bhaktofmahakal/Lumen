@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\huggingface_hub\utils\logging.py
+# hypothesis_version: 6.151.10
+
+['.', 'HF_HUB_VERBOSITY', 'critical', 'debug', 'error', 'info', 'warning']

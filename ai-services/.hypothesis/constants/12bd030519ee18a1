@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\spatial\distance.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1.0, 2.0, 'D', 'Unknown', 'UnknownCustomMetric', 'V', 'VI', 'X', 'Y', '__name__', 'bool', 'braycurtis', 'c', 'canberra', 'cb', 'cblock', 'cdist', 'ch', 'cheb', 'cheby', 'chebychev', 'chebyshev', 'cityblock', 'co', 'correlation', 'cos', 'cosine', 'd', 'dice', 'directed_hausdorff', 'double', 'dtype', 'e', 'eu', 'euclid', 'euclidean', 'h', 'ha', 'hamm', 'hamming', 'ignore', 'is_valid_dm', 'is_valid_y', 'j', 'ja', 'jacc', 'jaccard', 'jensenshannon', 'js', 'm', 'mah', 'mahal', 'mahalanobis', 'matching', 'mi', 'minkowski', 'no', 'num_obs_dm', 'num_obs_y', 'p', 'pdist', 'pnorm', 'rogerstanimoto', 'russellrao', 's', 'se', 'seed', 'seuclidean', 'sokalsneath', 'sqe', 'sqeuclid', 'sqeuclidean', 'squareform', 'test_', 'tomatrix', 'tovector', 'w', 'yule']

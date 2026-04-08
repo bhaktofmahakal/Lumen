@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\ao\nn\quantized\reference\modules\__init__.py
+# hypothesis_version: 6.151.10
+
+['Conv1d', 'Conv2d', 'Conv3d', 'ConvTranspose1d', 'ConvTranspose2d', 'ConvTranspose3d', 'Embedding', 'EmbeddingBag', 'GRU', 'GRUCell', 'LSTM', 'LSTMCell', 'Linear', 'RNNCell']

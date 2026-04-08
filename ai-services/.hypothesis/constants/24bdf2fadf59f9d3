@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\numpy\_typing\_add_docstring.py
+# hypothesis_version: 6.151.10
+
+['ArrayLike', 'DTypeLike', 'Examples', 'NDArray', '^(\\s+)[-=]+\\s*$', 'typing.Union[...]']

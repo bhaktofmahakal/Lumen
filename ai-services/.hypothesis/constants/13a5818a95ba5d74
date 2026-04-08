@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\image_processing_utils.py
+# hypothesis_version: 6.151.10
+
+[255, 'NOT_FOUND', '_valid_kwargs_names', 'crop_size', 'height', 'image_mean', 'image_processor_type', 'image_std', 'inf', 'longest_edge', 'max_height', 'max_width', 'pad_size', 'pixel_values', 'processor_class', 'shortest_edge', 'size', 'width']

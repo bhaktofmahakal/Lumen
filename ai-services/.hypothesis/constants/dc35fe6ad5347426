@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\algorithms\join.py
+# hypothesis_version: 6.151.10
+
+[1000, 'Join', 'JoinHook', 'Joinable', '_join_config', 'once']

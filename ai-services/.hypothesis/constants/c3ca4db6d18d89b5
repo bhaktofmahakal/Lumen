@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\fx\passes\infra\pass_base.py
+# hypothesis_version: 6.151.10
+
+['PassBase', 'PassResult', 'graph_module', 'modified']

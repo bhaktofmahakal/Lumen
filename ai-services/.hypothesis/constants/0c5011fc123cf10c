@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\solvers\inequalities.py
+# hypothesis_version: 6.151.10
+
+['!=', '<', '<=', '=', '==', '>', '>=', 'gen', 'x']

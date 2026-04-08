@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\llms\aleph_alpha.py
+# hypothesis_version: 6.151.10
+
+['Authorization', 'POST', '__', 'accept', 'application/json', 'choices', 'complete_input_dict', 'completion', 'completions', 'content', 'content-type', 'control', 'created', 'error', 'finish_reason', 'message', 'model', 'prompt', 'role', 'self', 'stream', 'system', 'user']

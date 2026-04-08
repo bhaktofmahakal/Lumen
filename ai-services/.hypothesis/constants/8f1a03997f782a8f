@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\polys\polyclasses.py
+# hypothesis_version: 6.151.10
+
+['%s(%s, %s)', '%s(%s, %s, %s)', '%s((%s, %s), %s)', '1.13', 'Inconsistent domain', '_cls', '_mod', '_rep', 'den', 'dmp-rep', 'dom', 'flint', 'fraction denominator', 'lev', 'lex', 'num', 'unreachable code', 'zero divisor']

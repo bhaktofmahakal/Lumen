@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\computation\parsing.py
+# hypothesis_version: 6.151.10
+
+[100, '!', '"', '#', '$', "'", '?', '\\', '_', '_BACKSLASH_', '_BACKTICK_', '_DEGREESIGN_', '_DOLLARSIGN_', '_DOUBLEQUOTE_', '_EUROSIGN_', '_EXCLAMATIONMARK_', '_HASH_', '_QUESTIONMARK_', '_SINGLEQUOTE_', '_UNICODE_', '`', '``', 'ascii', 'backslashreplace', '°', '€']

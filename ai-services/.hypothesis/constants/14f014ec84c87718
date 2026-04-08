@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\integrations\deepspeed.py
+# hypothesis_version: 6.151.10
+
+[0.9, -100, '.', '_metadata', 'accelerate', 'adam_epsilon', 'auto', 'autotp_size', 'base_model_prefix', 'bf16.enabled', 'bf16|bf16_full_eval', 'checkpoint', 'config', 'deepspeed', 'fp16.enabled', 'fp16|fp16_full_eval', 'gradient_clipping', 'hidden_size', 'hidden_sizes', 'inference', 'labels', 'learning_rate', 'lr_scheduler', 'max_grad_norm', 'meta', 'optimizer', 'optimizer.params.eps', 'optimizer.params.lr', 'scheduler', 'shift_labels', 'sp', 'tensor_parallel', 'text_config', 'tp_size', 'train_batch_size', 'warmup_steps', 'weight_decay', 'weight_mapping']

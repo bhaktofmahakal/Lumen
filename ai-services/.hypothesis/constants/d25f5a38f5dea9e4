@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_numpy\random.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1.0, 'choice', 'normal', 'rand', 'randint', 'randn', 'random', 'random_sample', 'sample', 'seed', 'shuffle', 'uniform']

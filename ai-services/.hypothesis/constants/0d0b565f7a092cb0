@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\tokenizers\implementations\bert_wordpiece.py
+# hypothesis_version: 6.151.10
+
+[1000, 30000, '##', 'BertWordPiece', '[CLS]', '[MASK]', '[PAD]', '[SEP]', '[UNK]', 'clean_text', 'cls_token', 'handle_chinese_chars', 'lowercase', 'mask_token', 'model', 'pad_token', 'sep_token', 'strip_accents', 'unk_token', 'wordpieces_prefix']

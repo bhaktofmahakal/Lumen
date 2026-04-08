@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\http\api\points_api.py
+# hypothesis_version: 6.151.10
+
+['2.', 'BaseModel', 'Content-Type', 'GET', 'Model', 'POST', 'PUT', 'application/json', 'collection_name', 'consistency', 'id', 'json', 'model_dump_json', 'ordering', 'timeout', 'wait']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\source.py
+# hypothesis_version: 6.151.10
+
+['.', ': ', '<unknown source>', 'PyCodegen', '___as_tensor({0})', '___from_numpy({0})', '__closure__', '__code__', '__defaults__', '__dict__', '__kwdefaults__', '__mro__', '_fields', '_name', 'as_tensor', 'builtins', 'cell_contents', 'dataclass_fields', 'device', 'dict({0}.__dict__)', 'dict_getitem', 'dict_keys_getitem', 'field', 'get_current_stream', 'grad', 'index', 'index_is_slice', 'int', 'int({0})', 'list_getitem', 'set_getitem', 'size', 'storage_offset', 'stride', 'torch', 'type', 'type({0})', '{', '{0}', '{0}()', '{0}.__closure__', '{0}.__code__', '{0}.__mro__', '{0}.__neg__()', '{0}.get_base()', '{0}.item()', '{0}.storage_offset()', '{{', '}', '}}']

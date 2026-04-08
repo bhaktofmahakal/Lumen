@@ -1,0 +1,143 @@
+.collaborative-latex-editor {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  background: #1e1e1e;
+  color: #d4d4d4;
+}
+
+.editor-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 16px;
+  background: #252526;
+  border-bottom: 1px solid #3e3e42;
+}
+
+.header-left,
+.header-right {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.editor-header h3 {
+  margin: 0;
+  font-size: 14px;
+  font-weight: 600;
+  color: #cccccc;
+}
+
+.connection-status {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 12px;
+}
+
+.status-indicator {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+  padding: 4px 8px;
+  border-radius: 4px;
+  font-size: 11px;
+  font-weight: 500;
+}
+
+.status-indicator.connected {
+  color: #4ec9b0;
+  background: rgba(78, 201, 176, 0.1);
+}
+
+.status-indicator.disconnected {
+  color: #f48771;
+  background: rgba(244, 135, 113, 0.1);
+}
+
+.sync-status {
+  color: #858585;
+  font-size: 11px;
+}
+
+.offline-queue {
+  color: #f48771;
+  font-size: 11px;
+  padding: 4px 8px;
+  background: rgba(244, 135, 113, 0.1);
+  border-radius: 3px;
+}
+
+.editor-stats {
+  display: flex;
+  gap: 16px;
+  font-size: 11px;
+  color: #858585;
+}
+
+.editor-stats span {
+  padding: 4px 8px;
+  background: #2d2d30;
+  border-radius: 3px;
+}
+
+.collaborators-list {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.collaborators-label {
+  font-size: 11px;
+  color: #858585;
+}
+
+.collaborator-badge {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 11px;
+  font-weight: 600;
+  color: white;
+  cursor: pointer;
+  transition: transform 0.2s;
+}
+
+.collaborator-badge:hover {
+  transform: scale(1.1);
+}
+
+.codemirror-wrapper {
+  flex: 1;
+  overflow: auto;
+}
+
+/* Yjs cursor and selection styles */
+.cm-ySelectionInfo {
+  position: absolute;
+  top: -1.4em;
+  left: 0;
+  font-size: 0.75em;
+  font-family: sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  line-height: normal;
+  user-select: none;
+  color: white;
+  padding: 2px 6px;
+  border-radius: 3px;
+  white-space: nowrap;
+  z-index: 100;
+}
+
+.cm-ySelection {
+  opacity: 0.3;
+}
+
+.cm-yLineSelection {
+  opacity: 0.2;
+}

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\huggingface_hub\lfs.py
+# hypothesis_version: 6.151.10
+
+[512, 'Accept', 'CommitOperationAdd', 'Content-Type', 'POST', 'PUT', '^[0-9a-f]{40}$', 'actions', 'basic', 'chunk_size', 'code', 'error', 'etag', 'hash_algo', 'header', 'href', 'lfs-multipart-upload', 'message', 'multipart', 'name', 'objects', 'oid', 'operation', 'partNumber', 'parts', 'rb', 'ref', 'sha256', 'size', 'transfer', 'transfers', 'upload', 'verify']

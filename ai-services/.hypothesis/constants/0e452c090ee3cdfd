@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_numpy\_normalizations.py
+# hypothesis_version: 6.151.10
+
+['ArrayLike', 'ArrayLikeOrScalar', 'AxisLike', 'CastingModes', 'DTypeLike', 'KeepDims', 'NDArray', 'NotImplementedType', 'Optional[ArrayLike]', 'Optional[DTypeLike]', 'Optional[NDArray]', 'Optional[OutArray]', 'OutArray', 'Sequence[ArrayLike]', 'axis', 'equiv', 'keepdims', 'no', 'out', 'safe', 'same_kind', 'unsafe']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\responses\container_auto_param.py
+# hypothesis_version: 6.151.10
+
+['16g', '1g', '4g', '64g', 'ContainerAutoParam', 'NetworkPolicy', 'Skill', 'container_auto']

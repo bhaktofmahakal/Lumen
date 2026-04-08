@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\packaging\markers.py
+# hypothesis_version: 6.151.10
+
+['!=', '(', ')', '.', '<', '<=', '==', '>', '>=', 'InvalidMarker', 'Marker', 'UndefinedComparison', 'and', 'default_environment', 'extra', 'final', 'implementation_name', 'in', 'not in', 'or', 'os_name', 'platform_machine', 'platform_release', 'platform_system', 'platform_version', 'python_full_version', 'python_version', 'sys._version_info', 'sys_platform']

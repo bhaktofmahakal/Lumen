@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\joblib\__init__.py
+# hypothesis_version: 6.151.10
+
+['1.5.3', 'FALSE', 'KMP_INIT_AT_FORK', 'Logger', 'MemorizedResult', 'Memory', 'Parallel', 'ParallelBackendBase', 'PrintTime', 'StoreBackendBase', 'cpu_count', 'delayed', 'dump', 'effective_n_jobs', 'expires_after', 'hash', 'load', 'parallel_backend', 'parallel_config', 'register_compressor']

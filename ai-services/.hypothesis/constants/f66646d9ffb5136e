@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\polyfills\itertools.py
+# hypothesis_version: 6.151.10
+
+['_T', '_T1', '_T2', '_U', 'accumulate', 'chain', 'chain_from_iterable', 'compress', 'cycle', 'dropwhile', 'filterfalse', 'islice', 'pairwise', 'tee', 'zip_longest']

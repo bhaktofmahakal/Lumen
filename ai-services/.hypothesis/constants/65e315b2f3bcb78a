@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\nn\modules\normalization.py
+# hypothesis_version: 6.151.10
+
+[1e-05, 0.0001, 0.75, 1.0, 'CrossMapLRN2d', 'GroupNorm', 'LayerNorm', 'LocalResponseNorm', 'RMSNorm', 'affine', 'alpha', 'beta', 'bias', 'device', 'dtype', 'elementwise_affine', 'eps', 'k', 'normalized_shape', 'num_channels', 'num_groups', 'size', 'weight']

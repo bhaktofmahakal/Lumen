@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\image_processing_base.py
+# hypothesis_version: 6.151.10
+
+['AutoImageProcessor', 'ImageProcessingMixin', 'ImageProcessorType', '_from_auto', '_from_pipeline', 'cache_dir', 'commit_message', 'file_type', 'force_download', 'from_auto_class', 'image processor', 'image processor file', 'image_processor', 'image_processor_type', 'local_files_only', 'main', 'processor_class', 'proxies', 'repo_id', 'return_unused_kwargs', 'revision', 'subfolder', 'token', 'using_pipeline', 'utf-8', 'w']

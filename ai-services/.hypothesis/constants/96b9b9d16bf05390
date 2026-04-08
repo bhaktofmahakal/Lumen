@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\mpmath\identification.py
+# hypothesis_version: 6.151.10
+
+[0.7, 0.75, 100, 1000, ' + ', '$c', '$c*$y', '$c*$y**2', '$c**2*$y**2', '$c**2/$y**2', '$c*exp($y)', '$c*log($y)', '$c*sqrt($y)', '$c/$y', '$c/$y**2', '$c/exp($y)', '$c/log($y)', '$c/sqrt($y)', '$y', '$y**2/$c', '$y**2/$c**2', '$y/$c', '%s**%s', '%s**(%s/%s)', '(', '(%s)', '(%s)/(%s)', '(%s/%s)', '((%s+sqrt(%s))/%s)', '((%s-sqrt(%s))/%s)', '(-sqrt(%s)/%s)', '(sqrt(%s)/%s)', ')', '*', '+', '-(%s)', '.', '/$c', '0', '1', '1/(%s)', 'Found: ', '__main__', 'exp($c*$y)', 'exp($c/$y)', 'exp($y)/$c', 'exp($y/$c)', 'log($c*$y)', 'log($c/$y)', 'log($y)/$c', 'log($y/$c)', 'sqrt($c)*sqrt($y)', 'sqrt($c)/sqrt($y)', 'sqrt($y)/$c', 'sqrt($y)/sqrt($c)']

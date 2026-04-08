@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_inductor\cpu_vec_isa.py
+# hypothesis_version: 6.151.10
+
+[128, 256, 512, ' -mamx-fp16', ' -mavx512bf16', ' amx_tile', ' avx512_vnni', '-c', '-mavx2 -mfma -mf16c', '-mvsx', '-mvx -mzvector', '.lock', '/arch:AVX2', '/arch:AVX512', '/proc/cpuinfo', 'AMD64', 'ATEN_CPU_CAPABILITY', 'CPU_CAPABILITY_AVX2', 'CPU_CAPABILITY_NEON', 'CPU_CAPABILITY_SVE', 'CPU_CAPABILITY_VSX', 'INVALID_VEC_ISA', 'SVE256', '[\\^ ]+vxe[\\$ ]+', '__ARM_FEATURE_BF16', '__lib_path__', '_tile_dpbf16ps', '_tile_dpfp16ps', 'aarch64', 'amx_tile', 'arm', 'asimd', 'avx2', 'avx512', 'avx512_vnni', 'cpp', 'darwin', 'default', 'linux', 'neon', 'ppc64le', 's390x', 'vsx', 'win32', 'x86_64', 'zvector']

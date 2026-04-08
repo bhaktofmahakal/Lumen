@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\http\api_client.py
+# hypothesis_version: 6.151.10
+
+[200, 201, 202, 429, '/', 'ApiClient', 'AsyncApiClient', 'AsyncClientT', 'ClientT', 'Retry-After', 'T', '__name__', 'error', 'params', 'status', 'timeout']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\_chunking.py
+# hypothesis_version: 6.151.10
+
+['batch_size', 'left', 'min_batch_size', 'n', 'n_packs', 'n_samples', 'working_memory']

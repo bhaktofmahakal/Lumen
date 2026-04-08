@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\local\persistence.py
+# hypothesis_version: 6.151.10
+
+[1.0, 2.0, 3.0, ':memory:', 'THREADSAFE=1', 'a', 'c', 'storage.dbm', 'storage.sqlite', 'utf-8']

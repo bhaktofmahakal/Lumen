@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\dependency_versions_check.py
+# hypothesis_version: 6.151.10
+
+['accelerate', 'filelock', 'huggingface-hub', 'numpy', 'packaging', 'python', 'pyyaml', 'regex', 'safetensors', 'tokenizers', 'tqdm']

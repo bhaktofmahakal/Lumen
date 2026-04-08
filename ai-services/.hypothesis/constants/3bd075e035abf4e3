@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_higher_order_ops\invoke_leaf_function.py
+# hypothesis_version: 6.151.10
+
+['call_function', 'fake_fn_spec', 'inputs', 'invoke_leaf_function', 'outputs', 'real_fn_spec', 'variable']

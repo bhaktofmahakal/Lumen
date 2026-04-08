@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\_lib\array_api_extra\__init__.py
+# hypothesis_version: 6.151.10
+
+['0.9.1', '__version__', 'apply_where', 'argpartition', 'at', 'atleast_nd', 'broadcast_shapes', 'cov', 'create_diagonal', 'default_dtype', 'expand_dims', 'isclose', 'isin', 'kron', 'lazy_apply', 'nan_to_num', 'nunique', 'one_hot', 'pad', 'partition', 'setdiff1d', 'sinc']

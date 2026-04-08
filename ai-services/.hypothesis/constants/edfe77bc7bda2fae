@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\solvers\ode\__init__.py
+# hypothesis_version: 6.151.10
+
+['allhints', 'canonical_odes', 'checkinfsol', 'checkodesol', 'classify_ode', 'constantsimp', 'dsolve', 'homogeneous_order', 'infinitesimals', 'linear_ode_to_matrix', 'linodesolve']

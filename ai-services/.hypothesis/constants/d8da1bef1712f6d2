@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\langsmith\evaluation\evaluator.py
+# hypothesis_version: 6.151.10
+
+[10000, '...)', 'DynamicRunEvaluator', '__name__', 'afunc', 'categorical', 'comment', 'continuous', 'example', 'examples', 'experiment', 'experiment:', 'freeform', 'func', 'inputs', 'key', 'metadata', 'outputs', 'reference_outputs', 'results', 'run', 'run:', 'run_id', 'runs', 'score', 'scores', 'session_id', 'source_run_id', 'tags', 'target_run_id', 'value']

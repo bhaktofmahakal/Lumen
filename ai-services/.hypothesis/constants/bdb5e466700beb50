@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\fx\traceback.py
+# hypothesis_version: 6.151.10
+
+['+', 'CREATE', 'NodeInfo', 'NodeSource', 'NodeSourceAction', 'REPLACE', 'action', 'annotate', 'annotate_fn', 'call_function', 'create', 'custom', 'error_msg', 'format_stack', 'from_node', 'function', 'get_attr', 'get_current_meta', 'grad_fn_seq_nr', 'graph_id', 'in_grad_fn', 'inductor', 'meta', 'name', 'pass_name', 'preserve_node_meta', 'replace', 'reset_grad_fn_seq_nr', 'seq_nr', 'set_current_meta', 'set_grad_fn_seq_nr', 'set_stack_trace', 'stack_trace', 'target']

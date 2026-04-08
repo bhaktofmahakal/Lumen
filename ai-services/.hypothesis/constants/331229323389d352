@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\tiktoken\model.py
+# hypothesis_version: 6.151.10
+
+['ada', 'babbage', 'babbage-002', 'cl100k_base', 'code-cushman-001', 'code-cushman-002', 'code-davinci-001', 'code-davinci-002', 'curie', 'cushman-codex', 'davinci', 'davinci-002', 'davinci-codex', 'ft:babbage-002', 'ft:davinci-002', 'ft:gpt-3.5-turbo', 'ft:gpt-4', 'gpt-3.5-turbo', 'gpt-3.5-turbo-', 'gpt-35-turbo', 'gpt-35-turbo-', 'gpt-4', 'gpt-4-', 'gpt2', 'p50k_base', 'p50k_edit', 'r50k_base', 'text-ada-001', 'text-babbage-001', 'text-curie-001', 'text-davinci-001', 'text-davinci-002', 'text-davinci-003']

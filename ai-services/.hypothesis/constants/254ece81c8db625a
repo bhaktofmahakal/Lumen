@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\dtypes\astype.py
+# hypothesis_version: 6.151.10
+
+['M', 'O', 'datetime64', 'ignore', 'itemsize', 'iu', 'iufb', 'm', 'mM', 'numpy_dtype', 'object', 'pyarrow', 'raise', 'timedelta64', 'u', 'unit']

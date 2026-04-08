@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\exceptions.py
+# hypothesis_version: 6.151.10
+
+[400, 401, 404, 408, 422, 429, 500, 503, 'POST', 'openai']

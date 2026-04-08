@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\strategies\branch\__init__.py
+# hypothesis_version: 6.151.10
+
+['canon', 'chain', 'condition', 'debug', 'do_one', 'exhaust', 'identity', 'multiplex', 'notempty', 'onaction', 'sfilter', 'traverse', 'yieldify']

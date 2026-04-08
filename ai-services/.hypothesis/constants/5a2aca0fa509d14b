@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\_local_tensor\__init__.py
+# hypothesis_version: 6.151.10
+
+[',\n', '.', 'Cannot signal None', 'LocalIntNode', 'LocalRunnerMode', 'LocalTensor', 'LocalTensorMode', '_', '_P', '_R', '_c10d_functional', '_dtensor', '_local_tensor_', '_local_tensors', '_per_rank_offsets', '_ranks', '_size', '_sym_get_coordinate', 'c10d', 'cpu', 'cuda', 'get_coordinate', 'get_local_rank', 'get_rank', 'not_implemented', 'profiler', 'sizes', 'symm_mem', 'torch.initial_seed', 'torch.manual_seed', 'torch_initial_seed', 'torch_manual_seed', 'value']

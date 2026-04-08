@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\__init__.py
+# hypothesis_version: 6.151.10
+
+['OptimizedModule', 'allow_in_graph', 'aten::manual_seed', 'config', 'disable', 'disallow_in_graph', 'dont_skip_tracing', 'error_on_graph_break', 'explain', 'export', 'forbid_in_graph', 'graph_break', 'is_compiling', 'list_backends', 'lookup_backend', 'mark_dynamic', 'mark_static', 'mark_static_address', 'maybe_mark_dynamic', 'nonstrict_trace', 'optimize', 'optimize_assert', 'patch_dynamo_config', 'register_backend', 'replay', 'reset', 'run', 'set_recursion_limit', 'set_stance', 'skip_frame', 'step_unsupported', 'substitute_in_graph', 'torch._dynamo.reset']

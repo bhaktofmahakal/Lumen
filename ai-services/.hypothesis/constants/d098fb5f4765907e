@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\loss\loss_for_object_detection.py
+# hypothesis_version: 6.151.10
+
+[0.25, 'auxiliary_outputs', 'bilinear', 'boxes', 'cardinality', 'cardinality_error', 'class_labels', 'empty_weight', 'labels', 'logits', 'loss_bbox', 'loss_ce', 'loss_dice', 'loss_giou', 'loss_mask', 'masks', 'none', 'pred_boxes', 'pred_masks', 'scipy']

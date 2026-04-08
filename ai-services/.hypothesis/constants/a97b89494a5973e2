@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\losses\MatryoshkaLoss.py
+# hypothesis_version: 6.151.10
+
+[0.0, 'loss', 'matryoshka_dims', 'matryoshka_weights', 'n_dims_per_step', 'sentence_embedding', 'token_embeddings']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\llms\replicate.py
+# hypothesis_version: 6.151.10
+
+[0.5, 200, 201, 400, ':', 'Authorization', 'Content-Type', 'POST', '__', 'api_base', 'application/json', 'bos_token', 'canceled', 'choices', 'complete_input_dict', 'content', 'created', 'deployments', 'deployments/', 'ended', 'eos_token', 'error', 'failed', 'final_prompt_value', 'get', 'headers', 'initial_prompt_value', 'input', 'logs', 'message', 'model', 'output', 'prompt', 'replicate/', 'role', 'roles', 'self', 'status', 'stream', 'streaming request', 'succeeded', 'system', 'system_prompt', 'urls', 'version']

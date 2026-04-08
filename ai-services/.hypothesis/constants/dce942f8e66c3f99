@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\linalg\decomp_lu.py
+# hypothesis_version: 6.151.10
+
+['LinAlgWarning', '_decomp_lu', 'decomp_lu', 'get_lapack_funcs', 'linalg', 'lu', 'lu_factor', 'lu_solve']

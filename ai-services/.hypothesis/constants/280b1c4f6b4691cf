@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_inductor\analysis\device_info.py
+# hypothesis_version: 6.151.10
+
+[15.1, 19.5, 30.3, 45.3, 64.0, 67.0, 67.5, 72.1, 80.0, 120.0, 122.6, 128.0, 144.2, 156.0, 163.4, 181.0, 192.0, 242.0, 288.0, 312.5, 485.0, 490.3, 624.0, 653.7, 980.6, 1307.4, 1600.0, 1961.2, 1979.0, 2039.0, 2309.6, 2614.9, 3958.0, 4614.0, 5300.0, 8000.0, 3350, 'AMD INSTINCT MI210X', 'AMD INSTINCT MI300X', 'AMD INSTINCT MI350X', 'AMD MI210X', 'AMD MI300A', 'AMD MI300X', 'AMD MI350X', 'NVIDIA A100', 'NVIDIA H100', 'NVIDIA L4', 'torch.tf32']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\ao\quantization\quantize.py
+# hypothesis_version: 6.151.10
+
+['.', '_IS_REFERENCE', 'add_quant_dequant', 'convert', 'meta', 'prepare', 'prepare_qat', 'propagate_qconfig_', 'qconfig', 'quantize', 'quantize_dynamic', 'quantize_qat', 'swap_module', 'weight_fake_quant']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\requests\packages.py
+# hypothesis_version: 6.151.10
+
+['chardet', 'idna', 'urllib3']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\multipledispatch\dispatcher.py
+# hypothesis_version: 6.151.10
+
+[')\ndef %s(...)', ', ', '-', '<dispatched %s>', '@dispatch(', 'File: %s\n\n', 'Inputs: <%s>\n', 'No function found', '[', ']', '__name__', '_cache', 'doc', 'funcs', 'name', 'ordering', 'signature']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\fsdp\fully_sharded_data_parallel.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1e-06, 1.0, 2.0, 'OptimStateKeyType', '_flat_param', '_handle', 'backward_prefetch', 'cpu_offload', 'device_id', 'device_mesh', 'forward_prefetch', 'ignored_states', 'limit_all_gathers', 'mixed_precision', 'offload_to_cpu', 'optim_state_dict', 'param_groups', 'param_init_fn', 'params', 'process_group', 'rank0_only', 'sharding_strategy', 'state', 'sync_module_states', 'use_orig_params']

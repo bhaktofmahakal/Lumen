@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\sparse_encoder\losses\CSRLoss.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.1, 1.0, 8.0, 'base_loss', 'beta', 'decoded_embedding_4k', 'decoded_embedding_k', 'gamma', 'loss', 'sentence_embedding']

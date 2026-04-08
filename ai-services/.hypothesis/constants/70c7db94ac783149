@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\packaging\specifiers.py
+# hypothesis_version: 6.151.10
+
+['!=', ',', '.', '.*', '0', '<', '<=', '==', '===', '>', '>=', 'SpecifierSet', 'UnparsedVersionVar', '\\s*$', '^\\s*', 'a', 'arbitrary', 'b', 'compatible', 'dev', 'equal', 'greater_than', 'greater_than_equal', 'less_than', 'less_than_equal', 'not_equal', 'operator', 'post', 'prereleases', 'rc', 'version', '{}{}', '~=']

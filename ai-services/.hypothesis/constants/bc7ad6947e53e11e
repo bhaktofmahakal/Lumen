@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\optimize\_differentiable_functions.py
+# hypothesis_version: 6.151.10
+
+['2-point', '3-point', '_FakeCounter', 'abs_step', 'as_linear_operator', 'astype', 'bounds', 'cs', 'csr', 'dense_callable', 'fd_hess', 'full_output', 'hess', 'method', 'nfev', 'ngev', 'nhev', 'real floating', 'rel_step', 'sparse_callable', 'sparsity', 'workers']

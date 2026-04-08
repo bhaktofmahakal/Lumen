@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\integrations\dynamodb.py
+# hypothesis_version: 6.151.10
+
+['AWS_REGION_NAME', 'call_type', 'dynamodb', 'endTime', 'id', 'litellm.completion', 'litellm_params', 'messages', 'metadata', 'model', 'modelParameters', 'optional_params', 'response', 'startTime', 'usage', 'user']

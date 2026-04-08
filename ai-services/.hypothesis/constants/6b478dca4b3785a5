@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\llms\anthropic.py
+# hypothesis_version: 6.151.10
+
+[200, 256, '\n\nAssistant: ', '\n\nHuman: ', '2023-06-01', 'POST', '__', 'accept', 'anthropic', 'anthropic-version', 'api_base', 'application/json', 'choices', 'complete_input_dict', 'completion', 'content', 'content-type', 'created', 'error', 'final_prompt_value', 'initial_prompt_value', 'message', 'model', 'prompt', 'roles', 'self', 'stop_reason', 'stream', 'x-api-key']

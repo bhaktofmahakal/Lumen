@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\integrations\litedebugger.py
+# hypothesis_version: 6.151.10
+
+['LITELLM_EMAIL', 'LITELLM_TOKEN', 'Streamed response', 'additional_details', 'application/json', 'choices', 'completion', 'content', 'content-type', 'data', 'embedding', 'end_user', 'error', 'failure', 'initiated', 'litellm_call_id', 'litellm_params', 'logger_fn', 'message', 'messages', 'model', 'optional_params', 'original_response', 'received', 'response', 'response_time', 'role', 'status', 'success', 'total_cost', 'user', 'user_email']

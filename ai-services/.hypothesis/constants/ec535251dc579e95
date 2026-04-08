@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\llms\baseten.py
+# hypothesis_version: 6.151.10
+
+['/predict', 'Authorization', 'Content-Type', 'accept', 'application/json', 'choices', 'complete_input_dict', 'completion', 'content', 'content-type', 'created', 'data', 'details', 'error', 'finish_reason', 'generated_text', 'inputs', 'logprob', 'message', 'model', 'model_output', 'parameters', 'prompt', 'role', 'stream', 'text/event-stream', 'tokens', 'user']

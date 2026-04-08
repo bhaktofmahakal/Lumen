@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\functions\elementary\trigonometric.py
+# hypothesis_version: 6.151.10
+
+[120, 257, '+', '-', 'Y', '_eval_expand_trig', '_eval_rewrite_as_Pow', '_eval_rewrite_as_cos', '_eval_rewrite_as_exp', '_eval_rewrite_as_pow', '_eval_rewrite_as_sin', '_eval_rewrite_as_tan', 'complex', 'dummy', 'fdiff', 'inverse', 't', 'z']

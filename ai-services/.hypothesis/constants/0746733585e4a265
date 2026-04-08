@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\redis\typing.py
+# hypothesis_version: 6.151.10
+
+['AnyChannelT', 'AnyFieldT', 'AnyKeyT', 'Encoder']

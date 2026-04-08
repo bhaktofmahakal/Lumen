@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\models\t5\configuration_t5.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1e-06, 0.1, 1.0, 128, 512, 2048, 32128, '-', 'T5Config', 'd_kv', 'd_model', 'gated', 'gated-gelu', 'gelu_new', 'google-t5/t5-small', 'head_dim', 'hidden_size', 'num_attention_heads', 'num_heads', 'num_hidden_layers', 'num_layers', 'past_key_values', 'relu', 't5', 'tie_word_embeddings']

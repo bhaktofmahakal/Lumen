@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\io\excel\_odfreader.py
+# hypothesis_version: 6.151.10
+
+['#N/A', 'OpenDocument', 'TRUE', 'boolean', 'c', 'currency', 'date', 'date-value', 'float', 'name', 'number-rows-repeated', 'odf', 'percentage', 'qname', 'storage_options', 'string', 'time', 'value', 'value-type']

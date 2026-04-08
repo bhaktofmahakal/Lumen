@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\variables\ctx_manager.py
+# hypothesis_version: 6.151.10
+
+['AutocastModeVariable', 'CUDADeviceVariable', 'DisableTorchFunction', 'GradModeVariable', 'PyCodegen', 'SDPAKernelVariable', 'Unexpected arg type', '__enter__', '__exit__', '__setattr__', '_buffers', '_call_func', '_parameters', '_training_state', '_version', 'annotate', 'args', 'autocast', 'cache_enabled', 'call_function', 'catch_warnings', 'cm_obj', 'contextlib', 'cpu', 'cuda', 'device', 'device_type', 'dtype', 'emit_profiler_ops', 'enabled', 'error_on_graph_break', 'inference_mode', 'initial_values', 'multiple exits?', 'name', 'nullcontext', 'patch_dynamo_config', 'record_function', 'set_grad_enabled', 'state', 'target', 'target_values', 'torch', 'torch._C', 'torch._dynamo', 'torch.autograd.graph', 'torch.cuda', 'torch.fx.traceback', 'torch.nn.attention', 'unknown', 'use_training_state', 'warnings']

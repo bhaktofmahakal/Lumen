@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\google\protobuf\descriptor.py
+# hypothesis_version: 6.151.10
+
+[100, 19000, 19999, '.', '.proto', '/', 'EDITION_PROTO2', 'EDITION_PROTO3', 'EDITION_UNKNOWN', 'EnumOptions', 'EnumValueOptions', 'FieldOptions', 'FileOptions', 'MessageOptions', 'MethodOptions', 'OneofOptions', 'ServiceOptions', '_', 'ascii', 'features', 'options', 'packed', 'proto3', 'python', 'type_name']

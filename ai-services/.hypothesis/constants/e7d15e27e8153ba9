@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\llms\ollama.py
+# hypothesis_version: 6.151.10
+
+[200, '/api/embeddings', '/api/generate', 'POST', 'Why is the sky blue?', '__', 'acompletion', 'api_base', 'arguments', 'choices', 'complete_input_dict', 'content', 'created', 'data', 'embedding', 'eval_count', 'finish_reason', 'format', 'function', 'headers', 'id', 'index', 'json', 'list', 'llama2', 'message', 'model', 'name', 'object', 'ollama', 'ollama/', 'prompt', 'prompt_eval_count', 'prompt_tokens', 'response', 'self', 'stop', 'stream', 'total_tokens', 'type', 'usage']

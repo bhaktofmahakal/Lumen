@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\langsmith\run_helpers.py
+# hypothesis_version: 6.151.10
+
+[1000, '<source unavailable>', 'P', 'R', 'T', '_CLIENT', '_METADATA', '_PARENT_RUN_TREE', '_PROJECT_NAME', '_TAGS', '_TRACING_ENABLED', '__aiter__', '__call__', '__iter__', '__wrapped__', 'args', 'callbacks', 'chain', 'client', 'cls', 'config', 'context', 'default', 'doc', 'embedding', 'enabled', 'extra', 'extra_outer', 'invocation_params_fn', 'kwargs', 'llm', 'local', 'ls_method', 'metadata', 'name', 'new_run', 'new_token', 'on_end', 'output', 'parent', 'parent_run', 'parser', 'process_inputs', 'process_outputs', 'project_name', 'prompt', 'reduce_fn', 'reference_example_id', 'retriever', 'run_extra', 'run_id', 'run_tree', 'run_type', 'self', 'signature', 'tags', 'time', 'token', 'tool', 'trace', 'traceable']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\budget_manager.py
+# hypothesis_version: 6.151.10
+
+[365, '/get_budget', '/set_budget', 'Content-Type', 'application/json', 'content', 'created_at', 'current_cost', 'daily', 'data', 'duration', 'error', 'hosted', 'last_updated_at', 'local', 'model', 'model_cost', 'monthly', 'project_name', 'r', 'role', 'status', 'success', 'total_budget', 'user', 'user_cost.json', 'user_dict', 'w', 'weekly', 'yearly']

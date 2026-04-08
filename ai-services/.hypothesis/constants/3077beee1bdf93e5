@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\modeling_rope_utils.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.001, 0.1, 1.0, 10000.0, 'PreTrainedConfig', 'attention_factor', 'beta_fast', 'beta_slow', 'default', 'dynamic', 'factor', 'full_attention', 'head_dim', 'high_freq_factor', 'layer_type', 'layer_types', 'linear', 'llama3', 'long_factor', 'longrope', 'low_freq_factor', 'mscale', 'mscale_all_dim', 'proportional', 'rope_parameters', 'rope_scaling', 'rope_theta', 'rope_type', 'short_factor', 'torch.Tensor', 'torch.device', 'truncate', 'type', 'yarn']

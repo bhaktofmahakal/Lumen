@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\polys\domains\__init__.py
+# hypothesis_version: 6.151.10
+
+['AlgebraicField', 'CC', 'ComplexField', 'Domain', 'EX', 'EXRAW', 'ExpressionDomain', 'FF', 'FF_gmpy', 'FF_python', 'FiniteField', 'FractionField', 'GF', 'GMPYFiniteField', 'GMPYIntegerRing', 'GMPYRationalField', 'IntegerRing', 'PolynomialRing', 'PythonFiniteField', 'PythonIntegerRing', 'PythonRational', 'QQ', 'QQ_I', 'QQ_gmpy', 'QQ_python', 'RR', 'RationalField', 'RealField', 'ZZ', 'ZZ_I', 'ZZ_gmpy', 'ZZ_python']

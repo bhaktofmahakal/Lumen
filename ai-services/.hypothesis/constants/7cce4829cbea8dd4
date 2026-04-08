@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\trainer_callback.py
+# hypothesis_version: 6.151.10
+
+[0.0, 100, 500, 'TrainerCallback', 'args', 'attributes', 'callbacks is\n:', 'eval', 'eval_', 'logging', 'on_epoch_begin', 'on_epoch_end', 'on_evaluate', 'on_init_end', 'on_log', 'on_optimizer_step', 'on_predict', 'on_prediction_step', 'on_push_begin', 'on_save', 'on_step_begin', 'on_step_end', 'on_substep_end', 'on_train_begin', 'on_train_end', 'save', 'should_epoch_stop', 'should_evaluate', 'should_log', 'should_save', 'should_training_stop', 'total_flos', 'utf-8', 'w']

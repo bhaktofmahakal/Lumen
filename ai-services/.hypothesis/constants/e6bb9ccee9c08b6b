@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\proxy\_types.py
+# hypothesis_version: 6.151.10
+
+[0.0, 300, 2048, '1h', 'allow', 'azure_key_vault', 'base_model', 'chat', 'completion', 'embedding', 'google_kms', 'gpt-3.5-turbo', 'gpt-3.5-turbo-16k', 'gpt-4', 'gpt-4-1106-preview', 'gpt-4-32k', 'id', 'input_cost_per_token', 'local', 'max_tokens', 'mode', 'model_info']

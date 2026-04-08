@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\llms\ollama_chat.py
+# hypothesis_version: 6.151.10
+
+[200, '/api/chat', 'POST', '__', 'acompletion', 'api_base', 'arguments', 'choices', 'complete_input_dict', 'content', 'created', 'eval_count', 'finish_reason', 'format', 'function', 'headers', 'id', 'json', 'llama2', 'message', 'messages', 'model', 'name', 'ollama/', 'ollama_chat', 'prompt_eval_count', 'self', 'stop', 'stream', 'type', 'usage']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\responses\response_function_tool_call_item.py
+# hypothesis_version: 6.151.10
+
+['completed', 'in_progress', 'incomplete']

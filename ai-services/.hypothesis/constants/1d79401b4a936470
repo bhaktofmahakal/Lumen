@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\embed\embedder.py
+# hypothesis_version: 6.151.10
+
+['OnnxProvider', 'Qdrant/bm25', 'T', 'cache_dir', 'cuda', 'device_ids', 'providers', 'threads']

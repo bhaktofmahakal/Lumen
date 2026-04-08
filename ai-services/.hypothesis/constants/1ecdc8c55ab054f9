@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\evaluation\EmbeddingSimilarityEvaluator.py
+# hypothesis_version: 6.151.10
+
+[128, 'Semantic Similarity', '_', '_results.csv', 'a', 'binary', 'cosine', 'dot', 'epoch', 'euclidean', 'float32', 'int8', 'manhattan', 'pearson', 'pearson_max', 'precision', 'spearman', 'spearman_cosine', 'spearman_dot', 'spearman_euclidean', 'spearman_manhattan', 'spearman_max', 'steps', 'truncate_dim', 'ubinary', 'uint8', 'utf-8', 'w']

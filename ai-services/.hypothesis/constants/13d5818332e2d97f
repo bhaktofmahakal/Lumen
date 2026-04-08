@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\computation\ops.py
+# hypothesis_version: 6.151.10
+
+['!=', '%', '&', '*', '**', '+', '-', '/', '//', '<', '<=', '==', '>', '>=', 'UTC', '__pd_eval_local_', 'abs', 'and', 'arccos', 'arccosh', 'arcsin', 'arcsinh', 'arctan', 'arctan2', 'arctanh', 'bool', 'ceil', 'cos', 'cosh', 'exp', 'expm1', 'floor', 'in', 'int', 'log', 'log10', 'log1p', 'max', 'min', 'ndim', 'not', 'not in', 'object', 'or', 'prod', 'python', 'sin', 'sinh', 'sqrt', 'sum', 'tan', 'tanh', 'type', '|', '~']

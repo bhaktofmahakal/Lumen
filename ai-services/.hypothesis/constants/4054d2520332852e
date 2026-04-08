@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\huggingface_hub\_inference_endpoints.py
+# hypothesis_version: 6.151.10
+
+[200, 'AsyncInferenceClient', 'HfApi', 'InferenceClient', 'InferenceEndpoint', 'createdAt', 'failed', 'framework', 'hardwareUsage', 'healthRoute', 'initializing', 'model', 'name', 'paused', 'pending', 'pendingRequests', 'private', 'protected', 'public', 'repository', 'revision', 'running', 'scaledToZero', 'state', 'status', 'task', 'type', 'updateFailed', 'updatedAt', 'updating', 'url']

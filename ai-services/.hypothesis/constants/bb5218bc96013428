@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\huggingface_hub\_snapshot_download.py
+# hypothesis_version: 6.151.10
+
+[401, 1000, 'B', 'Download complete', 'Fetching ... files', '[dry-run] ', 'initial', 'model', 'refs', 'snapshots', 'total', 'w']

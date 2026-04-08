@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\nn\modules\upsampling.py
+# hypothesis_version: 6.151.10
+
+[', mode=', 'Upsample', 'UpsamplingBilinear2d', 'UpsamplingNearest2d', 'align_corners', 'bilinear', 'mode', 'name', 'nearest', 'scale_factor', 'scale_factor=', 'size', 'size=']

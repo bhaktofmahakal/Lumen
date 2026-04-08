@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\resume_execution.py
+# hypothesis_version: 6.151.10
+
+[128, 256, 512, '.', 'BUILD_LIST', 'COPY_FREE_VARS', 'DELETE_FAST', 'DELETE_SUBSCR', 'LIST_EXTEND', 'LOAD_CONST', 'LOAD_FAST', 'LOAD_FAST_BORROW', 'NOP', 'POP_TOP', 'PUSH_EXC_INFO', 'PUSH_NULL', 'RAISE_VARARGS', 'RESUME', 'STORE_FAST', 'SWAP', '__enter__', '__exit__', '__nested_resume_fns', 'co_argcount', 'co_cellvars', 'co_firstlineno', 'co_flags', 'co_freevars', 'co_kwonlyargcount', 'co_name', 'co_names', 'co_posonlyargcount', 'co_qualname', 'co_varnames', 'ctx', 'dummy', 'stack_var_name']

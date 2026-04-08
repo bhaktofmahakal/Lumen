@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\shared\custom_tool_input_format.py
+# hypothesis_version: 6.151.10
+
+['Grammar', 'Text', 'grammar', 'lark', 'regex', 'text', 'type']

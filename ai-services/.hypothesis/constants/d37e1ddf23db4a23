@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\tokenizers\implementations\sentencepiece_unigram.py
+# hypothesis_version: 6.151.10
+
+[8000, ' {2,}', '.', 'SentencePieceUnigram', 'add_prefix_space', 'always', 'model', 'never', 'rb', 'replacement', '▁']

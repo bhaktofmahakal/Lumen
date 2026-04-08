@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_higher_order_ops\invoke_subgraph.py
+# hypothesis_version: 6.151.10
+
+['_boxed_call', 'auto_functionalized_', 'call_function', 'identifier', 'invoke_subgraph', 'meta', 'nested_region_config', 'output', 'repeated_subgraph', 'requires_grad', 'subgraph', 'val']

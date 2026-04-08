@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\async_qdrant_remote.py
+# hypothesis_version: 6.151.10
+
+[6333, 6334, '/', '127.0.0.1', 'Search returned None', 'User-Agent', '_grpc_channel_pool', 'abort_transfer', 'api-key', 'auth', 'collection_name', 'create_shard_key', 'delete_shard_key', 'drop_replica', 'forkserver', 'grpc_compression', 'headers', 'host', 'http', 'http2', 'http://', 'https', 'https://', 'index_params', 'limits', 'localhost', 'max_retries', 'metadata', 'move_shard', 'next_page_offset', 'options', 'points', 'port', 'qdrant-client', 'replicate_points', 'replicate_shard', 'restart_transfer', 'shard_key_selector', 'spawn', 'ssl', 'timeout', 'update_filter', 'update_mode', 'uri', 'wait']

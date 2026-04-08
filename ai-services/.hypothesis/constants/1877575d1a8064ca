@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\jinja2\ext.py
+# hypothesis_version: 6.151.10
+
+[100, '%', '%%', ',', '1', 'Parser', 'Token', 'TokenStream', '\\s*\\n\\s*', '_', '_render', '_trans', 'assign', 'block_begin', 'block_end', 'block_end_string', 'block_start_string', 'break', 'colon', 'comma', 'comment', 'comment_end_string', 'comment_start_string', 'context', 'continue', 'data', 'debug', 'do', 'encoding', 'endtrans', 'ext.i18n.trimmed', 'extensions', 'filters', 'gettext', 'line_comment_prefix', 'linecomment', 'load', 'lstrip_blocks', 'name', 'name:debug', 'name:pluralize', 'newstyle_gettext', 'ngettext', 'notrimmed', 'npgettext', 'num', 'on', 'pgettext', 'pluralize', 'silent', 'store', 'string', 'te.Self', 'tests', 'trans', 'trim_blocks', 'trimmed', 'true', 'ugettext', 'ungettext', 'utf-8', 'variable_begin', 'variable_end', 'variable_end_string', 'yes']

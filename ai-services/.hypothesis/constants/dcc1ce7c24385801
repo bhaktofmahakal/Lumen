@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\io\feather_format.py
+# hypothesis_version: 6.151.10
+
+['ignore', 'object', 'pandas', 'pyarrow', 'rb', 'wb']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\feature_extraction_utils.py
+# hypothesis_version: 6.151.10
+
+['AutoFeatureExtractor', 'BatchFeature', '_from_auto', '_from_pipeline', 'audio_processor', 'cache_dir', 'commit_message', 'data', 'device', 'feature extractor', 'feature_extractor', 'file_type', 'force_download', 'from_auto_class', 'local_files_only', 'main', 'mel_filters', 'non_blocking', 'overflowing_values', 'processor_class', 'proxies', 'repo_id', 'return_unused_kwargs', 'revision', 'subfolder', 'token', 'torch', 'using_pipeline', 'utf-8', 'w', 'window']

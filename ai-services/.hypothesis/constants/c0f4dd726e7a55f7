@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\decorators.py
+# hypothesis_version: 6.151.10
+
+['F', '_P', '_R', '__', '_dynamo_shape_ids', '_specialize_on', '_specialized_on', 'default', 'dont_skip_tracing', 'einops', 'einsum', 'guarded', 'leaf_function', 'nested_graph_breaks', 'nonexistent config', 'nonstrict_trace', 'not implemented yet', 'pack', 'repeat', 'set_stance', 'skip_torchrec', 'unguarded', 'unpack', 'verbose', 'verify_correctness']

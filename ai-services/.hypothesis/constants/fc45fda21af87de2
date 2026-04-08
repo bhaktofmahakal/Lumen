@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\cuda\amp\autocast_mode.py
+# hypothesis_version: 6.151.10
+
+['autocast', 'cuda', 'custom_bwd', 'custom_fwd']

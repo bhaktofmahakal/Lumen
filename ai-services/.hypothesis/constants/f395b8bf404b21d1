@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\generation\continuous_batching\requests.py
+# hypothesis_version: 6.151.10
+
+[2147483647, '\n)', ',\n\t', 'RequestState', 'RequestState(\n\t', 'complete_blocks', 'cpu', 'cuda', 'has_new_token', 'mps', 'state', 'xpu']

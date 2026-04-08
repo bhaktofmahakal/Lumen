@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\models\bert\tokenization_bert_legacy.py
+# hypothesis_version: 6.151.10
+
+[100, 13312, 19903, 19968, 40959, 63744, 64255, 65533, 131072, 173791, 173824, 177983, 177984, 178207, 178208, 183983, 194560, 195103, ' ##', '##', '-', 'BasicTokenizer', 'BertTokenizerLegacy', 'Mn', 'NFC', 'NFD', 'WordpieceTokenizer', '[CLS]', '[MASK]', '[PAD]', '[SEP]', '[UNK]', 'r', 'utf-8', 'vocab.txt', 'vocab_file', 'w']

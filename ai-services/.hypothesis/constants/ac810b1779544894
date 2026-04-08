@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\langchain_core\tracers\log_stream.py
+# hypothesis_version: 6.151.10
+
+['/streamed_output/-', 'T', 'add', 'callbacks', 'chat_model', 'input', 'inputs', 'llm', 'metadata', 'milliseconds', 'op', 'original', 'output', 'path', 'prompt', 'replace', 'retriever', 'streaming_events', 'value']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\ao\nn\quantized\modules\activation.py
+# hypothesis_version: 6.151.10
+
+[0.01, 1.0, 'ELU', 'Hardswish', 'LeakyReLU', 'MultiheadAttention', 'PReLU', 'QuantizedELU', 'QuantizedHardswish', 'QuantizedLeakyReLU', 'QuantizedPReLU', 'QuantizedReLU6', 'QuantizedSoftmax', 'ReLU6', 'Sigmoid', 'Softmax', 'bias_k', 'bias_v', 'device', 'dtype', 'scale', 'softmax', 'zero_point']

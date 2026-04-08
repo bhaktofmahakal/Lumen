@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\integrations\eager_paged.py
+# hypothesis_version: 6.151.10
+
+['cache', 'full_attention', 'num_key_value_groups', 'read_index', 'sinks', 'sliding_attention', 'sliding_window', 'write_index']

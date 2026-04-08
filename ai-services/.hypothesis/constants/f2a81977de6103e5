@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\variables\constant.py
+# hypothesis_version: 6.151.10
+
+['1 args and 0 kwargs', 'ConstantVariable', 'EnumVariable', 'UserFunctionVariable', '__contains__', '__iter__', '__len__', '__module__', '__round__', 'call_function', 'decode', 'fn', 'format', 'join', 'none_is_leaf', 'optree', 'source']

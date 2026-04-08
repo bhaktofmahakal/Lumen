@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\cross_encoder\losses\RankNetLoss.py
+# hypothesis_version: 6.151.10
+
+[1e-10, 1.0, 'binary', 'natural', 'weighting_scheme']

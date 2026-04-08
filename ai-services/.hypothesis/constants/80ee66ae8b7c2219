@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\polys\galoistools.py
+# hypothesis_version: 6.151.10
+
+['GF_FACTOR_METHOD', 'GF_IRRED_METHOD', 'ben-or', 'berlekamp', 'polynomial division', 'rabin', 'shoup', 'zassenhaus']

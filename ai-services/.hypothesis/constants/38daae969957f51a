@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\metrics\_ranking.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.5, 1.0, 'array-like', 'average', 'binary', 'boolean', 'csr', 'drop_intermediate', 'ignore', 'ignore_ties', 'k', 'labels', 'left', 'log_base', 'macro', 'max', 'max_fpr', 'mergesort', 'micro', 'multi_class', 'multiclass', 'multilabel-indicator', 'neither', 'normalize', 'ovo', 'ovr', 'pos_label', 'raise', 'right', 'sample_weight', 'samples', 'sparse matrix', 'weighted', 'x', 'y', 'y_score', 'y_true']

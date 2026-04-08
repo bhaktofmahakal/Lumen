@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\utils\hub.py
+# hypothesis_version: 6.151.10
+
+[403, '.jinja', '0', '50GB', ':', '; ', '; is_ci/true', '; telemetry/off', 'AWS_REGION', 'Config', 'FeatureExtractor', 'GB', 'GIB', 'HF_MODULES_CACHE', 'Image', 'KB', 'KIB', 'MB', 'MIB', 'Model', 'Processor', 'README.md', 'SM_FRAMEWORK_MODULE', 'SM_FRAMEWORK_PARAMS', 'SM_NUM_CPUS', 'SM_NUM_GPUS', 'TRAINING_JOB_ARN', 'TRANSFORMERS_IS_CI', 'Tokenizer', 'Upload config', 'Upload model', 'Upload processor', 'Upload tokenizer', 'all_checkpoint_keys', 'b', 'chat_template.jinja', 'chat_template.json', 'config.json', 'main', 'metadata', 'modules', 'refs/pr', 'sm_account_id', 'sm_framework', 'sm_number_cpu', 'sm_number_gpu', 'sm_region', 'snapshots/([^/]+)/', 'transformers', 'transformers_modules', 'weight_map', '{}']

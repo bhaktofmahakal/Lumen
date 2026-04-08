@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\quantizers\quantizer_finegrained_fp8.py
+# hypothesis_version: 6.151.10
+
+['FineGrainedFP8Config', 'PreTrainedModel', 'Qwen3', 'activation_scale', 'bias', 'colwise', 'cpu', 'device_map', 'disk', 'rowwise', 'torch.Tensor', 'weight', 'weight$', 'weight_scale_inv']

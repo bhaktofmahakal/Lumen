@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\cross_encoder\CrossEncoder.py
+# hypothesis_version: 6.151.10
+
+[5000, ', ', 'Batches', 'Chunks', 'README.md', 'activation_fn', 'convert_to_numpy', 'convert_to_tensor', 'corpus_id', 'cpu', 'input', 'model_max_length', 'onnx', 'openvino', 'output', 'processes', 'pt', 'score', 'show_progress_bar', 'spawn', 'text', 'token', 'torch', 'torch.', 'utf8', 'version', 'w']

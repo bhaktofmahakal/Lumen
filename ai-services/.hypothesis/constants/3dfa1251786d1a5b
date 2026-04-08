@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\langchain_core\messages\utils.py
+# hypothesis_version: 6.151.10
+
+['AI', 'AIMessageChunk', 'ChatMessageChunk', 'Function', 'FunctionMessageChunk', 'Human', 'HumanMessageChunk', 'System', 'SystemMessageChunk', 'Tool', 'ToolMessageChunk', 'additional_kwargs', 'ai', 'assistant', 'chat', 'content', 'data', 'function', 'function_call', 'human', 'id', 'name', 'role', 'system', 'tool', 'tool_call_chunks', 'tool_call_id', 'tool_calls', 'type', 'user']

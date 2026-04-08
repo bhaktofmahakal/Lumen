@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\metrics\cluster\_unsupervised.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1.0, 100, 'X', 'array-like', 'clip', 'csc', 'csr', 'euclidean', 'f', 'ignore', 'labels', 'left', 'metric', 'precomputed', 'random_state', 'sample_size', 'sparse matrix']

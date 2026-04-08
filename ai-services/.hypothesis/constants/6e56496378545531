@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_higher_order_ops\local_map.py
+# hypothesis_version: 6.151.10
+
+['call_function', 'device_mesh', 'in_grad_placements', 'in_placements', 'is_backward', 'is_forward', 'local_map_hop', 'local_map_kwargs', 'num_activations', 'out_placements', 'output', 'partitioner_tag', 'placeholder']

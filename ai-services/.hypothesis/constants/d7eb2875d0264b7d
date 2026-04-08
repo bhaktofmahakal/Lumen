@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\nn\utils\_expanded_weights\embedding_expanded_weights.py
+# hypothesis_version: 6.151.10
+
+['padding_idx', 'scale_grad_by_freq', 'sparse']

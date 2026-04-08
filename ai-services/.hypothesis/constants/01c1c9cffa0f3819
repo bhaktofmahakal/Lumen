@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\llms\sagemaker.py
+# hypothesis_version: 6.151.10
+
+[422, 500, '<s>', 'AWS_REGION_NAME', 'Body', 'POST', '__', 'accept_eula=true', 'application/json', 'aws_access_key_id', 'aws_region_name', 'chat', 'choices', 'complete_input_dict', 'content', 'created', 'data', 'embedding', 'final_prompt_value', 'generated_text', 'generation', 'hf_model_name', 'index', 'initial_prompt_value', 'inputs', 'list', 'llama-2', 'message', 'model', 'object', 'parameters', 'request_str', 'roles', 'sagemaker-runtime', 'self', 'stream', 'text_inputs', 'us-west-2', 'usage', 'utf-8', 'utf8']

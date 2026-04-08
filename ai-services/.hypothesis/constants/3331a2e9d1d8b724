@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\fsdp\_fully_shard\_fsdp_init.py
+# hypothesis_version: 6.151.10
+
+['Callable', 'DeviceMesh', 'FSDPMeshInfo', 'FSDPState', 'MixedPrecisionPolicy', 'OffloadPolicy', '__deepcopy__', 'cpu', 'meta']

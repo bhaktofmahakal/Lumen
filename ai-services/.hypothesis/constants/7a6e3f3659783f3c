@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\cuda\_device_limits.py
+# hypothesis_version: 6.151.10
+
+[1000000000.0, 128, 256, 512, 1000, 1024, 2048, 4096, 8192, 'GPULimits', 'fp16_100', 'fp16_80', 'fp16_90', 'fp32_100', 'fp32_80', 'fp32_90', 'fp64_100', 'fp64_80', 'fp64_90', 'fp8_100', 'fp8_90', 'int8_100', 'int8_80', 'int8_90', 'unknown']

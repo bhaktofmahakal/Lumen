@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\_meta_registrations.py
+# hypothesis_version: 6.151.10
+
+['IMPL', 'Meta', '_allgather_base_', 'allgather_', 'allreduce_', 'alltoall_', 'alltoall_base_', 'barrier', 'broadcast_', 'c10d', 'gather_', 'monitored_barrier_', 'recv_', 'recv_any_source_', 'reduce_', 'reduce_scatter_', 'scatter_', 'send']

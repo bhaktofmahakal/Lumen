@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\nn\__init__.py
+# hypothesis_version: 6.151.10
+
+['device', 'dtype', 'factory_kwargs', 'memory_format']

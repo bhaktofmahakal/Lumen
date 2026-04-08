@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\fx\interpreter.py
+# hypothesis_version: 6.151.10
+
+['*', ', ', '.', 'Interpreter', 'Target', 'Transformer', '__module__', 'artifact', 'call_function', 'encoding', 'extra arguments', 'fx_interpreter_error', 'get_attr', 'missing arguments', 'name', 'output', 'placeholder', 'run_node %s', 'string']

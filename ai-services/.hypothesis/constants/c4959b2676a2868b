@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\data\processors\squad.py
+# hypothesis_version: 6.151.10
+
+[0.01, 8239, 1000000000, 'BartTokenizer', 'BartTokenizerFast', 'LongformerTokenizer', 'RobertaTokenizer', 'Tokenizer', 'answer_start', 'answers', 'attention_mask', 'bart', 'camembert', 'context', 'data', 'dev', 'dev-v1.1.json', 'dev-v2.0.json', 'id', 'input_ids', 'is_impossible', 'left', 'length', 'max_length', 'mpnet', 'overflowing_tokens', 'paragraph_len', 'paragraphs', 'pt', 'qas', 'question', 'r', 'right', 'roberta', 'start', 'text', 'title', 'token_is_max_context', 'token_to_orig_map', 'token_type_ids', 'tokens', 'train', 'train-v1.1.json', 'train-v2.0.json', 'utf-8', 'validation']

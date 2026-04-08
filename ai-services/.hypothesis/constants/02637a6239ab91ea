@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\models\Transformer.py
+# hypothesis_version: 6.151.10
+
+['all_layer_embeddings', 'attention_mask', 'backend', 'cache_dir', 'config', 'config_args', 'decoder.*', 'do_lower_case', 'feature-extraction', 'hidden_states', 'input_ids', 'inputs_embeds', 'local_files_only', 'longest_first', 'max_seq_length', 'model.encoder', 'model_args', 'model_max_length', 'onnx', 'openvino', 'pt', 'revision', 'subfolder', 'text_keys', 'token', 'token_embeddings', 'token_type_ids', 'tokenizer_args', 'torch', 'trust_remote_code']

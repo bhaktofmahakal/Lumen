@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\quantizers\quantizer_mxfp4.py
+# hypothesis_version: 6.151.10
+
+[2880, '3.4.0', '3.5.0', 'GptOssConfig', 'Mxfp4Config', 'PreTrainedModel', 'base_model_ep_plan', 'base_model_tp_plan', 'cpu', 'cuda', 'device_map', 'disk', 'down_proj', 'down_proj$', 'down_proj_bias', 'down_proj_blocks', 'down_proj_scales', 'gate_up_proj', 'gate_up_proj$', 'gate_up_proj_bias', 'gate_up_proj_blocks', 'gate_up_proj_scales', 'grouped_gemm', 'hidden_size', 'num_local_experts', 'xpu']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\utils\_debug_mode.py
+# hypothesis_version: 6.151.10
+
+[1e-10, ' [explicit] ', ' [implicit] ', '# ', ', ', 'CachingAutotuner.', 'DebugMode', 'DeviceInterface', 'InductorBenchmarker.', '__module__', '__name__', 'annotate', 'arg_name', 'call', 'call_type', 'compile_fx.<locals>.', 'empty', 'enter', 'exit', 'fwd_nn_module_stack', 'fwd_stack_trace', 'hash', 'hash1', 'hash2', 'hash_tensor', 'input_hash', 'is_input_hash', 'nn.Mod', 'nn.Mod (compile bwd)', 'nn.Mod (compile)', 'nn_module_stack', 'norm', 'output', 'placeholder', 'profiler', 'pytree_path', 'record function', 'redistribute_input', 'rel_diff', 'stack_trace', 'torch op', 'traceback_', 'triton kernel']

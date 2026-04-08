@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\langchain_core\runnables\config.py
+# hypothesis_version: 6.151.10
+
+['P', 'T', 'callbacks', 'config', 'configurable', 'max_concurrency', 'metadata', 'recursion_limit', 'run_id', 'run_manager', 'run_name', 'tags']

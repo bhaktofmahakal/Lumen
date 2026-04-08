@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\dynamo_profiler.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1000000.0, 1000000000.0, 1000, '-', '-Tsvg', '-f', '-o', '.', '.svg', '/', 'cumtime', 'cumulative', 'dot', 'gprof2dot', 'ncalls', 'pcalls', 'pstats', 'tottime']

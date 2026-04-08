@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\chat\completion_create_params.py
+# hypothesis_version: 6.151.10
+
+['24h', 'Function', 'FunctionCall', 'ResponseFormat', 'WebSearchOptions', 'approximate', 'audio', 'auto', 'default', 'flex', 'high', 'in-memory', 'low', 'medium', 'none', 'priority', 'scale', 'text']

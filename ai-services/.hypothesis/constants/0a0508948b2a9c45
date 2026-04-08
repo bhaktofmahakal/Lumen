@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\integrations\llmonitor.py
+# hypothesis_version: 6.151.10
+
+['/api/report', 'Content-Type', 'LLMONITOR_API_URL', 'LLMONITOR_APP_ID', 'app', 'application/json', 'choices', 'completion', 'completion_tokens', 'content', 'error', 'event', 'events', 'function_call', 'input', 'message', 'name', 'output', 'prompt', 'prompt_tokens', 'role', 'runId', 'stack', 'start', 'text', 'timestamp', 'tokensUsage', 'type', 'usage', 'userId']

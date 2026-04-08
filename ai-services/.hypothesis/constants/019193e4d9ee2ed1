@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\quantizers\quantizer_sinq.py
+# hypothesis_version: 6.151.10
+
+['.W_q', '.bias', '.meta', '.weight', 'asinq', 'cpu', 'cuda:0', 'device_map', 'ready', 'sinq', 'weight']

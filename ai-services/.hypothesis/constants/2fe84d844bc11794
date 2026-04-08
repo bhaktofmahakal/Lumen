@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_prims_common\wrappers.py
+# hypothesis_version: 6.151.10
+
+['_P', '_T', '__annotations__', '__args__', 'cpu', 'device', 'dtype', 'out', 'return', 'unbind']

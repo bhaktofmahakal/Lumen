@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\responses\response_apply_patch_tool_call.py
+# hypothesis_version: 6.151.10
+
+['Operation', 'OperationCreateFile', 'OperationDeleteFile', 'OperationUpdateFile', 'apply_patch_call', 'completed', 'create_file', 'delete_file', 'in_progress', 'type', 'update_file']

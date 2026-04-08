@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\reshape\api.py
+# hypothesis_version: 6.151.10
+
+['concat', 'crosstab', 'cut', 'from_dummies', 'get_dummies', 'lreshape', 'melt', 'merge', 'merge_asof', 'merge_ordered', 'pivot', 'pivot_table', 'qcut', 'wide_to_long']

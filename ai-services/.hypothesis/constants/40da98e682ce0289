@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\solvers\ode\systems.py
+# hypothesis_version: 6.151.10
+
+['A', 'A0', 'A1', 'C1', 'C2', 'J', 'P', '_', '__', 'antiderivative', 'auto', 'b', 'canon_eqs', 'eq', 'f(t)', 'f_t', 'func', 'func_coeff', 'g(t)', 'is_constant', 'is_general', 'is_higher_order', 'is_homogeneous', 'is_implicit', 'is_linear', 'is_second_order', 'is_transformed', 'no_of_equation', 'order', 'rhs', 't', 't_', 'tau', 'type0', 'type1', 'type2', 'type3', 'type4', 'type5', 'type6', 'type_of_equation', 'type{}', '{}_', '{}_0', '{}__0', '{}_{}', '{}{}', '{}{}0']

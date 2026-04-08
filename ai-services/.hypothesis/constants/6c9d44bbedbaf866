@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\llms\openai.py
+# hypothesis_version: 6.151.10
+
+[200, 408, 422, 500, 'Authorization', 'POST', 'ReadTimeout', '__', 'acompletion', 'api_base', 'application/json', 'assistant', 'choices', 'complete_input_dict', 'completion', 'content', 'content-type', 'embedding', 'extra_headers', 'finish_reason', 'headers', 'id', 'image_generation', 'input', 'input is not set', 'max_retries', 'messages', 'messages is not set', 'mode not set', 'model', 'model is not set', 'openai', 'original_response', 'prompt', 'prompt is not set', 'role', 'self', 'status_code', 'stream', 'text', 'usage', 'user']

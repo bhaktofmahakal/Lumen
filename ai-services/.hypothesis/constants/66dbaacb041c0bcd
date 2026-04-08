@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\fx\_utils.py
+# hypothesis_version: 6.151.10
+
+['call_function', 'colored', 'nn_module_stack', 'print_output', 'root']

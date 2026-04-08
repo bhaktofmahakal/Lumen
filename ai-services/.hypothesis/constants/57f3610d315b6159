@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\evaluation\BinaryClassificationEvaluator.py
+# hypothesis_version: 6.151.10
+
+['Cosine-Similarity', 'Dot-Product', 'Euclidean-Distance', 'Manhattan-Distance', '_', '_results.csv', 'a', 'accuracy', 'accuracy_threshold', 'ap', 'cosine', 'dot', 'epoch', 'euclidean', 'f1', 'f1_threshold', 'greater_is_better', 'manhattan', 'max_ap', 'mcc', 'name', 'precision', 'recall', 'score_fn', 'steps', 'truncate_dim', 'utf-8', 'w']

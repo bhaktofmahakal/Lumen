@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\langchain_core\runnables\base.py
+# hypothesis_version: 6.151.10
+
+['\n| ', '\n}', "'", ',\n  ', ', ', '/', '/logs/', '<lambda>', 'Config', 'Configurable', 'Input', 'Other', 'Output', 'RunnableLambda(...)', '_', '__args__', '__origin__', '__root__', '__self__', '_atransform', '_transform', 'afunc', 'callbacks', 'chunk', 'config', 'configurable', 'default', 'end', 'end_time', 'final_output', 'func', 'graph', 'id', 'input', 'inputs', 'langchain', 'logs', 'max_concurrency', 'metadata', 'name', 'object', 'operator.itemgetter(', 'original', 'output', 'path', 'recursion_limit', 'run_id', 'run_manager', 'run_name', 'runnable', 'schema', 'start', 'stream', 'streamed_output', 'streaming_events', 'tags', 'type', 'v1', '{\n  ', '| ']

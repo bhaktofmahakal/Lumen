@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\base.py
+# hypothesis_version: 6.151.10
+
+[700, '...', '[^\\n]*\\n', '^(\\s*\\S){%d}', '__', '__sklearn_clone__', '__slots__', '_n_features_out', '_sklearn_version', 'classifier', 'clusterer', 'csr', 'density_estimator', 'deprecated_original', 'get_params', 'ignore', 'n_features_in_', 'outlier_detector', 'partial_fit', 'powerpc', 'ppc', 'pre-0.18', 'predict', 'regressor', 'self', 'sklearn.', 'transform']

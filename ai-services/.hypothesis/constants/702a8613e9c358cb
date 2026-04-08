@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_functorch\config.py
+# hypothesis_version: 6.151.10
+
+[1.0, 1000, '0', '1', 'CI', 'FAKE_ALLOW_META', 'donated', 'dp', 'flexible_layout', 'flops', 'joint_custom_pass', 'needs_exact_strides', 'same_as_forward', 'svg']

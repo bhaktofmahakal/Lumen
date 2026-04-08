@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\integrate\_quadpack_py.py
+# hypothesis_version: 6.151.10
+
+[0.0, 5e-29, 1.49e-08, 'IntegrationWarning', 'Unknown error.', 'alg', 'alg-log', 'alg-loga', 'alg-logb', 'alist', 'blist', 'cauchy', 'cos', 'dblquad', 'depth', 'elist', 'epsabs', 'epsrel', 'imag', 'iord', 'last', 'neval', 'nquad', 'points', 'quad', 'real', 'rlist', 'sin', 'tplquad', 'unexpected kwargs', 'unknown']

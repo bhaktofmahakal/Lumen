@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_higher_order_ops\aoti_call_delegate.py
+# hypothesis_version: 6.151.10
+
+['AOTInductorEPModule', 'aoti_call_delegate', 'call_function', 'lowered_module', 'original_gm']

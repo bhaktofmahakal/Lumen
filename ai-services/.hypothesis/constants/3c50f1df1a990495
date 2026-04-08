@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_higher_order_ops\utils.py
+# hypothesis_version: 6.151.10
+
+[', ', 'F', 'call_function', 'device', 'eager', 'example_value', 'fake', 'gen_schema', 'get_attr', 'in_hop_compile', 'meta', 'non_tensor_args', 'output', 'placeholder', 'pos', 'real', 'requires_grad', 'val']

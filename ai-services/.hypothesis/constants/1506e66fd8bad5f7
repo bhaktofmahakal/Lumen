@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\responses\response_computer_tool_call_output_item.py
+# hypothesis_version: 6.151.10
+
+['completed', 'computer_call_output', 'failed', 'in_progress', 'incomplete']

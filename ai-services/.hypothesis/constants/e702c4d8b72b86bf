@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\beta\threads\message.py
+# hypothesis_version: 6.151.10
+
+['Attachment', 'AttachmentTool', 'IncompleteDetails', 'Message', 'assistant', 'completed', 'content_filter', 'file_search', 'in_progress', 'incomplete', 'max_tokens', 'run_cancelled', 'run_expired', 'run_failed', 'thread.message', 'user']

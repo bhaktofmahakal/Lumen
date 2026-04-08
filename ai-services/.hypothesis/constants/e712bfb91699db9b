@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\_testing\_warnings.py
+# hypothesis_version: 6.151.10
+
+['always', 'default', 'error', 'ignore', 'matplotlib', 'module', 'once', '|']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\nn\parameter.py
+# hypothesis_version: 6.151.10
+
+['Buffer', 'Parameter', 'UninitializedBuffer', '_is_buffer', '_is_param', 'device', 'dtype', 'is_lazy', 'method-wrapper']

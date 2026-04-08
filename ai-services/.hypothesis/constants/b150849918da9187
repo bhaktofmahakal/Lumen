@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\tensor\_utils.py
+# hypothesis_version: 6.151.10
+
+['_active', 'avg', 'curr_local_size', 'num_chunks', 'raise', 'rank', 'return_first_offset', 'sum', 'warn']

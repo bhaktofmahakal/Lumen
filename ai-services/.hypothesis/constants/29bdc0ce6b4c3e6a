@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\groupby\generic.py
+# hypothesis_version: 6.151.10
+
+['Categorical', 'ScalarResult', 'all', 'as_index', 'bool', 'corr', 'corrwith', 'count', 'cov', 'engine', 'engine_kwargs', 'first', 'float', 'groupby', 'hist', 'idxmax', 'idxmin', 'index out of range', 'kurt', 'last', 'left', 'name', 'numeric_only', 'pandas', 'pandas.api.typing', 'pearson', 'proportion', 'skew', 'take', 'transform', 'unique']

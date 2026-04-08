@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\optim\rmsprop.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1e-08, 0.01, 0.99, 1.0, 'RMSprop', 'alpha', 'capturable', 'centered', 'cpu', 'differentiable', 'eps', 'foreach', 'grad_avg', 'lr', 'maximize', 'momentum', 'momentum_buffer', 'params', 'rmsprop', 'square_avg', 'step', 'weight_decay']

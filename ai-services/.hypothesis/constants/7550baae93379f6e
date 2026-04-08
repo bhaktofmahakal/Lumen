@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\models\mt5\configuration_mt5.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1e-06, 0.1, 1.0, 128, 512, 1024, 250112, '-', 'MT5Config', 'd_kv', 'd_model', 'gated', 'gated-gelu', 'gelu_new', 'google/mt5-small', 'head_dim', 'hidden_size', 'mt5', 'num_attention_heads', 'num_heads', 'num_hidden_layers', 'num_layers', 'past_key_values', 'tie_word_embeddings']

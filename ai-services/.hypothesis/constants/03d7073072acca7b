@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\responses\inline_skill_source.py
+# hypothesis_version: 6.151.10
+
+['InlineSkillSource', 'application/zip', 'base64']

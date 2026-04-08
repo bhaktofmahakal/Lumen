@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\fastapi\_compat\v2.py
+# hypothesis_version: 6.151.10
+
+['$ref', 'BaseModel', 'Field required', '[^a-zA-Z0-9.\\-_]', '_', 'alias', 'alias_priority', 'annotation', 'attributes', 'base64', 'computed_fields', 'contentEncoding', 'contentMediaType', 'default', 'default_factory', 'deprecated', 'description', 'discriminator', 'examples', 'exclude', 'exclude_if', 'frozen', 'ignore', 'init', 'init_var', 'input', 'json', 'json_schema_extra', 'kw_only', 'loc', 'metadata', 'missing', 'python', 'repr', 'schema', 'serialization', 'serialization_alias', 'string', 'title', 'type', 'validate_default', 'validation', 'validation_alias']

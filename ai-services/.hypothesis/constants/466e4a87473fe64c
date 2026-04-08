@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\huggingface_hub\utils\_safetensors.py
+# hypothesis_version: 6.151.10
+
+['BF16', 'BOOL', 'F16', 'F32', 'F64', 'I16', 'I32', 'I64', 'I8', 'U8']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\utils\_sympy\interp.py
+# hypothesis_version: 6.151.10
+
+['%s(%s) -> %s', '_torch_handler_name', 'abs', 'acos', 'add', 'and_', 'asin', 'atan', 'bitwise_and', 'bitwise_or', 'bitwise_xor', 'ceil_to_int', 'cos', 'cosh', 'eq', 'exp', 'expr_cond_pair', 'floor_to_int', 'floordiv', 'ge', 'gt', 'identity', 'int_truediv', 'le', 'log', 'log2', 'lt', 'maximum', 'minimum', 'mod', 'modular_indexing', 'mul', 'ne', 'not_', 'or_', 'piecewise', 'pow', 'pow_by_natural', 'python_mod', 'round_decimal', 'round_to_int', 'sin', 'sinh', 'sym_sum', 'sym_sum(%s) -> %s', 'tan', 'tanh', 'truediv', 'trunc', 'trunc_to_int', 'where']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\async_qdrant_fastembed.py
+# hypothesis_version: 6.151.10
+
+['/', 'BAAI/bge-small-en', 'OnnxProvider', 'SparseTextEmbedding', 'TextEmbedding', 'default', 'document', 'passage', 'query']

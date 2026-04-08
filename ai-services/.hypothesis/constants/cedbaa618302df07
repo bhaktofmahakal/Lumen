@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_library\triton.py
+# hypothesis_version: 6.151.10
+
+['__code__', '__globals__', '_library', 'capture_triton', 'fn', 'ops', 'torch', 'torch.library', 'value', 'wrap_triton']

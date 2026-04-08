@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\evaluation\TranslationEvaluator.py
+# hypothesis_version: 6.151.10
+
+['\nIncorrect  : Source', 'Pred Target:', 'Source     :', 'True Target:', '_', '_results.csv', 'a', 'epoch', 'instead of target', 'mean_accuracy', 'src2trg', 'src2trg_accuracy', 'steps', 'trg2src', 'trg2src_accuracy', 'truncate_dim', 'utf-8', 'w']

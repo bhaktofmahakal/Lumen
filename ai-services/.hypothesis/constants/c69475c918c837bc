@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\quantizers\quantizer_eetq.py
+# hypothesis_version: 6.151.10
+
+['EetqConfig', 'PreTrainedModel', 'bias', 'cpu', 'device_map', 'disk', 'torch.dtype']

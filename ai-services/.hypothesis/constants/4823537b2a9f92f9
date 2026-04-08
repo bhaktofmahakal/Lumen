@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\sparse_encoder\callbacks\splade_callbacks.py
+# hypothesis_version: 6.151.10
+
+[0.0, 'linear', 'max_steps', 'num_train_epochs', 'quadratic']

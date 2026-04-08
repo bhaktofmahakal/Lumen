@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\printing\rcode.py
+# hypothesis_version: 6.151.10
+
+[0.5, '!', '%d.0/%d.0', '%s', '%s = %s', '%s%s', '%s;', '%s[%s]', '%s^%s', '&', '(', '(\n', '(*{})', ')', ', ', '-Inf', '// {}', '1.0/%s', 'Abs', 'Atom', 'FALSE', 'Inf', 'Max', 'Min', 'NA', 'NA_character_', 'NA_complex_', 'NA_integer_', 'NA_real_', 'NULL', 'NaN', 'Pow', 'R', 'TRUE', '_rcode', 'abs', 'acos', 'acosh', 'and', 'asin', 'asinh', 'atan', 'atan2', 'atanh', 'beta', 'break', 'ceiling', 'contract', 'cos', 'cosh', 'dereference', 'digamma', 'else', 'end', 'erf', 'exp', 'exp(1)', 'factorial', 'floor', 'for', 'function', 'gamma', 'if', 'ifelse(%s,%s,', 'ifelse(%s,%s,NA)', 'in', 'log', 'max', 'min', 'next', 'not', 'or', 'pi', 'precision', 'repeat', 'sign', 'sin', 'sinh', 'sqrt', 'sqrt(%s)', 'start', 'tan', 'tanh', 'trigamma', 'user_functions', 'var', 'volatile', 'while', '{', '{\n', '{} = {};', '{} {} {}', '{} {} {};', '{}[{}]', '|', '}']

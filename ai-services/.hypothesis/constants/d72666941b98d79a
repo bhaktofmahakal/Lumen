@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\ao\nn\qat\modules\conv.py
+# hypothesis_version: 6.151.10
+
+['Conv1d', 'Conv2d', 'Conv3d', '_FLOAT_RELU_MODULE', 'circular', 'device', 'dtype', 'qconfig', 'reflect', 'replicate', 'zeros']

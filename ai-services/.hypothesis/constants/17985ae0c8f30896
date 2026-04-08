@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\data_collator.py
+# hypothesis_version: 6.151.10
+
+['anchor', 'answer', 'contradiction', 'dataset_name', 'entailment', 'hypothesis', 'input_ids', 'label', 'labels', 'negative', 'positive', 'query', 'question', 'response', 'score', 'scores']

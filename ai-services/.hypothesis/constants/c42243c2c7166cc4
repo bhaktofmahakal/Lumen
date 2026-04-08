@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\config.py
+# hypothesis_version: 6.151.10
+
+[0.001, 256, '0', '1', 'Py_GIL_DISABLED', 'TORCHDYNAMO_VERBOSE', 'complex128', 'constant_functions', 'ddp_optimizer', 'dynamic', 'float64', 'info', 'int64', 'is_conj', 'is_contiguous', 'is_neg', 'is_pinned', 'layout', 'no_optimization', 'python_reducer', 'repro_after', 'repro_level', 'storage_offset', 'stride', 'torch._decomp', 'torch._prims', 'torch._refs', 'torch.distributions', 'torch.testing', 'torch_compile_debug', 'unbacked']

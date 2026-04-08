@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\google\protobuf\text_format.py
+# hypothesis_version: 6.151.10
+
+[b'\n', ' [', ' {\n', ' { ', '"', '"\n', '" ', '%', '%s\n', '%s ', '%s[%s]%s ', "'", "': ", '(-?)0(\\d+)$', '(\\s*#.*$)', '(\\s|(#.*$))+', ',', ', ', '-', '-?0[0-9]+', '-?inf(?:inity)?f?$', '-inf', '.', '/', '0', '0o', '1', ':', ': ', ': "', ':{0}', ';', '<', '>', 'Expected "%s".', 'Expected comment.', 'Expected identifier.', 'False', 'Merge', 'MessageToBytes', 'MessageToString', 'Parse', 'PrintField', 'PrintFieldValue', 'PrintMessage', 'True', '[', '[^\\d\\W]\\w*', '\\s+', '\\w+', ']', 'as_utf8', 'ascii', 'f', 'fF', 'false', 'google.protobuf.Any', 'inf', 'nan', 'nanf?$', 't', 'true', 'utf-8', 'value', '{', '{0} : {1}', '|', '}', '}\n', '} ']

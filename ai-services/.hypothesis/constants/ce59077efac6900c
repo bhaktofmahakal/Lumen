@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\core\facts.py
+# hypothesis_version: 6.151.10
+
+['\t%s: %s', '       ) ),', '     ),', '    },', '%s, %s=%s', ',\n', ', ', '->', '==', 'Cond is not And', '] # beta_rules', '] # defined_facts', 'a & b -> a', 'a -> a|c|...', 'a | b -> a', 'beta_rules', 'beta_rules = [', 'beta_triggers', 'beta_triggers = {', 'defined_facts', 'defined_facts = [', 'full_implications', 'prereq', 'prereq = {', 'unknown op %r', '{\n%s}', '} # beta_triggers', '} # prereq']

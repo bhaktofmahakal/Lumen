@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\extmath.py
+# hypothesis_version: 6.151.10
+
+[1e-08, 1e-05, 0.1, 'K', 'LU', 'M', 'QR', 'array-like', 'auto', 'boolean', 'coo', 'csc', 'csr', 'dok', 'dtype', 'economic', 'flip_sign', 'gesdd', 'gesvd', 'ignore', 'ij,ij->i', 'ji,ij->j', 'left', 'lil', 'module', 'n_components', 'n_iter', 'n_oversamples', 'none', 'random_state', 'real floating', 'reduced', 'sparse matrix', 'svd_lapack_driver', 'toarray', 'transpose', 'value']

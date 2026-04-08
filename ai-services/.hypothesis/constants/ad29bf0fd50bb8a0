@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\preprocessing\_polynomial.py
+# hypothesis_version: 6.151.10
+
+[100, '%s^%d', '1', 'C', 'F', 'PolynomialFeatures', 'SplineTransformer', 'array-like', 'boolean', 'constant', 'continue', 'csc', 'csr', 'degree', 'error', 'extrapolation', 'handle_missing', 'include_bias', 'interaction_only', 'knots', 'left', 'linear', 'n_features_in_', 'n_knots', 'no', 'order', 'periodic', 'quantile', 'sparse_output', 'uniform', 'zeros']

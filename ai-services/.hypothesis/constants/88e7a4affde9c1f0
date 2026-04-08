@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\graph_region_tracker.py
+# hypothesis_version: 6.151.10
+
+['%s %s', '--------------------', 'T', "adding %s's children", 'example_value', 'get_attr', 'is_identical: %s', 'placeholder']

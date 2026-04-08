@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\jit\_fuser.py
+# hypothesis_version: 6.151.10
+
+['Subgraph', 'fuser0', 'fuser1', 'fuser2', 'fuser3', 'none']

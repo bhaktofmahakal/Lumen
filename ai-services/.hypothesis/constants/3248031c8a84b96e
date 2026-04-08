@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\models\CLIPModel.py
+# hypothesis_version: 6.151.10
+
+['CLIPModel()', 'attention_mask', 'image_text_info', 'input_ids', 'output_attentions', 'output_hidden_states', 'pixel_values', 'position_ids', 'pt', 'sentence_embedding']

@@ -1,11 +1,59 @@
 <?php
+declare(strict_types=1);
+
 header('Content-Type: application/json');
 header('Access-Control-Allow-Origin: *');
 header('Access-Control-Allow-Methods: POST');
 header('Access-Control-Allow-Headers: Content-Type');
 
 error_reporting(E_ALL);
-ini_set('display_errors', 0); // Disable HTML error display for JSON API
+ini_set('display_errors', '0'); // Disable HTML error display for JSON API
+
+/**
+ * Clean up PDF files older than $maxAge seconds from the given directory.
+ *
+ * Applies graceful degradation: if cleanup fails for any reason (permissions,
+ * missing directory, etc.) the error is logged but compilation continues.
+ *
+ * @param string $directory  Absolute path to the output directory.
+ * @param int    $maxAge     Maximum file age in seconds (default: 86400 = 24h).
+ */
+function cleanupOldPDFs(string $directory, int $maxAge = 86400): void
+{
+    if (!is_dir($directory)) {
+        return;
+    }
+
+    $now = time();
+    $pattern = $directory . DIRECTORY_SEPARATOR . '*.pdf';
+    $files = glob($pattern);
+
+    if ($files === false) {
+        error_log("cleanupOldPDFs: glob() failed for pattern: {$pattern}");
+        return;
+    }
+
+    foreach ($files as $file) {
+        if (!is_file($file)) {
+            continue;
+        }
+
+        $mtime = filemtime($file);
+        if ($mtime === false) {
+            error_log("cleanupOldPDFs: could not read mtime for: {$file}");
+            continue;
+        }
+
+        if (($now - $mtime) > $maxAge) {
+            if (!unlink($file)) {
+                error_log("cleanupOldPDFs: failed to delete old PDF: {$file}");
+            } else {
+                error_log("cleanupOldPDFs: deleted old PDF: {$file}");
+            }
+        }
+    }
+}
+
 class LaTeXCompiler {
     private $tempDir;
     private $outputDir;
@@ -28,6 +76,13 @@ class LaTeXCompiler {
     
     public function compile($latexContent) {
         try {
+            // Clean up old PDFs before generating a new one (graceful degradation)
+            try {
+                cleanupOldPDFs($this->outputDir);
+            } catch (Throwable $cleanupError) {
+                error_log("PDF cleanup failed (non-fatal): " . $cleanupError->getMessage());
+            }
+
             if (empty($latexContent)) {
                 throw new Exception("LaTeX content cannot be empty");
             }

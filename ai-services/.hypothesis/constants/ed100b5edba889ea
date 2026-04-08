@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\onnx\_constants.py
+# hypothesis_version: 6.151.10
+
+[-9223372036854775808, -2147483648, -32768, -128, 127, 255, 32767, 2147483647, 9223372036854775807, '__MODEL_PROTO']

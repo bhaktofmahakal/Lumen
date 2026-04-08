@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\functional_export.py
+# hypothesis_version: 6.151.10
+
+['#', '._export_root', ':', 'ExportTracerOutput', 'FakeTensorMode', "L['self']", 'T', '_', '__annotations__', '__export_root_', '_export_root.', '_wrapped_call', 'call_module', 'constant', 'dynamo_compile_id', 'example_value', 'fake_mode', 'flat_args', 'forward', 'fullgraph_capture', 'get_attr', 'graph_out', 'input', 'input_processor', 'meta', 'module_call_specs', 'name', 'nn_module_stack', 'node', 'out_spec', 'output', 'placeholder', 'self', 'shape_env', 'source_fn_stack', 'tensor_dict', 'tracing_context', 'unbacked_bindings', 'val', 'warn']

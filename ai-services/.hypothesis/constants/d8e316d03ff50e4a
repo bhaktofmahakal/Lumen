@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\fx\passes\shape_prop.py
+# hypothesis_version: 6.151.10
+
+['ShapeProp', 'TensorMetadata', 'axis', 'qscheme', 'scale', 'tensor_meta', 'type', 'unbacked_bindings', 'zero_point']

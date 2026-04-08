@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\nn\utils\weight_norm.py
+# hypothesis_version: 6.151.10
+
+['T_module', 'WeightNorm', '_g', '_v', 'remove_weight_norm', 'weight', 'weight_norm']

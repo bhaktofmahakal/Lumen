@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\utils\loading_report.py
+# hypothesis_version: 6.151.10
+
+[200, '\n\nNotes:', '\x1b[0m', '\x1b[1m', '\x1b[2m', '\x1b[31m', '\x1b[33m', '\x1b[35m', '\x1b[38;5;208m', '\x1b[3m', ' | ', '(?<=\\.)(\\d+)(?=\\.|$)', '*', ', ', '-', '-+-', 'CONVERSION', 'Details', 'Key', 'MISMATCH', 'MISSING', 'Status', 'UNEXPECTED', '\\x1b\\[[0-9;]*m', 'bold', 'dim', 'error_msgs', 'italic', 'mismatched_keys', 'missing_keys', 'orange', 'purple', 'red', 'reset', 'size mismatch', 'unexpected_keys', 'yellow', '{', '}']

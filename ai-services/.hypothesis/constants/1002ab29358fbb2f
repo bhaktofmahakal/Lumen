@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\evaluation\SentenceEvaluator.py
+# hypothesis_version: 6.151.10
+
+['([a-z])([A-Z])', 'CE', 'CrossEncoder', 'Evaluator', '\\g<1> \\g<2>', '_', 'primary_metric']

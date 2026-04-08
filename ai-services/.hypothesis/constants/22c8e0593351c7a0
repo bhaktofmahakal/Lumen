@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\nn\attention\__init__.py
+# hypothesis_version: 6.151.10
+
+['2.5.7', 'CUDNN_ATTENTION', 'EFFICIENT_ATTENTION', 'FLASH_ATTENTION', 'MATH', 'OVERRIDEABLE', 'SDPBackend', 'cudnn', 'flash', 'math', 'mem_efficient', 'overrideable', 'sdpa_kernel']

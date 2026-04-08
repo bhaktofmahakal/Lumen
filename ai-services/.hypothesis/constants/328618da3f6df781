@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\losses\GlobalOrthogonalRegularizationLoss.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1.0, 'aggregation', 'gor_mean', 'gor_second_moment', 'mean', 'mean_weight', 'second_moment_weight', 'sentence_embedding', 'similarity_fct', 'sum']

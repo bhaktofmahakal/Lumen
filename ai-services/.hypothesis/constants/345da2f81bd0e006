@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\functions\elementary\exponential.py
+# hypothesis_version: 6.151.10
+
+['basic', 'complex', 'deep', 'exp', 'factor', 'force', 'inverse', 'k', 'l', 'log', 'measure', 'mul', 'multinomial', 'power_base', 'power_exp', 't', 'w']

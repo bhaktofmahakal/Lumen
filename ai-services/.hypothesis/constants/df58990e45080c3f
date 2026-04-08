@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\preprocessing\_function_transformer.py
+# hypothesis_version: 6.151.10
+
+[100, 'FunctionTransformer', '__name__', 'accept_sparse', 'boolean', 'check_inverse', 'columns', 'dense', 'dtype', 'dtypes', 'feature_names_in_', 'feature_names_out', 'func', 'inv_kw_args', 'inverse_func', 'kw_args', 'n_features_in_', 'one-to-one', 'pandas', 'polars', 'single', 'transform', 'validate']

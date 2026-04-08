@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\interpolate\_rbfinterp.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1.0, 1000000, 'C', 'RBFInterpolator', 'array_api_strict', 'complex floating', 'cubic', 'dask.array', 'gaussian', 'inverse_multiquadric', 'inverse_quadratic', 'linear', 'multiquadric', 'quintic', 'thin_plate_spline']

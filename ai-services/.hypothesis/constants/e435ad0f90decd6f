@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\nn\modules\fold.py
+# hypothesis_version: 6.151.10
+
+['Fold', 'Unfold', 'dilation', 'kernel_size', 'output_size', 'padding', 'stride']

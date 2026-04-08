@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\strings\accessor.py
+# hypothesis_version: 6.151.10
+
+[' [...]', 'ascii', 'both', 'bytes', 'categories', 'category', 'dtype', 'empty', 'i', 'inner', 'iso-8859-1', 'latin-1', 'latin1', 'left', 'match', 'mbcs', 'mixed', 'mixed-integer', 'name', 'ndim', 'object', 'outer', 'right', 'str', 'str_cat', 'strict', 'string', 'utf-16', 'utf-32', 'utf-8', 'utf8', '|']

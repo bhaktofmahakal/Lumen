@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\nn\utils\_expanded_weights\conv_utils.py
+# hypothesis_version: 6.151.10
+
+['bias', 'dilation', 'groups', 'ngrg...->ngr...', 'noq,npq->nop', 'padding', 'same', 'stride', 'valid']

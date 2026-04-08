@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\responses\file_search_tool_param.py
+# hypothesis_version: 6.151.10
+
+['FileSearchToolParam', 'Filters', 'RankingOptions', 'auto', 'default-2024-11-15', 'file_search']

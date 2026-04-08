@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\responses\response_file_search_tool_call.py
+# hypothesis_version: 6.151.10
+
+['Result', 'completed', 'failed', 'file_search_call', 'in_progress', 'incomplete', 'searching']

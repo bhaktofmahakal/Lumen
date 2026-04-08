@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\nn\utils\spectral_norm.py
+# hypothesis_version: 6.151.10
+
+[1e-12, '.version', 'SpectralNorm', 'T_module', '_orig', '_u', '_v', 'remove_spectral_norm', 'spectral_norm', 'weight']

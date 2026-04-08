@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\huggingface_hub\errors.py
+# hypothesis_version: 6.151.10
+
+['HfHubHTTPError', 'X-Amzn-Trace-Id', 'x-amz-cf-id', 'x-request-id']

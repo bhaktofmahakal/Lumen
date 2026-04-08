@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\external\ntheory.py
+# hypothesis_version: 6.151.10
+
+[0.5, 1.0, 2.0, 127, 255, 256, 300, 765765, 1000000, 16847538720375624418360812, 2162900462127966330795507180, 472576355095339057253741166060, 337613484344104031835563304790288825836, '1', 'factor must be > 1', 'n must be positive']

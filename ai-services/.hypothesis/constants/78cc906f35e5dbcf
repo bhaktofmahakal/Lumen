@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\quantizers\quantizer_bnb_8bit.py
+# hypothesis_version: 6.151.10
+
+[0.9, 'BitsAndBytesConfig', 'PreTrainedModel', 'SCB', 'bias', 'cpu', 'device_map', 'disk', 'hpu', 'is_loaded_in_8bit', 'npu', 'torch.Tensor', 'weight', 'weight_format']

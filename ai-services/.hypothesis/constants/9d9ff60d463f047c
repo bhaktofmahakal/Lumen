@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\utils\__init__.py
+# hypothesis_version: 6.151.10
+
+['config.json', 'cpu', 'cuda', 'dev', 'hpu', 'mlu', 'model.safetensors', 'modelcard.json', 'mps', 'musa', 'npu', 'pytorch_model.bin', 'xpu', '▁']

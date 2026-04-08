@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\fx\passes\utils\matcher_utils.py
+# hypothesis_version: 6.151.10
+
+['  matching %s to %s', 'Found a match: %s\n', 'InternalMatch', 'Matches returned: %s', 'SubgraphMatcher', 'WARNING', 'call_function', 'get_attr', 'output', 'placeholder']

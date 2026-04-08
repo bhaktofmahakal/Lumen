@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\models\tokenizer\PhraseTokenizer.py
+# hypothesis_version: 6.151.10
+
+['_', 'do_lower_case', 'max_ngram_length', 'ngram_separator', 'stop_words', 'vocab', 'w']

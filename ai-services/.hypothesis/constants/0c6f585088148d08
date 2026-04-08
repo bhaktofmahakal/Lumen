@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\fsdp\_runtime_utils.py
+# hypothesis_version: 6.151.10
+
+['_saved_grad_shard', '_use_orig_params', 'cpu', 'limit_all_gathers']

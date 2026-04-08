@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\h11\_util.py
+# hypothesis_version: 6.151.10
+
+[400, 'LocalProtocolError', 'ProtocolError', 'RemoteProtocolError', 'Sentinel', '_T_Sentinel', 'ascii', 'bytesify', 'malformed data', 'validate']

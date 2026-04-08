@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\stats\_resampling.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.01, 0.95, 1.0, 100, 9999, 10000, 'BCa', 'axis', 'basic', 'bca', 'bootstrap', 'dask.array', 'data', 'greater', 'independent', 'jax.numpy', 'less', 'monte_carlo_test', 'pairings', 'percentile', 'permutation_test', 'permuted', 'pvalue', 'random_state', 'real floating', 'rng', 'sample', 'samples', 'size', 'two-sided']

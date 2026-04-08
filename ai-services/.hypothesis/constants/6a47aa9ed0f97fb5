@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\trainer_pt_utils.py
+# hypothesis_version: 6.151.10
+
+[-10000.0, 0.0, 1e-06, 0.001, 0.1, -100, 100, '2.0.0', '2.6', '_mem_', '_runtime', 'all_results.json', 'batch_sampler', 'cuda', 'ds_numel', 'generator', 'help', 'input_ids', 'logits', 'loss', 'lr', 'nested_gather', 'params', 'r', 'sampler', 'set_epoch', 'total_flos', 'trainer_state.json', 'utf-8', 'w']

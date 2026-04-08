@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\calculus\__init__.py
+# hypothesis_version: 6.151.10
+
+['AccumBounds', 'apply_finite_diff', 'differentiate_finite', 'euler_equations', 'finite_diff_weights', 'is_convex', 'is_decreasing', 'is_increasing', 'is_monotonic', 'maximum', 'minimum', 'not_empty_in', 'periodicity', 'singularities', 'stationary_points']

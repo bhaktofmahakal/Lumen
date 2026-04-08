@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_library\infer_schema.py
+# hypothesis_version: 6.151.10
+
+['(', '()', ')', '*', ', ', 'Device', 'Scalar', 'ScalarType', 'SymInt', 'Tensor', 'Tensor[]', '__args__', '__origin__', 'bool', 'float', 'str', 'torch.', 'torch.library', 'unknown']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\jmespath\parser.py
+# hypothesis_version: 6.151.10
+
+[512, 'Unexpected token: %s', '_token_led_%s', '_token_nud_%s', 'and', 'children', 'colon', 'comma', 'current', 'dot', 'eof', 'eq', 'expref', 'field', 'filter', 'flatten', 'gt', 'gte', 'index_expression', 'invalid token', 'lbrace', 'lbracket', 'literal', 'lparen', 'lt', 'lte', 'ne', 'not', 'number', 'or', 'pipe', 'quoted_identifier', 'rbrace', 'rbracket', 'rparen', 'slice', 'star', 'start', 'subexpression', 'syntax error', 'type', 'unquoted_identifier', 'value']

@@ -46,10 +46,12 @@ try {
     }
     
     // Update session message count
-    $conn->query("UPDATE chat_sessions SET 
-                  total_messages = (SELECT COUNT(*) FROM chat_messages WHERE session_id = '{$messageInfo['session_id']}'),
+    $stmt = $conn->prepare("UPDATE chat_sessions SET 
+                  total_messages = (SELECT COUNT(*) FROM chat_messages WHERE session_id = ?),
                   updated_at = NOW() 
-                  WHERE session_id = '{$messageInfo['session_id']}'");
+                  WHERE session_id = ?");
+    $stmt->bind_param("ss", $messageInfo['session_id'], $messageInfo['session_id']);
+    $stmt->execute();
     
     // Log deletion
     $admin = getAdminInfo();

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\_show_versions.py
+# hypothesis_version: 6.151.10
+
+['\nSystem:', '\n{k}: {stat}', 'Built with OpenMP', 'Cython', 'executable', 'joblib', 'machine', 'matplotlib', 'numpy', 'pandas', 'pip', 'python', 'scipy', 'setuptools', 'sklearn', 'threadpoolctl', 'threadpoolctl info:', '{k:>10}: {stat}', '{k:>13}: {stat}']

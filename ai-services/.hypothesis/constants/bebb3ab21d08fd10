@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\models\bert\tokenization_bert.py
+# hypothesis_version: 6.151.10
+
+['##', 'BertTokenizer', '[CLS]', '[MASK]', '[PAD]', '[SEP]', '[UNK]', 'attention_mask', 'input_ids', 'r', 'token_type_ids', 'tokenizer.json', 'tokenizer_file', 'utf-8', 'vocab.txt', 'vocab_file']

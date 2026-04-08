@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_library\fake_class_registry.py
+# hypothesis_version: 6.151.10
+
+['.', '__getstate__', '__obj_flatten__', '__obj_unflatten__', '__setstate__', 'fake', 'real', 'real_obj', 'script_class_name', 'tracing_mode', 'wrapped_obj']

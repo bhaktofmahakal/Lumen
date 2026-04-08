@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\batch.py
+# hypothesis_version: 6.151.10
+
+['Batch', 'Errors', 'batch', 'cancelled', 'cancelling', 'completed', 'expired', 'failed', 'finalizing', 'in_progress', 'validating']

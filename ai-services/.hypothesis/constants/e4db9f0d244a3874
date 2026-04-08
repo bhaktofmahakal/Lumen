@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\generation\continuous_batching\continuous_api.py
+# hypothesis_version: 6.151.10
+
+[0.1, 'Manager not started.', '_tp_size', 'allow_block_sharing', 'batch_processor', 'compile_config', 'config', 'cu_seq_lens_q', 'device', 'do_sample', 'dtype', 'generation_loop', 'input_ids', 'logit_processing', 'logits_indices', 'max_cached_graphs', 'max_new_tokens', 'max_queue_size', 'model_forward', 'num_return_sequences', 'paged|', 'request', 'sampling', 'sliding_window', 'state', 'thread_local', 'use_async_batching']

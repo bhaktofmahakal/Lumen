@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\data\metrics\__init__.py
+# hypothesis_version: 6.151.10
+
+['acc', 'acc_and_f1', 'cola', 'corr', 'f1', 'hans', 'mcc', 'mnli', 'mnli-mm', 'mnli-mm/acc', 'mnli/acc', 'mrpc', 'pearson', 'qnli', 'qqp', 'rte', 'sklearn', 'spearmanr', 'sst-2', 'sts-b', 'wnli', 'xnli']

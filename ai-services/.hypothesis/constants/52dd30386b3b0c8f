@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\google\protobuf\internal\python_message.py
+# hypothesis_version: 6.151.10
+
+['"%s" is repeated.', '%s for field %s.%s', '%s[%d].', '%s[%s].', '(%s)', ',', '.', '/', 'DESCRIPTOR', 'Getter for %s.', 'InvalidateIterators', 'Setter for %s.', 'Truncated message.', '_FIELD_NUMBER', '__builtin__', '__qualname__', '__slots__', '__weakref__', '_cached_byte_size', '_concrete_class', '_decoders', '_encoder', '_fields', '_internal_assign', '_listener', '_oneofs', '_unknown_fields', 'builtins', 'fields', 'google.protobuf.Any', 'key', 'pool', 'utf-8', 'value']

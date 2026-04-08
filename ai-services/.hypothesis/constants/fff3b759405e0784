@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\fsdp\_fully_shard\_fsdp_collectives.py
+# hypothesis_version: 6.151.10
+
+['CPU', 'CUDA', 'FRAGMENT', 'HPU', 'MTIA', 'Meta', 'PrivateUse1', 'XPU', 'all_gather_copy_in', 'chunk_cat', 'cpu', 'fsdp', 'fsdp_pre_all_gather', 'mtia']

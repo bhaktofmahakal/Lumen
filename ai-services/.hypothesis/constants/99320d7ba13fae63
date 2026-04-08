@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\graders\string_check_grader.py
+# hypothesis_version: 6.151.10
+
+['StringCheckGrader', 'eq', 'ilike', 'like', 'ne', 'string_check']

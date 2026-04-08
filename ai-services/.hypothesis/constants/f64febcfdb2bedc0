@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\onnx\__init__.py
+# hypothesis_version: 6.151.10
+
+['.', 'ExportableModule', 'InputObserver', 'ONNXProgram', 'OnnxExporterError', 'errors', 'export', 'is_in_onnx_export', 'ops', 'pytorch', 'torch.onnx']

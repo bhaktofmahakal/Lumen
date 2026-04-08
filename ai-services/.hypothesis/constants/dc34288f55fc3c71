@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\tenacity\stop.py
+# hypothesis_version: 6.151.10
+
+['RetryCallState', 'stop_all', 'stop_any', 'stop_base', 'threading.Event']

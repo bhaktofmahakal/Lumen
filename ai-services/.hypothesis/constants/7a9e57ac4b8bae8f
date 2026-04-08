@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\_config.py
+# hypothesis_version: 6.151.10
+
+[256, 1024, 'array_api_dispatch', 'assume_finite', 'default', 'diagram', 'display', 'global_config', 'print_changed_only', 'transform_output', 'working_memory']

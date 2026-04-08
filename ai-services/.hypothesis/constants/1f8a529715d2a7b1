@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\groupby\groupby.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.5, 'Int64', 'K', 'OutputFrameOrSeries', '_grouper', 'aggregate', 'all', 'any', 'as_index', 'ascending', 'average', 'bfill', 'bottom', 'close', 'columns', 'count', 'cummax', 'cummin', 'cumprod', 'cumsum', 'cython', 'dense', 'dropna', 'engine', 'engine_kwargs', 'exclusions', 'ffill', 'first', 'float32', 'group_keys', 'groupby', 'grouper', 'high', 'higher', 'i8', 'idxmax', 'idxmin', 'ignore', 'index', 'int16', 'int64', 'int64[pyarrow]', 'int8', 'keep', 'keys', 'last', 'level', 'linear', 'low', 'lower', 'max', 'mean', 'median', 'midpoint', 'min', 'na_option', 'name', 'nearest', 'numba', 'numpy_nullable', 'obj', 'observed', 'ohlc', 'open', 'pct', 'plot', 'prod', 'proportion', 'pyarrow', 'quantile', 'rank', 'sem', 'single', 'size', 'skipna', 'sort', 'stable', 'std', 'sum', 'ties_method', 'top', 'value_counts', 'var']

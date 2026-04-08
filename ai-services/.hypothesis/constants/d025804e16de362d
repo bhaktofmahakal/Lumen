@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\redis\_parsers\base.py
+# hypothesis_version: 6.151.10
+
+[b'\r\n', ':', 'ASK', 'Buffer is closed.', 'CLUSTERDOWN', 'CROSSSLOT', 'ERR', 'EXECABORT', 'FAILED_OVER', 'FAILING_OVER', 'LOADING', 'MASTERDOWN', 'MIGRATED', 'MIGRATING', 'MOVED', 'MOVING', 'NOAUTH', 'NOPERM', 'NOSCRIPT', 'OOM', 'READONLY', 'SMIGRATED', 'SMIGRATING', 'TRYAGAIN', 'WRONGPASS', '_buffer', '_chunks', '_pos', '_read_size', '_stream', 'encoder', 'invalid password', 'invalidate']

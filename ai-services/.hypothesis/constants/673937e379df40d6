@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\integrations\sdpa_paged.py
+# hypothesis_version: 6.151.10
+
+[0.0, 'cache', 'num_key_value_groups', 'read_index', 'write_index']

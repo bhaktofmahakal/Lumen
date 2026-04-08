@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\video_utils.py
+# hypothesis_version: 6.151.10
+
+[0.0, 255.0, 255, 'PIL.Image.Image', 'Path', 'TCHW', 'URL', 'av', 'constant', 'constant_values', 'cpu', 'cv2', 'decord', 'device', 'duration', 'exact', 'fps', 'frames_indices', 'height', 'http://', 'https://', 'opencv', 'pyav', 'reflect', 'replicate', 'rgb24', 'sec', 'symmetric', 'torch.Tensor', 'torchcodec', 'torchvision', 'total_num_frames', 'video_fps', 'width', 'www.youtube.com', 'youtube.com', 'yt_dlp']

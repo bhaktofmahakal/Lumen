@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\llms\oobabooga.py
+# hypothesis_version: 6.151.10
+
+[404, 500, '/v1/chat/completions', 'Authorization', 'accept', 'application/json', 'choices', 'complete_input_dict', 'completion_tokens', 'content', 'content-type', 'created', 'data', 'embedding', 'error', 'https', 'index', 'input', 'list', 'message', 'messages', 'model', 'object', 'prompt_tokens', 'status_code', 'stream', 'total_tokens', 'usage']

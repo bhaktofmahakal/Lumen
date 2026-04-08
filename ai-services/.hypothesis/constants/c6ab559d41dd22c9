@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\sparse_encoder\models\MLMTransformer.py
+# hypothesis_version: 6.151.10
+
+['attention_mask', 'backend', 'cache_dir', 'config_args', 'do_lower_case', 'fill-mask', 'input_ids', 'inputs_embeds', 'local_files_only', 'longest_first', 'max_seq_length', 'model_args', 'model_max_length', 'onnx', 'openvino', 'pt', 'revision', 'subfolder', 'text_keys', 'token', 'token_embeddings', 'token_type_ids', 'tokenizer_args', 'torch', 'trust_remote_code']

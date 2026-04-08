@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\core\assumptions_generated.py
+# hypothesis_version: 6.151.10
+
+['algebraic', 'antihermitian', 'beta_rules', 'beta_triggers', 'commutative', 'complex', 'composite', 'defined_facts', 'even', 'extended_negative', 'extended_nonnegative', 'extended_nonpositive', 'extended_nonzero', 'extended_positive', 'extended_real', 'finite', 'full_implications', 'hermitian', 'imaginary', 'infinite', 'integer', 'irrational', 'negative', 'noninteger', 'nonnegative', 'nonpositive', 'nonzero', 'odd', 'positive', 'prereq', 'prime', 'rational', 'real', 'transcendental', 'zero']

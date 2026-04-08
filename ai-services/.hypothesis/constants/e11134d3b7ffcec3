@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\fsdp\api.py
+# hypothesis_version: 6.151.10
+
+['BackwardPrefetch', 'CPUOffload', 'FullStateDictConfig', 'LocalStateDictConfig', 'MixedPrecision', 'OptimStateDictConfig', 'ShardingStrategy', 'StateDictConfig', 'StateDictSettings', 'StateDictType']

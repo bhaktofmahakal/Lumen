@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\langchain_core\messages\ai.py
+# hypothesis_version: 6.151.10
+
+['  Args:', 'AIMessageChunk', 'Invalid Tool Calls:', 'Malformed args.', 'Tool Calls:', 'additional_kwargs', 'ai', 'args', 'error', 'id', 'index', 'invalid_tool_calls', 'langchain', 'messages', 'name', 'schema', 'tool_call_chunks', 'tool_calls']

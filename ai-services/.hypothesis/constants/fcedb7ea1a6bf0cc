@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_logging\structured.py
+# hypothesis_version: 6.151.10
+
+['.py', 'at::', 'dump_file', 'eval_with_key', 'filename', 'line', 'loc', 'name', 'str', 'torch::']

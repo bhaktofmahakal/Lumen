@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pymysql\protocol.py
+# hypothesis_version: 6.151.10
+
+[b'\x00', 127, 250, 251, 252, 253, 254, 255, 256, '-', '.', '<H', '<HB', '<HH', '<I', '<Q', '<xHIBHBxx', '<xhh', 'Cannot create ', '_data', '_position', 'errno =', 'filename=', 'packet length:', 'server_status=']

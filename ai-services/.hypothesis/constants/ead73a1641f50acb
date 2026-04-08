@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\langchain_core\runnables\router.py
+# hypothesis_version: 6.151.10
+
+['input', 'key', 'langchain', 'max_concurrency', 'runnable', 'schema']

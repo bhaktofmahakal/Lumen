@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\mpmath\libmp\libintmath.py
+# hypothesis_version: 6.151.10
+
+[-0.5, 0.5, 1.00000000000001, 2.0, 100, 200, 250, 255, 256, 300, 400, 500, 600, 800, 1000, 1024, 1373653, 1500000, 341550071728321, '-', '0', '2', 'bit_length', 'gmpy', 'isqrt', 'sage']

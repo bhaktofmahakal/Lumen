@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\onnx\errors.py
+# hypothesis_version: 6.151.10
+
+['    Empty', 'Inputs:\n', 'OnnxExporterWarning', 'Outputs:\n', 'SymbolicValueError', 'aten::', 'prim::', 'quantized::']

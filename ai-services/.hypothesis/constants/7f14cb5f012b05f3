@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\polys\matrices\ddm.py
+# hypothesis_version: 6.151.10
+
+['%s(%s, %s, %s)', '*', '+', ', ', '-', 'DDM.to_dfm', 'DDM.to_dfm_or_ddm', '[%s]', 'dense', 'flint', 'lu_solve']

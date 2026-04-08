@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\device_mesh.py
+# hypothesis_version: 6.151.10
+
+['ArrayLike', 'DETAIL', 'DeviceMesh', 'LOCAL_RANK', '_', '_dim_group_names', '_hash', '_pg_registry', 'bound_device_id', 'cpu', 'cuda', 'fake', 'gloo', 'init_device_mesh', 'mesh_default', 'threaded', 'xla']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\solvers\ode\nonhomogeneous.py
+# hypothesis_version: 6.151.10
+
+[' (Wronskian == 0)', 'Cannot find ', 'Value should be 1', 'a', 'b', 'coeff', 'exp', 'list', 'sol', 'test', 'trialset', 'x']

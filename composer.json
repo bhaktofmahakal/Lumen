@@ -1,0 +1,17 @@
+{
+    "name": "chat-app/security-tests",
+    "description": "Security bug exploration tests for chat application",
+    "type": "project",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tests\\": "tests/"
+        }
+    },
+    "scripts": {
+        "test": "phpunit --colors=always",
+        "test-security": "phpunit --colors=always tests/SecurityBugExplorationTest.php"
+    }
+}

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\huggingface_hub\_jobs_api.py
+# hypothesis_version: 6.151.10
+
+[3600, 'CANCELED', 'COMPLETED', 'DELETED', 'ERROR', 'RUNNING', 'accelerator', 'arch', 'arguments', 'at', 'bucket', 'command', 'concurrency', 'cpu', 'createdAt', 'created_at', 'd', 'dataset', 'dockerImage', 'docker_image', 'endpoint', 'environment', 'flavor', 'h', 'hf.co/spaces/', 'id', 'jobSpec', 'job_spec', 'labels', 'lastJob', 'last_job', 'm', 'manufacturer', 'message', 'model', 'mountPath', 'mount_path', 'name', 'nextJobRunAt', 'next_job_run_at', 'owner', 'path', 'prettyName', 'quantity', 'ram', 'readOnly', 'read_only', 'revision', 's', 'schedule', 'secrets', 'source', 'space', 'spaceId', 'space_id', 'stage', 'status', 'suspend', 'tags', 'timeout', 'timeoutSeconds', 'type', 'unitCostMicroUSD', 'unitCostUSD', 'unitLabel', 'volumes', 'vram']

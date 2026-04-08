@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\llms\cohere.py
+# hypothesis_version: 6.151.10
+
+[200, '3', 'Authorization', 'POST', '__', 'accept', 'api_base', 'application/json', 'choices', 'complete_input_dict', 'content', 'content-type', 'created', 'data', 'embedding', 'embeddings', 'error', 'finish_reason', 'generations', 'headers', 'index', 'input_type', 'list', 'message', 'model', 'object', 'prompt', 'prompt_tokens', 'search_document', 'self', 'stream', 'text', 'texts', 'total_tokens', 'usage']

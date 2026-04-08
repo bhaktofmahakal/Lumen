@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\mpmath\calculus\quadrature.py
+# hypothesis_version: 6.151.10
+
+[0.25, 0.5, 1.5, 30.0, 150, 300, ' epsilon:', ' result: ', 'Calculating nodes:', 'Estimated error:', '__main__', 'error', 'gauss-legendre', 'maxdegree', 'method', 'subinterval', 'tanh-sinh', 'verbose']

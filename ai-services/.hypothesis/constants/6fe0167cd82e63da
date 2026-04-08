@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\responses\response_tool_search_output_item.py
+# hypothesis_version: 6.151.10
+
+['client', 'completed', 'in_progress', 'incomplete', 'server', 'tool_search_output']

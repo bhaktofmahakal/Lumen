@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\accelerator\__init__.py
+# hypothesis_version: 6.151.10
+
+['current_accelerator', 'current_device_idx', 'current_device_index', 'current_stream', 'device_count', 'device_index', 'empty_cache', 'get_memory_info', 'is_available', 'max_memory_allocated', 'max_memory_reserved', 'memory_allocated', 'memory_reserved', 'memory_stats', 'set_device_idx', 'set_device_index', 'set_stream', 'synchronize']

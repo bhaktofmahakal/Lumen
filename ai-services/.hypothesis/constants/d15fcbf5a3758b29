@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\core\function.py
+# hypothesis_version: 6.151.10
+
+[10000, ', ', '1.5', '1.9', 'ADD', 'DIV', 'Duplicate symbol %s', 'EXP', 'FUNC_', 'Invalid type of expr', 'NEG', 'SUB', 'Unknown options: %s', '_', '__module__', '_diff_wrt', '_eval_derivative', '_eval_mpmath', '_imp_', '_kwargs', '_nargs', 'arg', 'args', 'at least', 'basic', 'commutative', 'conjugate', 'cos', 'cosh', 'cot', 'coth', 'deep', 'diff', 'dkeys', 'eval', 'evaluate', 'exactly', 'exp', 'exponent', 'free_symbols', 'given', 'im', 'is_%s', 'log', 'mul', 'multinomial', 'n', 'name', 'nargs', 'plural', 'power_base', 'power_exp', 'qual', 're', 's', 'simplify', 'sin', 'sinh', 'tan', 'tanh', 'xi', 'xi_%i', 'z0']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\trainer.py
+# hypothesis_version: 6.151.10
+
+[0.0, '-', '4.46.0', 'TRACKIO_PROJECT', 'WANDB_PROJECT', '_input_ids', '_nested_gather', '_pixel_values', '_sentence_embedding', 'all_special_ids', 'args', 'batch_sampler', 'batch_samplers', 'batch_size', 'bool', 'callbacks', 'collate_fn', 'compute_metrics', 'data_collator', 'dataset_name', 'drop_last', 'dummy', 'eval', 'eval_', 'eval_dataset', 'eval_loss', 'evaluator', 'float32', 'generator', 'input_ids', 'int64', 'label', 'loss', 'lr', 'model', 'model_init', 'no', 'null', 'num_workers', 'optimizer_dict', 'optimizers', 'params', 'persistent_workers', 'pin_memory', 'pixel_values', 'prefetch_factor', 'processing_class', 'return_loss', 'save_safetensors', 'seed', 'sentence_embedding', 'steps', 'string', 'tmp_trainer', 'tokenizer', 'train', 'train_dataset', 'unused', 'use_configured_state', 'valid_label_columns', 'weight_decay']

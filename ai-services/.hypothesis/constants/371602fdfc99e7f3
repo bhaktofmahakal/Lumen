@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\preprocessing\_encoders.py
+# hypothesis_version: 6.151.10
+
+['O', 'OUS', 'OneHotEncoder', 'OrdinalEncoder', 'S', 'U', '_', '_infrequent_indices', 'allow-nan', 'array-like', 'auto', 'boolean', 'categories', 'categories_', 'category', 'category_counts', 'concat', 'csr', 'default', 'dense', 'drop', 'dtype', 'error', 'f', 'feature', 'feature_names_in_', 'first', 'handle_unknown', 'if_binary', 'ignore', 'iloc', 'infrequent_if_exist', 'infrequent_sklearn', 'int64', 'left', 'max_categories', 'mergesort', 'min_frequency', 'missing_indices', 'n_samples', 'ndim', 'neither', 'no_validation', 'sparse_output', 'transform', 'unknown_value', 'use_encoded_value', 'warn']

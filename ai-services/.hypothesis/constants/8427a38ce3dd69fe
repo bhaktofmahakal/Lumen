@@ -1,0 +1,4 @@
+# file: C:\xampp\htdocs\chat-app\ai-services\agents\researcher_agent.py
+# hypothesis_version: 6.151.10
+
+[0.3, 0.5, 500, 1000, 'content', 'document_count', 'document_id', 'findings', 'gaps', 'page_number', 'score', 'search_results', 'source_passage']

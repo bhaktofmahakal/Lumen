@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_functorch\_aot_autograd\graph_capture_wrappers.py
+# hypothesis_version: 6.151.10
+
+['T', '_orig_mod', 'backward', 'cuda', 'forward', 'ignore', 'is_backward', 'is_forward', 'must_be_in_backward', 'must_be_in_forward', 'off', 'partitioner_tag', 'same_as_forward']

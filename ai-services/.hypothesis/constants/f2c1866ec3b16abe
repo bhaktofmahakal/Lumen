@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\grpc\snapshots_service_pb2.py
+# hypothesis_version: 6.151.10
+
+[b'\xaa\x02\x12Qdrant.Client.Grpc', 123, 125, 175, 177, 225, 227, 274, 276, 347, 350, 486, 488, 585, 587, 684, 686, 724, 727, 1204, 'DESCRIPTOR', '_SNAPSHOTDESCRIPTION', '_SNAPSHOTS']

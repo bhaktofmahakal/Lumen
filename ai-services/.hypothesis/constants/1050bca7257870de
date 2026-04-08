@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_decomp\__init__.py
+# hypothesis_version: 6.151.10
+
+['CustomDecompTable', '_P', '_T', '__origin__', 'decomposition_table', 'get_decompositions', 'meta', 'meta_table', 'out', 'post_autograd', 'pre_autograd']

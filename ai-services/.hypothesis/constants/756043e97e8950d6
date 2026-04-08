@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\simplify\__init__.py
+# hypothesis_version: 6.151.10
+
+['EPath', 'FU', 'besselsimp', 'collect', 'collect_const', 'combsimp', 'cse', 'denom', 'epath', 'exptrigsimp', 'fraction', 'fu', 'gammasimp', 'hyperexpand', 'hypersimilar', 'hypersimp', 'kroneckersimp', 'logcombine', 'nsimplify', 'numer', 'posify', 'powdenest', 'powsimp', 'radsimp', 'ratsimp', 'ratsimpmodprime', 'rcollect', 'separatevars', 'signsimp', 'simplify', 'sqrtdenest', 'trigsimp']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\assumptions\__init__.py
+# hypothesis_version: 6.151.10
+
+['AppliedPredicate', 'AssumptionsContext', 'BinaryRelation', 'Predicate', 'Q', 'ask', 'assuming', 'global_assumptions', 'refine', 'register_handler', 'remove_handler']

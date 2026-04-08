@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\optimize\_trustregion_constr\report.py
+# hypothesis_version: 6.151.10
+
+['-', 'CG iter', 'CG stop', '^+13.4e', '^10.2e', '^13.2e', '^7', 'barrier param', 'c viol', 'f evals', 'niter', 'obj func', 'opt', 'penalty', 'tr radius', '|']

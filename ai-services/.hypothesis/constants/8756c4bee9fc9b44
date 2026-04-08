@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\mpmath\ctx_iv.py
+# hypothesis_version: 6.151.10
+
+[6000, '(%s + %s*j)', 'C', 'R', 'Z', '_mpc_', '_mpci_', '_mpf_', '_mpi_', 'inf', 'iv.mpc(%s, %s)', 'ivmpc', 'ivmpf', 'ivmpf_constant', 'mpi(%r, %r)', 'nan', 'prec']

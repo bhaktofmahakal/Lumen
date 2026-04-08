@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\ndimage\interpolation.py
+# hypothesis_version: 6.151.10
+
+['_interpolation', 'affine_transform', 'geometric_transform', 'interpolation', 'map_coordinates', 'ndimage', 'rotate', 'shift', 'spline_filter', 'spline_filter1d', 'zoom']

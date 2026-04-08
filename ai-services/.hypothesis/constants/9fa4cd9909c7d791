@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\huggingface_hub\_buckets.py
+# hypothesis_version: 6.151.10
+
+[1000, '#', '+', ', ', '-', '/', 'Executing plan...', 'HfApi', 'Nothing to sync.', 'Sync completed.', 'Syncing...', 'action', 'buckets/', 'createdAt', 'delete', 'deletes', 'dest', 'directory', 'download', 'downloads', 'file', 'header', 'hf://buckets/', 'id', 'identical', 'local newer', 'local_mtime', 'mtime', 'new file', 'operation', 'path', 'private', 'reason', 'remote newer', 'remote_mtime', 'same mtime', 'same size', 'size', 'size differs', 'skip', 'skips', 'source', 'summary', 'timestamp', 'totalFiles', 'total_size', 'type', 'upload', 'uploadedAt', 'uploaded_at', 'uploads', 'w', 'xetHash']

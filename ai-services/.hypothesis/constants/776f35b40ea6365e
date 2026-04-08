@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\google\protobuf\internal\containers.py
+# hypothesis_version: 6.151.10
+
+['MessageMap[_K, _V]', 'S', 'ScalarMap[_K, _V]', '_K', '_T', '_V', '_data', '_entry_descriptor', '_field', '_field_number', '_key_checker', '_message_descriptor', '_message_listener', '_type_checker', '_value_checker', '_values', '_wire_type', 'cmp', 'sort_function']

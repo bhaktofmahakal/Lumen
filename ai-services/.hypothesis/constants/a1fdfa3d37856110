@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\evaluation\RerankingEvaluator.py
+# hypothesis_version: 6.151.10
+
+['MAP', 'RerankingEvaluator', 'Samples', '_', 'a', 'at_k', 'document', 'epoch', 'map', 'mrr', 'ndcg', 'negative', 'positive', 'query', 'steps', 'truncate_dim', 'utf-8', 'w']

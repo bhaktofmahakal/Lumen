@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\integrations\langsmith.py
+# hypothesis_version: 6.151.10
+
+['LANGSMITH_API_KEY', 'LLMRun', 'end_time', 'inputs', 'litellm-completion', 'litellm_params', 'llm', 'metadata', 'name', 'outputs', 'project_name', 'run_name', 'run_type', 'session_name', 'start_time', 'x-api-key']

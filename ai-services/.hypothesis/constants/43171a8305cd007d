@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\ntheory\residue_ntheory.py
+# hypothesis_version: 6.151.10
+
+[0.5, 1000, 1000000000000, '1.13', 'Log does not exist', 'm must be > 0', 'n must be >= 0', 'n should be positive', 'p must be > 0', 'p should be positive']

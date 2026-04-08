@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\optim\swa_utils.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.999, 1.0, 'AveragedModel', 'SWALR', 'anneal_func', 'cos', 'get_ema_avg_fn', 'get_ema_multi_avg_fn', 'get_swa_avg_fn', 'get_swa_multi_avg_fn', 'linear', 'lr', 'n_averaged', 'optimizer', 'swa_lr', 'update_bn']

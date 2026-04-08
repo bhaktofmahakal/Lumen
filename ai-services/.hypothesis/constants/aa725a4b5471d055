@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\losses\DenoisingAutoEncoderLoss.py
+# hypothesis_version: 6.151.10
+
+['5.0.0', 'attention_mask', 'config', 'input_ids', 'longest_first', 'pt', 'sentence_embedding']

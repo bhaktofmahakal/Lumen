@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\integrations\hub_kernels.py
+# hypothesis_version: 6.151.10
+
+['-', '..utils.import_utils', '/', '0.10.2', '0.10.4', ':', '@', 'CPUMegaBlocksMoeMLP', 'FastGELU', 'GeLU', 'Gelu', 'GeluTanh', 'LayerRepository', 'LigerRMSNorm', 'Llama4TextMoe', 'MLP', 'MegaBlocksMoeMLP', 'NewGELU', 'QuickGELU', 'RMSNorm', 'SiLU', 'Silu', 'TritonLlamaMLP', 'USE_HUB_KERNELS', 'YES', '_', 'ahadnagy/megablocks', 'causal-conv1d', 'cpu', 'cuda', 'deep-gemm', 'falcon_mamba-ssm', 'finegrained-fp8', 'flash_attention_2', 'framework', 'get_kernel', 'kernels', 'kernels-community', 'lazy_load_kernel', 'mamba-ssm', 'mps', 'npu', 'repo_id', 'revision', 'rocm', 'rotary_fn', 'rotary_pos_emb', 'transformers', 'use_kernelized_func', 'version', 'xpu', '|']

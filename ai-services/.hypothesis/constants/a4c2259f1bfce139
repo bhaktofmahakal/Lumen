@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\llms\ai21.py
+# hypothesis_version: 6.151.10
+
+[200, '/complete', 'Authorization', 'Bearer ', 'POST', '__', 'accept', 'application/json', 'choices', 'complete_input_dict', 'completion_tokens', 'completions', 'content', 'content-type', 'created', 'data', 'finishReason', 'message', 'model', 'prompt', 'prompt_tokens', 'reason', 'role', 'self', 'stream', 'text', 'total_tokens', 'usage', 'user']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\grpc\snapshots_service_pb2_grpc.py
+# hypothesis_version: 6.151.10
+
+['Create', 'CreateFull', 'Delete', 'DeleteFull', 'List', 'ListFull', 'qdrant.Snapshots']

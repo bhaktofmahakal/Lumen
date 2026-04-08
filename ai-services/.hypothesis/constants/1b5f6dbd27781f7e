@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\fx\passes\infra\pass_manager.py
+# hypothesis_version: 6.151.10
+
+['PassManager', "Running pass '%s'", 'check', 'graph_module', 'pass_result_wrapper']

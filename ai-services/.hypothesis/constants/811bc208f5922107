@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\functions\elementary\hyperbolic.py
+# hypothesis_version: 6.151.10
+
+['+', '-', '_eval_expand_trig', '_eval_rewrite_as_exp', 'complex', 'inverse', 't']

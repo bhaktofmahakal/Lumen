@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\integrations\prompt_layer.py
+# hypothesis_version: 6.151.10
+
+['PROMPTLAYER_API_KEY', 'api_key', 'function_name', 'hello', 'kwargs', 'litellm_params', 'messages', 'metadata', 'model', 'optional_params', 'request_end_time', 'request_id', 'request_response', 'request_start_time', 'success', 'tags', 'world']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\indexes\datetimelike.py
+# hypothesis_version: 6.151.10
+
+['CategoricalIndex', 'M', 'NaT', 'Self', 'freq', 'freqstr', 'i8', 'infer', 'inferred_freq', 'iufc', 'left', 'm', 'name', 'right', 'rule_code', 'slice']

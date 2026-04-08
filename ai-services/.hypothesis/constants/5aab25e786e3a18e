@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\optimize\_trustregion_constr\projections.py
+# hypothesis_version: 6.151.10
+
+[1e-15, 1e-12, 'AugmentedSystem', 'NormalEquation', 'QRFactorization', 'SVDFactorization', 'T', 'csc', 'economic', 'fro', 'ignore', 'orthogonality', 'projections']

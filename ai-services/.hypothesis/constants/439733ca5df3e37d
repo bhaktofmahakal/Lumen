@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\generation\__init__.py
+# hypothesis_version: 6.151.10
+
+['BaseStreamer', 'CandidateGenerator', 'CompileConfig', 'ConfidenceCriteria', 'ContinuousMixin', 'EosTokenCriteria', 'EpsilonLogitsWarper', 'EtaLogitsWarper', 'FIFOScheduler', 'GenerationConfig', 'GenerationMixin', 'GenerationMode', 'LogitNormalization', 'LogitsProcessor', 'LogitsProcessorList', 'MaxLengthCriteria', 'MaxTimeCriteria', 'MinPLogitsWarper', 'Scheduler', 'StopStringCriteria', 'StoppingCriteria', 'StoppingCriteriaList', 'TextIteratorStreamer', 'TextStreamer', 'TopHLogitsWarper', 'TopKLogitsWarper', 'TopPLogitsWarper', 'TypicalLogitsWarper', 'WatermarkDetector', 'WatermarkingConfig', '__file__', 'candidate_generator', 'configuration_utils', 'continuous_batching', 'logits_process', 'stopping_criteria', 'streamers', 'utils', 'watermarking']

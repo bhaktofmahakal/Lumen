@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\_lib\array_api_compat\numpy\_typing.py
+# hypothesis_version: 6.151.10
+
+['Array', 'DType', 'Device', 'cpu']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\parsing\sympy_parser.py
+# hypothesis_version: 6.151.10
+
+['!', '%s', '%s: %s', "'%s'", '(', ')', '*', '**', '+', ',', '.', '0', '0.', '0123456789_', '0X', '0x', '1', '9', ':', '<string>', '=', 'Abs', 'Add', 'And', 'E', 'Eq', 'False', 'Float', 'Function', 'GREEK SMALL LETTER ', 'Ge', 'Gt', 'I', 'Integer', 'J', 'Lambda', 'Le', 'Lt', 'Mul', 'Ne', 'None', 'Not', 'Number', 'Or', 'Pow', 'Rational', 'Symbol', 'True', '[', ']', '^', '_', 'acos', 'acosh', 'acot', 'acoth', 'acsc', 'acsch', 'all', 'arg', 'args', 'asec', 'asech', 'asin', 'asinh', 'atan', 'atanh', 'cbrt', 'conjugate', 'cos', 'cosh', 'cot', 'coth', 'csc', 'csch', 'e', 'eval', 'evaluate', 'exp', 'exponent', 'factorial', 'factorial2', 'from sympy import *', 'function', 'im', 'implicit', 'j', 'lambda', 'ln', 'log', 'max', 'min', 're', 'sec', 'sech', 'sign', 'sin', 'sinh', 'sqrt', 'tan', 'tanh', 'unexpected slice arg']

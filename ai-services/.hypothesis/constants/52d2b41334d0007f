@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\dtypes\missing.py
+# hypothesis_version: 6.151.10
+
+[1000, 'M', 'NaT', 'OSU', 'S', 'U', '__array__', 'b', 'datetime', 'datetime64', 'f', 'fc', 'i8', 'ignore', 'iu', 'iub', 'iufc', 'm', 'mM', 'object', 'pandas', 'timedelta', 'timedelta64']

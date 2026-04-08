@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\pgo.py
+# hypothesis_version: 6.151.10
+
+[4294967295, ',', ', ', '.lock', '.tmp', '08x', '?', 'RemoteDynamoPGOCache', '[', '[<>:"/\\\\|?*]', ']', '_', '_T', 'all', 'ascii', 'auto unset', 'automatic_dynamic', 'cached', 'data', 'dim', 'dim_changed', 'dynamo', 'dynamo-pgo', 'local', 'mast:', 'name', 'new', 'other', 'pgo', 'put_local_code_state', 'rb', 'reason', 'remote', 'scalar', 'scalar change', 'size', 'size change', 'stride', 'stride change', 'string', 'wb']

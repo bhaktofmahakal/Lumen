@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\losses\__init__.py
+# hypothesis_version: 6.151.10
+
+['AdaptiveLayerLoss', 'AnglELoss', 'BatchAllTripletLoss', 'BatchHardTripletLoss', 'CachedGISTEmbedLoss', 'CoSENTLoss', 'ContrastiveLoss', 'CosineSimilarityLoss', 'DistillKLDivLoss', 'GISTEmbedLoss', 'MSELoss', 'MarginMSELoss', 'Matryoshka2dLoss', 'MatryoshkaLoss', 'MegaBatchMarginLoss', 'SoftmaxLoss', 'TripletLoss']

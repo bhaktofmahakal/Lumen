@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\nn\modules\pixelshuffle.py
+# hypothesis_version: 6.151.10
+
+['PixelShuffle', 'PixelUnshuffle', 'downscale_factor', 'upscale_factor']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\router_strategy\lowest_tpm_rpm.py
+# hypothesis_version: 6.151.10
+
+['%H-%M', 'id', 'inf', 'litellm_params', 'metadata', 'model_group', 'model_info', 'rpm', 'total_tokens', 'tpm', 'usage']

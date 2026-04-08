@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\chat\chat_completion_assistant_message_param.py
+# hypothesis_version: 6.151.10
+
+['Audio', 'FunctionCall', 'assistant']

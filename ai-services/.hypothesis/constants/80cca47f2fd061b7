@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\initialization.py
+# hypothesis_version: 6.151.10
+
+[-2.0, 0.0, 0.01, 0.8796256610342398, 1.0, 2.0, '_is_hf_initialized', 'constant_', 'dirac_', 'eye_', 'fan_avg', 'fan_in', 'fan_out', 'kaiming_normal_', 'kaiming_uniform_', 'leaky_relu', 'normal', 'normal_', 'ones_', 'orthogonal_', 'sparse_', 'torch.nn.init', 'torch.nn.modules.rnn', 'trunc_normal_', 'truncated_normal', 'uniform', 'uniform_', 'xavier_normal_', 'xavier_uniform_', 'zeros_']

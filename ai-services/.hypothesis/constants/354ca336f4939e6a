@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\quantizers\quantizer_awq.py
+# hypothesis_version: 6.151.10
+
+['5.0.0', 'AwqConfig', 'PreTrainedModel', 'device_map', 'gptqmodel']

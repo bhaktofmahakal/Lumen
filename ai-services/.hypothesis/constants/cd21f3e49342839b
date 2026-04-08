@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\utils\data\datapipes\iter\combining.py
+# hypothesis_version: 6.151.10
+
+[1000, 'ConcaterIterDataPipe', 'ForkerIterDataPipe', 'ZipperIterDataPipe', '_T_co', 'concat', 'deep', 'demux', 'fork', 'mux', 'shallow', 'zip']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\models\encoder_decoder\configuration_encoder_decoder.py
+# hypothesis_version: 6.151.10
+
+['EncoderDecoderConfig', 'decoder', 'encoder', 'encoder-decoder', 'model_type']

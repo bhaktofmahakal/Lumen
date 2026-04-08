@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\loss\loss_rt_detr.py
+# hypothesis_version: 6.151.10
+
+[1e-08, 0.5, 1.0, 'auxiliary_outputs', 'bce', 'bilinear', 'boxes', 'cardinality', 'cardinality_error', 'class_labels', 'dn_auxiliary_outputs', 'dn_num_group', 'dn_num_split', 'dn_positive_idx', 'empty_weight', 'focal', 'labels', 'logits', 'loss_bbox', 'loss_bce', 'loss_ce', 'loss_dice', 'loss_focal', 'loss_giou', 'loss_mask', 'loss_vfl', 'masks', 'none', 'pred_boxes', 'pred_masks', 'scipy', 'vfl']

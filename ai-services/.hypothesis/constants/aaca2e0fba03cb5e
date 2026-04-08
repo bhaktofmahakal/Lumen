@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\assumptions\relation\equality.py
+# hypothesis_version: 6.151.10
+
+['EqualityPredicate', 'GreaterThanPredicate', 'LessThanPredicate', 'UnequalityPredicate', 'eq', 'ge', 'gt', 'le', 'lt', 'ne']

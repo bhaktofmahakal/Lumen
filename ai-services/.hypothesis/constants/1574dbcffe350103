@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\graph_utils.py
+# hypothesis_version: 6.151.10
+
+['call_method', 'cpu', 'cuda', 'example_value', 'no cycle detected', 'output', 'to', 'val', 'xpu']

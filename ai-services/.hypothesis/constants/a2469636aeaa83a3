@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\stats\_binomtest.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1e-07, 0.5, 0.95, 1.0, 'exact', 'greater', 'k', 'less', 'n', 'two-sided', 'wilson', 'wilsoncc']

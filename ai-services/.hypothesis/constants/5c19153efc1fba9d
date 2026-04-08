@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\router_strategy\lowest_latency.py
+# hypothesis_version: 6.151.10
+
+[0.0, '%H', '%M', '%Y-%m-%d', 'id', 'inf', 'latency', 'litellm_params', 'metadata', 'model_group', 'model_info', 'rpm', 'tpm']

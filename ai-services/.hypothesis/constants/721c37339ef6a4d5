@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\redis\maint_notifications.py
+# hypothesis_version: 6.151.10
+
+[120, '.', ':', 'FAILED_OVER', 'FAILING_OVER', 'MIGRATED', 'MIGRATING', 'MOVING', 'SMIGRATED', 'SMIGRATING', '\\.corp$', '\\.internal$', '\\.intranet$', '\\.lan$', '\\.local$', '\\.private$', 'auto', 'connected_address', 'external-fqdn', 'external-ip', 'host', 'internal-fqdn', 'internal-ip', 'maintenance', 'maintenance_state', 'moving', 'none', 'notification', 'notification_hash', 'orig_host_address', 'orig_socket_timeout', 'pool', 'set_in_maintenance', 'socket_timeout']

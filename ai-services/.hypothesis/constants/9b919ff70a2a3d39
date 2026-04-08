@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\quantization.py
+# hypothesis_version: 6.151.10
+
+[100, 128, 255, 'b1', 'binary', 'corpus_id', 'cos', 'f32', 'float32', 'hamming', 'i8', 'ij,ikj->ik', 'int8', 'ip', 'score', 'ubinary', 'uint8']

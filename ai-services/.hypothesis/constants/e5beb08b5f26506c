@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\class_weight.py
+# hypothesis_version: 6.151.10
+
+[0.0, 'C', 'array-like', 'balanced', 'class_weight', 'classes', 'clip', 'indices', 'sample_weight', 'sparse matrix', 'y']

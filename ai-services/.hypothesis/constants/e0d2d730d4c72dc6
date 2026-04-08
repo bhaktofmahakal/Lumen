@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\geometry\entity.py
+# hypothesis_version: 6.151.10
+
+[0.1, 0.5, 1.0, 100.0, 300, '#66cc99', 'Circle', 'Curve', 'Ellipse', 'Line', 'Line2D', 'Line3D', 'Parabola', 'Plane', 'Point', 'Point2D', 'Point3D', 'Polygon', 'Ray', 'Ray2D', 'Ray3D', 'RegularPolygon', 'Segment', 'Segment2D', 'Segment3D', 'Triangle', 'entity_dummy', 'is_Point', 'reflect', '{} {} {} {}']

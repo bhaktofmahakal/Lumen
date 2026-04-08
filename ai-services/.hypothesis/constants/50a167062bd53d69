@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\langchain_core\tracers\schemas.py
+# hypothesis_version: 6.151.10
+
+['0.1.0', '0.3.0', 'BaseRun', 'ChainRun', 'LLMRun', 'Run', 'RunTypeEnum', 'ToolRun', 'TracerSession', 'TracerSessionBase', 'TracerSessionV1', 'TracerSessionV1Base', 'Use string instead.', 'events', 'id', 'name', 'serialized']

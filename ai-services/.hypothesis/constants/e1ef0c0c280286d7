@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\nn\attention\_fa3.py
+# hypothesis_version: 6.151.10
+
+[0.0, 'CUDA', 'CUDA not available', 'FA3', 'FA3 not registered', 'IMPL', 'Ts', 'aten', 'bwd', 'dropout_p must be 0', 'flash_attn_3', 'flash_attn_interface', 'fwd']

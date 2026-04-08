@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\mpmath\calculus\extrapolation.py
+# hypothesis_version: 6.151.10
+
+[0.5, 10000, '%s error: %s', '(', ')', '+', '-', 'Adding terms #%i-#%i', 'Direct error: %s', 'Failed to converge', 'Integration error:', 'Richardson error: %s', 'Shanks error: %s', 'a', 'all', 'alternating', 'd', 'direct', 'e', 'euler-maclaurin', 'ignore', 'l', 'levin', 'levin: zero weight', 'levin_variant', 'magnitude =', 'maxterms', 'method', 'r', 'r+s', 'richardson', 's', 'shanks', 'sidi', 'skip', 'steps', 'strict', 't', 'term', 'tol', 'u', 'unknown variant', 'v', 'verbose', 'workprec']

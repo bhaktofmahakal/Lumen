@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\preprocessing\_discretization.py
+# hypothesis_version: 6.151.10
+
+[1e-08, 0.5, 100, 200000, ', ', '_encoder', 'array-like', 'closest_observation', 'dtype', 'encode', 'hazen', 'inverted_cdf', 'kmeans', 'left', 'linear', 'median_unbiased', 'method', 'n_bins', 'n_features_in_', 'normal_unbiased', 'numeric', 'onehot', 'onehot-dense', 'ordinal', 'quantile', 'quantile_method', 'random_state', 'right', 'strategy', 'subsample', 'uniform', 'warn', 'weibull']

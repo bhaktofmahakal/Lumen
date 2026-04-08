@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\integrations\accelerate.py
+# hypothesis_version: 6.151.10
+
+[0.9, 1.25, '.', '.safetensors', 'HfQuantizer | None', 'LOCAL_RANK', 'PreTrainedModel', '_hf_hook', 'auto', 'balanced', 'balanced_low_0', 'cpu', 'cuda', 'device_map', 'disk', 'dtype', 'float32', 'force_hooks', 'meta', 'mps', 'offload_buffers', 'offload_dir', 'offload_index', 'pt', 'safetensors_file', 'sequential', 'skip_keys', 'torch.', 'weight_map', 'weight_name', '|']

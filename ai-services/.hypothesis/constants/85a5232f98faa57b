@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\indexes\timedeltas.py
+# hypothesis_version: 6.151.10
+
+['D', 'Tick | Day', 'TimeUnit', '__abs__', '__neg__', '__pos__', 'ceil', 'components', 'floor', 'm', 'median', 'pandas', 'round', 's', 'std', 'sum', 'timedelta64', 'timedeltaindex', 'to_pytimedelta', 'total_seconds']

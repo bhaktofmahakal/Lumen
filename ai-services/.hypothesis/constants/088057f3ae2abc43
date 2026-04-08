@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\rpc\__init__.py
+# hypothesis_version: 6.151.10
+
+['BackendType', '_rpc_init', 'backend', 'init_rpc', 'is_available']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\embed\schema_parser.py
+# hypothesis_version: 6.151.10
+
+['$defs', '$ref', '.', '/', 'Document', 'Filter', 'Image', 'InferenceObject', '_inspection_cache.py', 'properties', 'title', 'w']

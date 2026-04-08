@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\core\expr.py
+# hypothesis_version: 6.151.10
+
+[0.5, 10.0, 100, '+', '+-', '-', '1.9', 'Expr', 'Number', '\\+?\\d*\\.(\\d+)f', '__add__', '__call__', '__divmod__', '__floordiv__', '__mod__', '__mul__', '__pow__', '__radd__', '__rdivmod__', '__rfloordiv__', '__rmod__', '__rmul__', '__rpow__', '__rsub__', '__rtruediv__', '__sub__', '__truediv__', '_eval_expand_', '_eval_expand_log', '_eval_expand_mul', '_mpc_', '_mpf_', '_prec', 'args', 'as_Add', 'deep', 'denom', 'evaluate', 'exact', 'exp', 'failing_number', 'frac', 'ignore', 'is_number', 'k', 'log', 'logx', 'mul', 'multinomial', 'mulz', 'numer', 'other', 'rev-', 'simplify', 'startswith', 'x']

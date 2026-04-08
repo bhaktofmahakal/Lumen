@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\assumptions\refine.py
+# hypothesis_version: 6.151.10
+
+['Abs', 'MatrixElement', 'Pow', '_eval_refine', 'arg', 'atan2', 'im', 're', 'sign']

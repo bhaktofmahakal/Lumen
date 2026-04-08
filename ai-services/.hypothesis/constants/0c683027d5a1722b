@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_higher_order_ops\hints_wrap.py
+# hypothesis_version: 6.151.10
+
+['call_function', 'hints', 'hints_wrapper', 'mode']

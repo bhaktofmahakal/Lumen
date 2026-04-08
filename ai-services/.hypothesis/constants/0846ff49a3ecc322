@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\utils\data\datapipes\utils\decoder.py
+# hypothesis_version: 6.151.10
+
+[255.0, '.', 'Decoder', 'ImageHandler', 'MatHandler', '_', 'audiohandler', 'avi', 'basichandlers', 'class', 'cls', 'cls2', 'count', 'extension_extract_fn', 'f', 'flac', 'float', 'h264', 'handle_extension', 'id', 'imagehandler', 'index', 'inx', 'jpeg', 'jpg', 'json jsn', 'l', 'l8', 'm4a', 'mat', 'mathandler', 'mjpeg', 'mov', 'mp3', 'mp4', 'mpg', 'numpy', 'ogg', 'ogv', 'pbm', 'pgm', 'pickle', 'pil', 'pill', 'pilrgb', 'pilrgba', 'png', 'pnm', 'ppm', 'pt', 'pyd', 'rgb', 'rgb8', 'rgba', 'rgba8', 'sox', 'torch', 'torchl', 'torchl8', 'torchrgb', 'torchrgb8', 'torchrgba', 'torchrgba8', 'txt text transcript', 'uint8', 'utf-8', 'videohandler', 'wav', 'wb', 'webm', 'wma', 'wmv']

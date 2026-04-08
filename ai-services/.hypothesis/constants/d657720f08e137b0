@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\sparse\_data.py
+# hypothesis_version: 6.151.10
+
+[1.0, 'argmax', 'argmin', 'b', 'input is not scalar', 'sum_duplicates', 'unsafe']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\polys\monomials.py
+# hypothesis_version: 6.151.10
+
+['%s + %s', '%s + %s*k', '%s - %s', '%s%s', '%s(%s)', '%s**%s', '%s*k', '*', ', ', 'A', 'AB', 'ABk', 'Ak', 'B', 'R', 'RAB', 'a', 'b', 'exponents', 'gens', 'i', 'monomial_div', 'monomial_gcd', 'monomial_lcm', 'monomial_ldiv', 'monomial_mul', 'monomial_mulpow', 'monomial_pow', 'name', 'r']

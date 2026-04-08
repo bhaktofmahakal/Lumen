@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\logic\boolalg.py
+# hypothesis_version: 6.151.10
+
+['Boolean', 'a', 'b', 'c', 'cnf', 'deep', 'dnf', 'evaluate', 'measure', 'other', 'ratio', 'simplify', '{:b}']

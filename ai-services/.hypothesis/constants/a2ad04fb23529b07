@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\moderation.py
+# hypothesis_version: 6.151.10
+
+['Categories', 'CategoryScores', 'Moderation', 'hate/threatening', 'illicit/violent', 'image', 'self-harm', 'self-harm/intent', 'sexual/minors', 'text', 'violence/graphic']

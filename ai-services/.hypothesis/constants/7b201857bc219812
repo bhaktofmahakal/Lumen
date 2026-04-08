@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\onnx\_internal\exporter\_input_observer.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.0001, 0.1, 'InputObserver', 'children', 'forward', 'info cannot be None', 'missing output', 'not the same shape', 'not the same type']

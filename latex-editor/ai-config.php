@@ -1,7 +1,9 @@
 <?php
 
 require_once __DIR__ . '/../config.php';
-define('GEMINI_API_KEY', 'AIzaSyBRThL0mxynPxeZB3ox3kksn_v0Rn6SK_E');
+
+// Use API_KEY from shared config instead of hardcoded value
+// GEMINI_API_KEY is now defined in config.php from environment variables
 
 // MODEL PREFERENCES ( Combo)
 define('OLLAMA_DEFAULT_MODEL', 'qwen2.5-coder:7b-instruct');
@@ -40,7 +42,7 @@ define('AI_LOG_FILE', 'logs/ai-service.log');
 function getAIConfig() {
     return [
         'api_keys' => [
-            'gemini' => GEMINI_API_KEY
+            'gemini' => API_KEY  // Use shared API_KEY constant from config.php
         ],
         'models' => [
             'ollama_default' => OLLAMA_DEFAULT_MODEL,
@@ -73,7 +75,7 @@ function getAIConfig() {
 function validateAPIKeys() {
     $errors = [];
     
-    if (GEMINI_API_KEY === 'YOUR_GEMINI_API_KEY_HERE') {
+    if (empty(API_KEY)) {
         $errors[] = 'Gemini API key not configured';
     }
     

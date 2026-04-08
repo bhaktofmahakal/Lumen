@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\packaging\version.py
+# hypothesis_version: 6.151.10
+
+['*', '*+', '+', '.', '?', '?+', 'InvalidVersion', 'VERSION_PATTERN', 'Version', '[\\._-]', '\\s*', '_dev', '_epoch', '_key_cache', '_local', '_post', '_pre', '_release', '_str', 'a', 'alpha', 'b', 'beta', 'c', 'cpython', 'dev', 'dev_l', 'dev_n', 'epoch', 'local', 'parse', 'post', 'post_l', 'post_n1', 'post_n2', 'pre', 'pre_l', 'pre_n', 'preview', 'pypy', 'r', 'rc', 'release', 'rev']

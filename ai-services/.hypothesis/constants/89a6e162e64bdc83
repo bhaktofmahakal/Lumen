@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_numpy\_dtypes.py
+# hypothesis_version: 6.151.10
+
+['?', 'All', 'AllFloat', 'AllInteger', 'B', 'Bbhil', 'Complex', 'D', 'DType', 'F', 'FD', 'Float', 'H', 'I', 'Integer', 'L', 'UnsignedInteger', 'b', 'bhil', 'bool_', 'byte', 'c16', 'c8', 'cdouble', 'cfloat', 'complex', 'complex128', 'complex64', 'complex_', 'complexfloating', 'csingle', 'd', 'double', 'dtype', 'e', 'efd', 'efdFD', 'efdFDBbhil?', 'f', 'f2', 'f4', 'f8', 'float', 'float16', 'float32', 'float64', 'float_', 'floating', 'generic', 'h', 'half', 'i', 'i1', 'i2', 'i4', 'i8', 'inexact', 'inf', 'int', 'int16', 'int32', 'int64', 'int8', 'int_', 'intc', 'integer', 'intp', 'issubdtype', 'l', 'longlong', 'nan', 'number', 'numpy', 'others', 'pytorch', 'sctypes', 'set_default_dtype', 'short', 'signedinteger', 'single', 'singlecomplex', 'typecodes', 'u1', 'ubyte', 'uint', 'uint16', 'uint32', 'uint64', 'uint8', 'ulonglong', 'unsignedinteger']

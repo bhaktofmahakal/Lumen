@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\ao\nn\intrinsic\quantized\modules\conv_add.py
+# hypothesis_version: 6.151.10
+
+['QuantizedConvAdd2d', 'zeros']

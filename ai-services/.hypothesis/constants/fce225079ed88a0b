@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\nn\parallel\scatter_gather.py
+# hypothesis_version: 6.151.10
+
+['T', '_asdict', '_fields', 'gather', 'scatter', 'scatter_kwargs']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\sparse\bsr.py
+# hypothesis_version: 6.151.10
+
+['_bsr', 'bsr', 'bsr_matrix', 'isspmatrix_bsr', 'sparse', 'spmatrix']

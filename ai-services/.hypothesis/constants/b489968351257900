@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\_lib\array_api_extra\testing.py
+# hypothesis_version: 6.151.10
+
+[1000000, 'P', 'T', '__name__', 'allow_dask_compute', 'jax_jit', 'lazy_xp_function', 'lazy_xp_modules', 'no', 'scheduler', 'threads']

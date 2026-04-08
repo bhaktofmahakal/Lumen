@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\integrals\laplace.py
+# hypothesis_version: 6.151.10
+
+['     rule 5.3.1', '     rule 5.3.10', '     rule 5.3.11', '     rule 5.3.12', '     rule 5.3.13', '     rule 5.3.14', '     rule 5.3.15', '     rule 5.3.16', '     rule 5.3.17', '     rule 5.3.18', '     rule 5.3.19', '     rule 5.3.2', '     rule 5.3.22', '     rule 5.3.23', '     rule 5.3.35/44', '     rule 5.3.4', '     rule 5.3.5', '     rule 5.3.6', '     rule 5.3.7', '     rule 5.3.8', '     rule 5.3.9', '!=', '-', '-LT- %s%s', '-LT- %s%s%s', '-LT- %s---> %s', '1.9', '==', '>', 'Inverse Laplace', 'Laplace', 'None', 'a', 'a, b, n', 'applyfunc', 'b', 'c', 'c0', 'c1', 'exp', 'g', 'k', 'm', 'n', 'noconds', 'omega', 'p', 'p q w1 w2 w3 w4 w5', 'r', 's', 'simplify', 't', 'tau', 'u', 'x_', 'y', 'z']

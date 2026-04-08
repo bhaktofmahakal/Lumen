@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\backend\optimize.py
+# hypothesis_version: 6.151.10
+
+['O1', 'O2', 'O3', 'O4', 'auto_model', 'onnx', 'optimized']

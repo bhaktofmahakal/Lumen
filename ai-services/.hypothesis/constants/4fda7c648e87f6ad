@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\sorting.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1.0, 'argmax', 'argmin', 'first', 'i8', 'last', 'mergesort', 'quicksort']

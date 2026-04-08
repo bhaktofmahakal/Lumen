@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\ops\array_ops.py
+# hypothesis_version: 6.151.10
+
+['Shapes must match', '_', 'add', 'and', 'arith_op', 'b', 'cfO', 'datetime64[s]', 'divmod', 'dtype', 'eq', 'floordiv', 'ge', 'gt', 'iu', 'le', 'lt', 'mod', 'mul', 'ndim', 'ne', 'or', 'pow', 'r', 'rand', 'ror', 'rxor', 'sub', 'timedelta64[s]', 'truediv', 'xor']

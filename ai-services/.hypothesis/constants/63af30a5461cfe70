@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\fx\immutable_collections.py
+# hypothesis_version: 6.151.10
+
+['_KT', '_T', '_VT', 'immutable_dict', 'immutable_list']

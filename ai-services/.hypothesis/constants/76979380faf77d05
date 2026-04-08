@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\fx\passes\param_fetch.py
+# hypothesis_version: 6.151.10
+
+['bias', 'call_module', 'ceil_mode', 'default_matching', 'dilation', 'eps', 'groups', 'inplace', 'kernel_size', 'name', 'padding', 'padding_mode', 'return_indices', 'running_mean', 'running_var', 'stride', 'weight']

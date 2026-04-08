@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\nn\attention\flex_attention.py
+# hypothesis_version: 6.151.10
+
+[1.0, 2.0, 100, 128, '\n)', ', ', '...', 'AUTO', 'AuxOutput', 'AuxRequest', 'BACKEND', 'BLOCK_SIZE', 'BlockMask', 'FLASH', 'FlexKernelOptions', 'OUTPUT_LOGSUMEXP', 'OUTPUT_MAX', 'PRESCALE_QK', 'ROWS_GUARANTEED_SAFE', 'TRITON', 'TRITON_DECODE', 'WRITE_DQ', '__closure__', '__code__', '__defaults__', 'and_masks', 'cpu', 'create_block_mask', 'create_mask', 'cuda', 'flex_attention', 'fn', 'full_kv_indices', 'full_kv_num_blocks', 'full_q_indices', 'full_q_num_blocks', 'hpu', 'kv_indices', 'kv_num_blocks', 'mask_mod', 'noop_mask', 'or_masks', 'q_indices', 'q_num_blocks', 'seq_lengths', 'xpu', '█', '░']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\aiohttp\abc.py
+# hypothesis_version: 6.151.10
+
+['AbstractMatchInfo', 'BaseCookie[str]', 'CIMultiDict[str]', 'Morsel[str]', 'deflate', 'log_format', 'logger']

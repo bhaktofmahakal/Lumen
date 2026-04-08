@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\redis\_parsers\commands.py
+# hypothesis_version: 6.151.10
+
+['.', ':', 'CHANNELS', 'COMMAND', 'COMMAND GETKEYS', 'ClusterNode', 'Invalid arguments', 'NUMSUB', 'PSUBSCRIBE', 'PUBLISH', 'PUBSUB', 'PUNSUBSCRIBE', 'SHARDCHANNELS', 'SHARDNUMSUB', 'SPUBLISH', 'SUBSCRIBE', 'UNSUBSCRIBE', 'agg_logical_and', 'agg_logical_or', 'agg_max', 'agg_min', 'agg_sum', 'all_nodes', 'all_replicas', 'all_shards', 'all_succeeded', 'arity', 'commands', 'core', 'default_keyed', 'default_keyless', 'default_node', 'first_key_pos', 'flags', 'key_specifications', 'last_key_pos', 'movablekeys', 'multi_shard', 'name', 'node', 'one_succeeded', 'pubsub', 'request_policy', 'response_policy', 'special', 'step_count', 'subcommands', 'tips', '|']

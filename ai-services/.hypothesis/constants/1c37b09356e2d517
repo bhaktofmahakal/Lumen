@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\window\rolling.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.5, 1.0, ',', 'TimeUnit', '_', '_grouper', 'apply', 'average', 'both', 'center', 'closed', 'corr', 'count', 'cov', 'cython', 'first', 'float64', 'ignore', 'index', 'index_array', 'kurt', 'last', 'left', 'linear', 'mM', 'max', 'mean', 'median', 'method', 'min', 'min_periods', 'name', 'neither', 'ns', 'numba', 'number', 'nunique', 'on', 'pandas.api.typing', 'quantile', 'rank', 'right', 'scipy.signal.windows', 'sem', 'single', 'skew', 'std', 'step', 'step must be >= 0', 'sum', 'table', 'timedelta', 'var', 'win_type', 'window']

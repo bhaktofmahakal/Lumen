@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_tensor_str.py
+# hypothesis_version: 6.151.10
+
+[0.0001, 1000.0, 100000000.0, 1000, ' ...', "'", ')', '),\n', '+', ',', ',\n', ', ', ', size=', '-', '.', '...', '::', 'CppFunction', 'Invalid', '[', '[]', ']', 'axis=', 'column', 'cpu', 'cuda', 'default', "device='", 'dtype=', 'full', 'indices=tensor(', 'ipu', 'j', 'layout=', 'lazy', 'mps', 'mtia', 'nested_tensor(', 'nnz=', 'quantization_scheme=', 'requires_grad=True', 'row', 'scale=', 'short', 'size=', 'tensor(', 'values=tensor(', 'xla', 'zero_point=']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributions\utils.py
+# hypothesis_version: 6.151.10
+
+[0.5, 0.5772156649015329, 'R', 'T', 'broadcast_all', 'clamp_probs', 'lazy_property', 'logits_to_probs', 'probs_to_logits', 'tril_matrix_to_vec', 'vec_to_tril_matrix']

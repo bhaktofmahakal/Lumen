@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\grpc\points_service_pb2_grpc.py
+# hypothesis_version: 6.151.10
+
+['/qdrant.Points/Count', '/qdrant.Points/Facet', '/qdrant.Points/Get', '/qdrant.Points/Query', 'ClearPayload', 'Count', 'CreateFieldIndex', 'Delete', 'DeleteFieldIndex', 'DeletePayload', 'DeleteVectors', 'Discover', 'DiscoverBatch', 'Facet', 'Get', 'OverwritePayload', 'Query', 'QueryBatch', 'QueryGroups', 'Recommend', 'RecommendBatch', 'RecommendGroups', 'Scroll', 'Search', 'SearchBatch', 'SearchGroups', 'SearchMatrixOffsets', 'SearchMatrixPairs', 'SetPayload', 'UpdateBatch', 'UpdateVectors', 'Upsert', 'qdrant.Points']

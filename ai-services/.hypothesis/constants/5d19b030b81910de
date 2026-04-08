@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\indexers\objects.py
+# hypothesis_version: 6.151.10
+
+['both', 'int64', 'left', 'neither', 'pandas.api.indexers', 'right', 'window_size']

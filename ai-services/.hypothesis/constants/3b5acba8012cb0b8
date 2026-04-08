@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\llms\vllm.py
+# hypothesis_version: 6.151.10
+
+['POST', 'choices', 'complete_input_dict', 'content', 'created', 'final_prompt_value', 'http://0.0.0.0:8000', 'initial_prompt_value', 'message', 'model', 'roles', 'stream']

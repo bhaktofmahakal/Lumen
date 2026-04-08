@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\redis\utils.py
+# hypothesis_version: 6.151.10
+
+[100, 1000, '*', '.', '...', '99.99.99', 'C', 'EX', 'EXAT', 'PX', 'PXAT', 'Redis', 'push_response', 'redis', 'replace', 'self', 'utf-8']

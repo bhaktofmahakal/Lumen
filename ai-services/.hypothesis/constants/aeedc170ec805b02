@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pymysql\cursors.py
+# hypothesis_version: 6.151.10
+
+[b',', 1024000, '(', ')', ',', '.', '@_%s_%d', 'CALL {}({})', 'Cursor closed', 'DataError', 'DatabaseError', 'Error', 'IntegrityError', 'InterfaceError', 'InternalError', 'NotSupportedError', 'OperationalError', 'ProgrammingError', 'SET %s', 'Warning', 'absolute', 'execute() first', 'out of range', 'relative', 'surrogateescape']

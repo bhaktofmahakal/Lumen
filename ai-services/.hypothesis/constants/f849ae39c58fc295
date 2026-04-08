@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\caching.py
+# hypothesis_version: 6.151.10
+
+[0.02, 'Body', 'Code', 'Error', 'NoSuchKey', 'acompletion', 'aembedding', 'application/json', 'assistant', 'cache', 'cache_key', 'caching_groups', 'choices', 'completion', 'content', 'delta', 'embedding', 'en', 'encoding_format', 'frequency_penalty', 'host', 'inf', 'input', 'litellm_params', 'local', 'logit_bias', 'max_tokens', 'messages', 'metadata', 'model', 'model_group', 'n', 'password', 'port', 'presence_penalty', 'preset_cache_key', 'redis', 'response', 'response_format', 'role', 's-max-age', 's-maxage', 's3', 'seed', 'stop', 'temperature', 'timestamp', 'tool_choice', 'tools', 'top_p', 'ttl', 'user', 'utf-8']

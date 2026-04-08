@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_higher_order_ops\wrap.py
+# hypothesis_version: 6.151.10
+
+['ac_graph_id', 'args', 'call_function', 'call_method', 'call_module', 'context_fn', 'function', 'kwargs', 'preserve_rng_state', 'recompute', 'use_reentrant', 'wrap', 'wrap_body', 'wrap_with_autocast']

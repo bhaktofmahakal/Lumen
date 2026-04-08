@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\interactive\session.py
+# hypothesis_version: 6.151.10
+
+['%d.%d.%d', '%s/', '(', ')', ', ', '.', '0.11', '1.0', '>>> ', 'Exiting ...', 'Exiting ...\n', 'IPython', 'In', 'Integer', 'Python', 'SYMPY_USE_CACHE', 'cache: off', 'debugging: on', 'del %s', 'dev', 'e', 'exec', 'ground types: %s', 'j', 'no', 'read_history_file', 'source', 'symbol', 'tab: complete', 'version', '~/.sympy-history']

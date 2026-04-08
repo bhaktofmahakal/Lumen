@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\backend\quantize.py
+# hypothesis_version: 6.151.10
+
+[300, 384, 'arm64', 'auto_model', 'avx2', 'avx512', 'avx512_vnni', 'glue', 'max_length', 'onnx', 'openvino', 'qint8_quantized', 'sentence', 'sst2', 'train']

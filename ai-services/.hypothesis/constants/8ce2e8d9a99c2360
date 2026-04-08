@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\internals\managers.py
+# hypothesis_version: 6.151.10
+
+[100, '0.14.1', '_replace_regex', 'apply', 'astype', 'axes', 'b', 'blocks', 'cond', 'convert', 'convert_dtypes', 'copy', 'diff', 'dtype', 'f', 'fancy', 'fillna', 'filter', 'get_values_for_csv', 'i', 'inplace', 'interpolate', 'iub', 'linear', 'mM', 'mask', 'mgr_locs', 'nan', 'new', 'object', 'other', 'pad_or_backfill', 'performance_warnings', 'putmask', 'raise', 'replace', 'replace_list', 'round', 'setitem', 'shift', 'slice', 'values', 'where']

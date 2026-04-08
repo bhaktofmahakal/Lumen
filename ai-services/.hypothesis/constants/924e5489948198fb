@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\stats\_correlation.py
+# hypothesis_version: 6.151.10
+
+['asymptotic', 'chatterjeexi', 'cupy', 'dask.array', 'greater', 'jax.numpy', 'max', 'no take_along_axis', 'pairings', 'spearmanrho', 'two-sided']

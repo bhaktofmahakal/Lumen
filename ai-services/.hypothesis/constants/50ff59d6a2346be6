@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\interpolate\_fitpack_repro.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1e-15, 0.001, 0.04, 0.1, 0.9, 1.0, 'not-a-knot', 'periodic']

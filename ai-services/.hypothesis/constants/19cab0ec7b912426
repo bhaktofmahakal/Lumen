@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\core\sympify.py
+# hypothesis_version: 6.151.10
+
+['"', "'", '(', ')', '* *(', '*(', '**', '** *', '-(', '-( *(', '-inf', 'SympifyError: %r', 'Tbasic', '_', '__class__', '__float__', '__int__', '__sympy__', '_sympy_', 'could not parse %r', 'flat', 'inf', 'numpy', 'shape', 'subs']

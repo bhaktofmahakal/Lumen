@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\audio_utils.py
+# hypothesis_version: 6.151.10
+
+[-0.5, 0.0, 1e-10, 1e-05, 0.85, 1.0, 1.5, 2.0, 3.0, 5.0, 6.4, 10.0, 15.0, 20.0, 27.0, 200.0, 440.0, 700.0, 1000.0, 1127.0, 2595.0, 16000, '0.3.0', 'HQ', 'base64', 'boxcar', 'buffer', 'constant', 'd', 'dB', 'data', 'dict', 'float32', 'format', 'hamming', 'hamming_window', 'hann', 'hann_window', 'htk', 'http://', 'https://', 'kaldi', 'librosa', 'log', 'log10', 'povey', 'rb', 'reflect', 'slaney', 'torch.Tensor', 'torch.nn.Conv1d', 'torchcodec', 'utf-8']

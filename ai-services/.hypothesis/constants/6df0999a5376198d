@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\huggingface_hub\file_download.py
+# hypothesis_version: 6.151.10
+
+[200, 255, 401, 429, '"', '--', '..\\', '.incomplete', '.locks', '.no_exist', '/', 'Accept-Encoding', 'Content-Disposition', 'Content-Encoding', 'Content-Length', 'Content-Range', 'ETag', 'GET', 'HEAD', 'Invalid repo type', 'Location', 'Range', 'W/', '\\..\\', '\\\\?\\', '^[0-9a-f]{40}$', '^[0-9a-f]{64}$', 'ab', 'authorization', 'blobs', 'dummy_file_dst', 'dummy_file_src', 'filename', 'identity', 'main', 'model', 'nt', 'rb', 'refs', 'snapshots']

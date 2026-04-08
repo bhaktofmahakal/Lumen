@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\image_create_variation_params.py
+# hypothesis_version: 6.151.10
+
+['1024x1024', '256x256', '512x512', 'b64_json', 'url']

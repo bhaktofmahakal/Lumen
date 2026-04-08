@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\utils\_sympy\value_ranges.py
+# hypothesis_version: 6.151.10
+
+[-1.0, 0.0, 1.0, 'ValueRanges', '_T', 'bound_sympy', 'bound_sympy(%s)%s', 'is_bool', 'is_float', 'is_int', 'is_integer', 'is_number', 'lower', 'upper']

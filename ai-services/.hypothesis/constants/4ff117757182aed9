@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\training_args.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1.0, '5.0.0', 'accelerator_config', 'batch_sampler', 'deepspeed', 'fsdp_config', 'group_by_label', 'help', 'lr_scheduler_kwargs', 'no_duplicates', 'no_duplicates_hashed', 'prompts', 'proportional', 'round_robin', 'router_mapping', 'unused']

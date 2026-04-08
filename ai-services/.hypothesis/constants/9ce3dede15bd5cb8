@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\models\siglip\configuration_siglip.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1e-06, 1.0, 224, 768, 3072, 32000, 49406, 49407, 'SiglipConfig', 'SiglipTextConfig', 'SiglipVisionConfig', 'gelu_pytorch_tanh', 'siglip', 'siglip_text_model', 'siglip_vision_model', 'text_config', 'vision_config']

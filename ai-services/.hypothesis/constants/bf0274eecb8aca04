@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\polyfills\torch_c_nn.py
+# hypothesis_version: 6.151.10
+
+['_parse_to_polyfill', 'device', 'dtype', 'memory_format', 'non_blocking']

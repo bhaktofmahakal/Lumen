@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\huggingface_hub\utils\endpoint_helpers.py
+# hypothesis_version: 6.151.10
+
+['ModelInfo', '\\d+\\.\\d+|\\d+', 'card_data', 'co2_eq_emissions', 'emissions']

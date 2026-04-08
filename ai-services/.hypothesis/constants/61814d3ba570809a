@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\io\html.py
+# hypothesis_version: 6.151.10
+
+[' and ', '*//br', ',', ', ', '.', '.+', './/*[@style]', './/a/@href', './/style', './/tbody//tr', './/tfoot//tr', './/thead', './td|./th', './tr', 'No tables found', '[\\r\\n]+|\\s{2,}', 'a', 'all', 'attrib', 'attrs', 'body', 'br', 'bs4', 'class', 'class_', 'colspan', 'data', 'display:\\s*none', 'display:none', 'footer', 'header', 'href', 'html5lib', 'int | Sequence[int]', 'lxml', 'lxml.etree', 'pandas', 'r', 're', 'rowspan', 'seekable', 'skiprows', 'style', 'table', 'tbody tr', 'td', 'text_content', 'tfoot tr', 'th', 'thead tr', 'tr']

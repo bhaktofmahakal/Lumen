@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pymysql\__init__.py
+# hypothesis_version: 6.151.10
+
+['1.1.2', '1.4.6', '2.0', 'BINARY', 'Binary', 'Connect', 'Connection', 'DATE', 'DBAPISet', 'DataError', 'DatabaseError', 'Date', 'DateFromTicks', 'Error', 'FIELD_TYPE', 'IntegrityError', 'InterfaceError', 'InternalError', 'MySQLError', 'MySQLdb', 'NULL', 'NUMBER', 'NotSupportedError', 'OperationalError', 'ProgrammingError', 'ROWID', 'STRING', 'TIME', 'TIMESTAMP', 'Time', 'TimeFromTicks', 'Timestamp', 'TimestampFromTicks', 'Warning', '__version__', 'apilevel', 'connect', 'connections', 'constants', 'converters', 'cursors', 'final', 'get_client_info', 'install_as_MySQLdb', 'paramstyle', 'pyformat', 'pymysql', 'threadsafety', 'version_info']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\tensor\_api.py
+# hypothesis_version: 6.151.10
+
+['DTensor', '__get_tensor_shard__', '_local_tensor', '_spec', 'device', 'distribute_module', 'distribute_tensor', 'dtype', 'empty', 'fill_value', 'full', 'layout', 'ones', 'rand', 'randn', 'requires_grad', 'xla', 'zeros']

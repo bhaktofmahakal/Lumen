@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\graders\score_model_grader_param.py
+# hypothesis_version: 6.151.10
+
+['Input', 'InputContent', 'SamplingParams', 'assistant', 'developer', 'input_image', 'message', 'output_text', 'score_model', 'system', 'user']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\models\StaticEmbedding.py
+# hypothesis_version: 6.151.10
+
+[0.0001, 256, '\\[unused\\d+\\]', 'apply_zipf', 'base_model', 'cache_folder', 'device', 'embedding.weight', 'embeddings', 'float32', 'input_ids', 'local_files_only', 'model.safetensors', 'model_name', 'offsets', 'pca_dims', 'pytorch_model.bin', 'quantize_to', 'revision', 'sentence_embedding', 'sif_coefficient', 'subfolder', 'token', 'token_remove_pattern', 'tokenizer.json', 'use_subword', 'vocabulary']

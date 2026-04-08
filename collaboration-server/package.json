@@ -1,0 +1,20 @@
+{
+  "name": "ai-research-collaboration-server",
+  "version": "1.0.0",
+  "description": "WebSocket server for real-time collaboration using Yjs",
+  "type": "module",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {
+    "ws": "^8.16.0",
+    "y-websocket": "^1.5.3",
+    "yjs": "^13.6.10",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.10"
+  }
+}

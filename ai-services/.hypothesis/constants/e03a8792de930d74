@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\codegen.py
+# hypothesis_version: 6.151.10
+
+['.', 'CALL', 'CALL_FUNCTION_KW', 'CALL_KW', 'DELETE_FAST', 'GraphArg', 'IMPORT_NAME', 'KW_NAMES', 'LOAD_ATTR', 'LOAD_CLOSURE', 'LOAD_DEREF', 'LOAD_FAST', 'LOAD_GLOBAL', 'MAKE_FUNCTION', 'POP_TOP', 'PRECALL', 'STORE_ATTR', 'STORE_DEREF', 'STORE_FAST', 'SWAP', 'UNPACK_SEQUENCE', '[^a-zA-Z0-9_]+', '^.*[.]', '_', '_as_tensor_fullprec', 'co_names', 'co_varnames', 'item', 'to_numpy_helper', 'to_subclass']

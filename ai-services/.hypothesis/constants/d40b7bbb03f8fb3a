@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\image_transforms.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.5, 255, 256, 'PIL.Image.Image', 'PILImageResampling', 'RGB', '_num_sublists', 'constant', 'cpu', 'edge', 'reflect', 'replicate', 'symmetric', 'torch.Tensor', 'torch.device', 'vision']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\special\__init__.py
+# hypothesis_version: 6.151.10
+
+['SpecialFunctionError', 'ellip_harm', 'ellip_harm_2', 'ellip_normal', 'lambertw', 'log_softmax', 'logsumexp', 'multigammaln', 'softmax', 'spherical_in', 'spherical_jn', 'spherical_kn', 'spherical_yn']

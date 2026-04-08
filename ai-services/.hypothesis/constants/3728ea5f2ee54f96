@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\losses\CachedGISTEmbedLoss.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.01, 'Calculating loss', 'Embed mini-batches', 'absolute', 'contrast_anchors', 'contrast_positives', 'guide', 'input_ids', 'margin', 'margin_strategy', 'mini_batch_size', 'relative', 'sentence_embedding', 'temperature', 'tokenizer']

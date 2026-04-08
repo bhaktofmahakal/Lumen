@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\ao\nn\quantizable\modules\activation.py
+# hypothesis_version: 6.151.10
+
+[-0.5, 0.0, '-inf', 'MultiheadAttention', 'batch_first', 'device', 'dtype', 'qconfig']

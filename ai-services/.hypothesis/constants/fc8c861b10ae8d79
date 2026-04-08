@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\fx\passes\regional_inductor.py
+# hypothesis_version: 6.151.10
+
+['call_module', 'custom', 'from_tracing_context', 'get_attr', 'inductor_configs', 'meta', 'output', 'placeholder', 'regional_inductor', 'val']

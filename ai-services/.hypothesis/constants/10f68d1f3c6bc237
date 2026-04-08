@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\sparse_encoder\model_card.py
+# hypothesis_version: 6.151.10
+
+['Asymmetric', 'CSR', 'Cosine Similarity', 'Dot Product', 'Euclidean Distance', 'Inference-free', 'Manhattan Distance', 'SPLADE', 'Sparse Encoder', '_', 'cosine', 'dot', 'euclidean', 'feature-extraction', 'manhattan', 'max_active_dims', 'model_max_length', 'model_string', 'similarity_fn_name', 'sparse', 'sparse-encoder']

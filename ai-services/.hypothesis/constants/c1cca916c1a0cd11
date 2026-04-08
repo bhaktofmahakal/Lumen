@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_dynamo\variables\sdpa.py
+# hypothesis_version: 6.151.10
+
+['PyCodegen', 'SDPAParams', '_SDPAParams', 'attn_mask', 'dropout', 'enable_gqa', 'is_causal', 'key', 'query', 'torch._C', 'value']

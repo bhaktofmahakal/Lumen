@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\hpack\__init__.py
+# hypothesis_version: 6.151.10
+
+['4.1.0', 'Decoder', 'Encoder', 'HPACKDecodingError', 'HPACKError', 'HeaderTuple', 'InvalidTableIndex']

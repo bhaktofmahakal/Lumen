@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\linalg\misc.py
+# hypothesis_version: 6.151.10
+
+['LinAlgError', 'LinAlgWarning', '_misc', 'get_blas_funcs', 'get_lapack_funcs', 'linalg', 'misc', 'norm']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\google\protobuf\internal\wire_format.py
+# hypothesis_version: 6.151.10
+
+[127, 16383, 2097151, 268435455, 34359738367, 4398046511103, 562949953421311, 72057594037927935, 9223372036854775807, 18446744073709551615, '<I', '<Q', '<d', '<f', 'utf-8']

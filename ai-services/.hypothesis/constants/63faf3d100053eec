@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_refs\fft.py
+# hypothesis_version: 6.151.10
+
+['backward', 'cuda', 'fft', 'fft2', 'fftn', 'fftshift', 'forward', 'hfft', 'hfft2', 'hfftn', 'ifft', 'ifft2', 'ifftn', 'ifftshift', 'ihfft', 'ihfft2', 'ihfftn', 'irfft', 'irfft2', 'irfftn', 'meta', 'ortho', 'rfft', 'rfft2', 'rfftn']

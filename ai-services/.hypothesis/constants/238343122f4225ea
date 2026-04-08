@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\redis\commands\sentinel.py
+# hypothesis_version: 6.151.10
+
+['SENTINEL CKQUORUM', 'SENTINEL FAILOVER', 'SENTINEL FLUSHCONFIG', 'SENTINEL MASTER', 'SENTINEL MASTERS', 'SENTINEL MONITOR', 'SENTINEL REMOVE', 'SENTINEL RESET', 'SENTINEL SENTINELS', 'SENTINEL SET', 'SENTINEL SLAVES']

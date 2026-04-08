@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\nn\modules\container.py
+# hypothesis_version: 6.151.10
+
+['  (', ' has length ', '(', '()', ')', '): ', '): Object of type: ', '; 2 is required', 'Container', 'ModuleDict', 'ModuleList', 'Parameter', 'ParameterDict', 'ParameterList', 'Sequential', 'T', 'Tensor', '_V', 'cuda', 'x']

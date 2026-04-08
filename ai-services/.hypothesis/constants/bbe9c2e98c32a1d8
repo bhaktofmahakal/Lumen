@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\container_list_params.py
+# hypothesis_version: 6.151.10
+
+['ContainerListParams', 'asc', 'desc']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\packaging\_tokenizer.py
+# hypothesis_version: 6.151.10
+
+['$', ',', ';', 'AT', 'BOOLOP', 'COMMA', 'END', 'IDENTIFIER', 'IN', 'LEFT_BRACKET', 'LEFT_PARENTHESIS', 'NOT', 'OP', 'QUOTED_STRING', 'RIGHT_BRACKET', 'RIGHT_PARENTHESIS', 'SEMICOLON', 'SPECIFIER', 'URL', 'VARIABLE', 'VERSION_PREFIX_TRAIL', 'WS', '[ \\t]+', '[^ \\t]+', '\\(', '\\)', '\\.\\*', '\\@', '\\[', '\\]', '\\b(or|and)\\b', '\\bin\\b', '\\bnot\\b', '^', '~']

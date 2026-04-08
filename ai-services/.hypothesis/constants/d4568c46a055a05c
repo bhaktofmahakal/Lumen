@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\openai\types\graders\grader_inputs.py
+# hypothesis_version: 6.151.10
+
+['GraderInputItem', 'GraderInputs', 'input_image', 'output_text']

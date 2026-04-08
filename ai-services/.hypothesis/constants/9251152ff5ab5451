@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\jmespath\lexer.py
+# hypothesis_version: 6.151.10
+
+['!', '"', '"%s"', '&', "'", '(', ')', '*', ',', '-', '.', ':', '<', '=', '==', '>', '?', '@', 'Bad token %s', 'Unknown token %s', "Unknown token '%s'", "Unknown token '='", '[', '[?', '[]', '\\', "\\'", '\\`', ']', '_', '`', 'and', 'colon', 'comma', 'current', 'dot', 'end', 'eof', 'eq', 'expref', 'filter', 'flatten', 'gt', 'gte', 'lbrace', 'lbracket', 'literal', 'lparen', 'lt', 'lte', 'ne', 'not', 'number', 'or', 'pipe', 'quoted_identifier', 'rbrace', 'rbracket', 'rparen', 'star', 'start', 'type', 'unquoted_identifier', 'value', '{', '|', '}']

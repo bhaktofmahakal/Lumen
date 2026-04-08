@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\integrations\custom_logger.py
+# hypothesis_version: 6.151.10
+
+['completion', 'embeddings', 'log_event_type', 'messages', 'model', 'post_api_call', 'pre_api_call']

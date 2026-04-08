@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\printing\smtlib.py
+# hypothesis_version: 6.151.10
+
+['(%s %s (%s 10 %s))', '*', '+', '+inf', '-inf', '/', '<', '<=', '=', '=>', '>', '>=', 'Bool', 'Int', 'Real', '_', '_smtlib', 'abs', 'and', 'arccos', 'arcsin', 'arctan', 'arctan2', 'assert', 'cos', 'cosh', 'declare-const', 'declare-fun', 'e', 'exp', 'false', 'ite', 'known_constants', 'known_functions', 'known_types', 'log', 'max', 'min', 'not', 'or', 'pow', 'precision', 'sin', 'sinh', 'tan', 'tanh', 'true', 'xor']

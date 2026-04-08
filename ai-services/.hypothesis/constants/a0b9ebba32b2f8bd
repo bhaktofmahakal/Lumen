@@ -1,0 +1,4 @@
+# file: C:\xampp\htdocs\chat-app\ai-services\models.py
+# hypothesis_version: 6.151.10
+
+['arxiv', 'completed', 'complex', 'doi', 'failed', 'pending', 'processing', 'pubmed', 'scanned', 'scientific', 'source_type', 'standard']

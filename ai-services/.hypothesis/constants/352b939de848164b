@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\huggingface_hub\_commit_api.py
+# hypothesis_version: 6.151.10
+
+[256, 401, 500, '.', '..', '../', './', '/', '1', 'POST', 'RepoFile', 'actions', 'algo', 'ascii', 'authorization', 'auto', 'base64', 'basic', 'content', 'create_pr', 'deletedFile', 'deletedFolder', 'description', 'encoding', 'file', 'files', 'gitIgnore', 'header', 'key', 'lfs', 'lfsFile', 'multipart', 'oid', 'parentCommit', 'path', 'rb', 'regular', 'sample', 'sha256', 'shouldIgnore', 'size', 'summary', 'uploadMode', 'value', 'xet']

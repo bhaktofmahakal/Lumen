@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\resample.py
+# hypothesis_version: 6.151.10
+
+[0.5, '-', '1970-01-01', 'BME', 'BQE', 'BYE', 'D', 'E', 'ME', 'Min', 'Mm', 'QE', 'UTC', 'W', 'YE', '_indexer', '_period_dtype_code', 'asfreq', 'ax', 'backward', 'bfill', 'both', 'close', 'closed', 'convention', 'count', 'dtype', 'e', 'end', 'end_day', 'epoch', 'ffill', 'first', 'forward', 'freq', 'high', 'how', 'inplace', 'int64', 'label', 'last', 'left', 'linear', 'low', 'max', 'mean', 'median', 'min', 'name', 'nearest', 'ns', 'nunique', 'obj', 'offset', 'ohlc', 'open', 'origin', 'pandas.api.typing', 'period', 'prod', 'quantile', 'right', 's', 'sem', 'shift_forward', 'size', 'sort', 'start', 'start_day', 'std', 'sum', 'var']

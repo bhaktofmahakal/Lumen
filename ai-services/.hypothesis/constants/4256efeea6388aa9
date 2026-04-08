@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\sparse\base.py
+# hypothesis_version: 6.151.10
+
+['SparseWarning', '_base', 'base', 'issparse', 'isspmatrix', 'sparse', 'spmatrix']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\google\protobuf\json_format.py
+# hypothesis_version: 6.151.10
+
+[b'=', 0.0, 100, '-Infinity', '-inf', '.', '/', '@type', 'Infinity', 'NaN', 'Unpaired surrogate', '[%s]', '\\[[a-zA-Z0-9\\._]*\\]$', '_ConvertAnyMessage', '_ConvertValueMessage', 'false', 'google.protobuf.Any', 'inf', 'key', 'kind', 'list_value', 'nan', 'null_value', 'number_value', 'true', 'utf-8', 'value', 'values', '{0} at {1}', '{0}.key', '{0}.value', '{0}.{1}', '{0}.{1}[{2}]', '{0}[{1}]']

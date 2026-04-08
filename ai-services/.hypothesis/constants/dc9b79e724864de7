@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\fsdp\_fully_shard\_fsdp_param.py
+# hypothesis_version: 6.151.10
+
+['CPU', 'CUDA', 'FRAGMENT', 'Functionalize', 'HPU', 'MTIA', 'Meta', 'XPU', '__func__', '_unsharded_param', 'copy_', 'fsdp', 'fsdp_post_all_gather', 'fsdp_pre_all_gather', 'meta']

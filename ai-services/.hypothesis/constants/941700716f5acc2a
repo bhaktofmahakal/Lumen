@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\util\hard_negatives.py
+# hypothesis_version: 6.151.10
+
+[0.25, 0.5, 0.75, 2048, 16384, ' and ', ', ', '-inf', '25%', '50%', '75%', 'Count', 'Difference', 'Metric', 'Negative', 'Positive', 'Querying FAISS index', 'absolute_margin', 'inf', 'label', 'labeled-list', 'labeled-pair', 'labels', 'max', 'max_score', 'mean', 'median', 'min', 'min_score', 'n-tuple', 'n-tuple-scores', 'negative', 'random', 'range_max', 'range_min', 'ratio', 'relative_margin', 'score', 'scores', 'skipped', 'std', 'top', 'triplet']

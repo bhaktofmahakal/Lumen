@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\cross_encoder\losses\MultipleNegativesRankingLoss.py
+# hypothesis_version: 6.151.10
+
+[10.0, 'activation_fn', 'num_negatives', 'pt', 'scale']

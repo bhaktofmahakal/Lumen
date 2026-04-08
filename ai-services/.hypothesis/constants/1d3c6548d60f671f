@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\integrations\traceloop.py
+# hypothesis_version: 6.151.10
+
+['Litellm-Server', 'choices', 'completion_tokens', 'content', 'custom_llm_provider', 'finish_reason', 'frequency_penalty', 'functions', 'litellm.completion', 'litellm_params', 'max_tokens', 'message', 'messages', 'model', 'openai', 'optional_params', 'presence_penalty', 'prompt_tokens', 'role', 'stop', 'temperature', 'tools', 'top_p', 'total_tokens', 'usage', 'user']

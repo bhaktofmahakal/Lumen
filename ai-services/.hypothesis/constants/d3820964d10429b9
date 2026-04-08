@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\_prims\rng_prims.py
+# hypothesis_version: 6.151.10
+
+[256, 'call_function', 'cpu', 'cuda', 'device', 'hpu', 'philox_rand', 'rng_state', 'rngprims::', 'run_with_rng_state', 'xpu']

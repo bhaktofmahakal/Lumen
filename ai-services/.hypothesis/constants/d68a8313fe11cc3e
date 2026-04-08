@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\langchain_core\tracers\context.py
+# hypothesis_version: 6.151.10
+
+['LANGCHAIN_TRACING_V2', 'LANGSMITH_TRACING', 'LANGSMITH_TRACING_V2', 'default', 'project', 'run_collector', 'session_name', 'tracing_callback_v2']

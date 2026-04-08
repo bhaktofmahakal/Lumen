@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\httpcore\_backends\mock.py
+# hypothesis_version: 6.151.10
+
+['Connection closed', 'h2', 'http/1.1', 'ssl_object']

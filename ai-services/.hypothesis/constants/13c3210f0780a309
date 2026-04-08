@@ -1,0 +1,4 @@
+# file: C:\xampp\htdocs\chat-app\ai-services\equation_extraction_service.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.5, 0.6, 0.85, 0.9, 1.0, 50.0, 255.0, 100, 150, ',', '--no-skipping', '--pages', '--version', '-o', '.mmd', '.pdf', 'Agg', 'L', '[a-z]_[0-9]+', '\\', '\\$\\$(.*?)\\$\\$', '\\\\int_\\{[^}]+\\}', '\\\\sum_\\{[^}]+\\}', '^', '_', 'center', 'display', 'inline', 'nougat', 'off', 'pdf', 'png', 'r', 'tight', 'utf-8', 'x\\^[0-9]+', '{', '}']

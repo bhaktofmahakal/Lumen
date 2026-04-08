@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\integrations\tpu.py
+# hypothesis_version: 6.151.10
+
+['_no_split_modules', 'fsdp', 'input_sharding', 'min_num_params', 'model', 'saving_checkpoint', 'shard_metadata', 'training_args.bin', 'xla_fsdp_grad_ckpt']

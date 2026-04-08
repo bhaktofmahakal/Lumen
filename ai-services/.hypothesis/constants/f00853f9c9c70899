@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\polys\domains\domain.py
+# hypothesis_version: 6.151.10
+
+['Domain', '__iter__', 'characteristic()', 'from_', 'is_ground', 'mpc', 'mpf', 'python', 'zeta']

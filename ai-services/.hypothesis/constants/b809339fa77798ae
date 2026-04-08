@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\simplify\simplify.py
+# hypothesis_version: 6.151.10
+
+[1.0, 1.7, 3.33, '-inf', '1.10', '_eval_simplify', 'base10', 'clear', 'coeff', 'deep', 'doit', 'exact', 'exp', 'fraction', 'inf', 'inverse', 'measure', 'normal', 'radical', 'ratio', 'rational', 'sign', 'x', 'z']

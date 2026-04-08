@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\generation\candidate_generator.py
+# hypothesis_version: 6.151.10
+
+['GenerationConfig', 'Inf', 'LogitsProcessorList', 'PreTrainedModel', 'attention_mask', 'cpu', 'cross_attention_mask', 'decoder_input_ids', 'decoder_position_ids', 'dynamic_full', 'encoder_outputs', 'generation_config', 'heuristic', 'heuristic_transient', 'image_attention_mask', 'input_ids', 'logits_processor', 'logits_to_keep', 'max_new_tokens', 'min_new_tokens', 'past_key_values', 'position_ids', 'pt', 'source_tokenizer', 'token_type_ids']

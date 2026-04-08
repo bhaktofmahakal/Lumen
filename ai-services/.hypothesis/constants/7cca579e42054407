@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\printing\lambdarepr.py
+# hypothesis_version: 6.151.10
+
+[' and ', ' or ', '%s(%s)', '(', '(%s)', '((', ')', ') else (', ') if (', '))', ', ', '.evaluate', '1j', 'Abs', 'False', 'IntervalPrinter', 'LambdaPrinter', 'MpmathPrinter', 'NumPyPrinter', 'PythonCodePrinter', 'True', '_imp_', '_lambdacode', '_numexprcode', '_print_%s', 'abs', 'acos', 'acosh', 'arccos', 'arccosh', 'arcsin', 'arcsinh', 'arctan', 'arctan2', 'arctanh', 'asin', 'asinh', 'atan', 'atan2', 'atanh', 'complex', 'conj', 'conjugate', 'contains', 'cos', 'cosh', 'exp', 'im', 'imag', 'lambdarepr', 'ln', 'log', 'log(-1)', "mpi('%s')", 'not (', 'numexpr', 're', 'real', 'sin', 'sinh', 'sqrt', 'tan', 'tanh', 'where', 'where(%s, %s, ']

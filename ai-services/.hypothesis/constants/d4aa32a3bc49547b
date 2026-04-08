@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\qdrant_client\grpc\points_service_pb2.py
+# hypothesis_version: 6.151.10
+
+[b'\xaa\x02\x12Qdrant.Client.Grpc', 2092, 'DESCRIPTOR', '_POINTS', 'points_service_pb2']

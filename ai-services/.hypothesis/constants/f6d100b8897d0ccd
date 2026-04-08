@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\printing\dot.py
+# hypothesis_version: 6.151.10
+
+['"%s" -> "%s";', '"%s" [%s];', '"%s"="%s"', '%s(%s)', '%s_%s', ', ', 'TD', '_%s', 'black', 'blue', 'color', 'dotprint', 'edges', 'ellipse', 'graphstyle', 'label', 'nodes', 'ordering', 'out', 'rankdir', 'shape']

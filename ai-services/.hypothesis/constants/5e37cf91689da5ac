@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\utils\_content_store.py
+# hypothesis_version: 6.151.10
+
+['>', 'constant', 'cpu', 'cuda', 'i', 'mps', 'storages', 'tensors', 'xpu']

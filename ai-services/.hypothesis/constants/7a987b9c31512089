@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\fit_mixin.py
+# hypothesis_version: 6.151.10
+
+[0.0, 2e-05, 0.01, 0.05, -9999999, 500, 10000, '-', '4.41.0', 'Epoch', 'Iteration', 'LayerNorm.bias', 'LayerNorm.weight', 'WarmupLinear', 'batch_size', 'bias', 'checkpoint-', 'checkpoints/model', 'constantlr', 'dataset', 'epochs', 'eval', 'eval_strategy', 'evaluation_steps', 'evaluation_strategy', 'evaluator', 'greater_is_better', 'label', 'lr', 'max_grad_norm', 'no', 'optimizer_class', 'optimizer_params', 'params', 'path', 'primary_metric', 'scheduler', 'step', 'steps', 'steps_per_epoch', 'warmup_steps', 'warmupconstant', 'warmupcosine', 'warmuplinear', 'weight_decay', '{FIT_PARAMETERS}', '{LOSS_FUNCTIONS}', '{TRAINING_SECTION}']

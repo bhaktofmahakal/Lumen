@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\integrations\weights_biases.py
+# hypothesis_version: 6.151.10
+
+[1000, 'K', 'V', '_kind', 'chat.completion', 'choices', 'created', 'edit', 'messages', 'object', 'openai', 'request', 'response', 'text_completion', 'trace']

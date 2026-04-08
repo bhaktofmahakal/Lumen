@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\ntheory\factor_.py
+# hypothesis_version: 6.151.10
+
+[0.01, 0.5, 2.0, 100, 105, 117, 324, 468, 561, 600, 1000, 1234, 2000, 10000, 1000000, '\t%i ** %i', '**', '1.13', '=', 'Exceeded limit:', 'Factoring', 'Factoring %s', 'has', 'limit', 'multiple', 't must be >= 2', 'verbose', 'visual']

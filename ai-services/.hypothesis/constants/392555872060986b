@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\langchain_core\tracers\base.py
+# hypothesis_version: 6.151.10
+
+['%Y%m%dT%H%M%S%fZ', '.', 'N/A', 'Retriever', 'attempt', 'chain', 'chat_model', 'chunk', 'documents', 'end', 'error', 'exception', 'exception_type', 'failed', 'generations', 'input', 'kwargs', 'llm', 'message', 'messages', 'metadata', 'name', 'new_token', 'original', 'outcome', 'output', 'prompts', 'query', 'result', 'retriever', 'retry', 'slept', 'start', 'streaming_events', 'success', 'time', 'token', 'tool']

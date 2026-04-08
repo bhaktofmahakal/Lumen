@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\fsdp\_flat_param.py
+# hypothesis_version: 6.151.10
+
+['.', '1', 'FSDP_USE_FAKE_REDUCE', 'FlatParamHandle', 'FlatParameter', 'ParamInfo', 'SharedParamInfo', '_cpu_grad', '_is_flat_param', '_mp_shard', '_saved_grad_shard', '_sharded_size', 'but got `None`', 'cpu', 'process_group', 'rank', 'world_size']

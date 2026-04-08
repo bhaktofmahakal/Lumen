@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\core\indexes\period.py
+# hypothesis_version: 6.151.10
+
+['D', 'E', 'PeriodArray', 'arrays.PeriodArray', 'data', 'day', 'end', 'end_time', 'freq', 'hour', 'int64', 'is_leap_year', 'klass', 'minute', 'month', 'pandas', 'period', 'periodindex', 'quarter', 'second', 'start', 'start_time', 'strftime', 'target_klass', 'year']

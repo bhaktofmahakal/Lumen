@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\utils\_mask.py
+# hypothesis_version: 6.151.10
+
+['X', 'array-like', 'csr', 'f', 'i', 'mask', 'sparse matrix', 'toarray', 'u']

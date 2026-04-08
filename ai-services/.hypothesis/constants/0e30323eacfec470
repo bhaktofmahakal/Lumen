@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\modeling_layers.py
+# hypothesis_version: 6.151.10
+
+[0.1, ' `layer_past=None`,', ' `use_cache=False`,', ',', '.', 'classifier_dropout', 'hidden_dropout', 'layer_past', 'model', 'past_key_value', 'past_key_values', 'use_cache']

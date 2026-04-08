@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sentence_transformers\__init__.py
+# hypothesis_version: 6.151.10
+
+['5.3.0', 'CODECARBON_LOG_LEVEL', 'CrossEncoder', 'CrossEncoderTrainer', 'DefaultBatchSampler', 'InputExample', 'LoggingHandler', 'SentenceTransformer', 'SentencesDataset', 'SimilarityFunction', 'SparseEncoder', 'SparseEncoderTrainer', 'codecarbon', 'error', 'ignore', 'mine_hard_negatives', 'quantize_embeddings']

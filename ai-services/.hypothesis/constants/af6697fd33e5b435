@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\metrics\_regression.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.5, 1.0, 100, 'alpha', 'array-like', 'boolean', 'both', 'continuous', 'd2_pinball_score', 'd2_tweedie_score', 'force_finite', 'left', 'max_error', 'mean_absolute_error', 'mean_gamma_deviance', 'mean_pinball_loss', 'mean_squared_error', 'multioutput', 'nan', 'numeric', 'power', 'r2_score', 'raw_values', 'right', 'sample_weight', 'uniform_average', 'variance_weighted', 'y_pred', 'y_true']

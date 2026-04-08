@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\core\exprtools.py
+# hypothesis_version: 6.151.10
+
+['%s: %s', ', ', 'Factors({%s})', 'Term(%s, %s, %s)', 'args_cnc', 'coeff', 'denom', 'factors', 'gens', 'keys', 'mask', 'neg', 'nneg', 'npos', 'numer', 'pos']

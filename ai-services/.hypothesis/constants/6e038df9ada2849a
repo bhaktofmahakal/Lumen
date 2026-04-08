@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\polys\polyoptions.py
+# hypothesis_version: 6.151.10
+
+[',', '>', 'EX', 'Options', 'Q', 'QQ', 'QQ_I', 'R', 'RR', 'Z', 'ZZ', 'ZZ_I', '\\s*,\\s*|\\s+', '^(C|CC)(_(\\d+))?$', '^(FF|GF)\\((\\d+)\\)$', '^(Q|QQ)\\<(.+)\\>$', '^(R|RR)(_(\\d+))?$', '__getitem__', '__iter__', 'all', 'auto', 'composite', 'defaults', 'domain', 'expand', 'extension', 'field', 'formal', 'frac', 'gaussian', 'gen', 'gens', 'greedy', 'include', 'method', 'modulus', 'opt', 'order', 'polys', 's', 'series', 'sort', 'split', 'strict', 'symbols', 'symmetric', 'to_domain', 'wrt']

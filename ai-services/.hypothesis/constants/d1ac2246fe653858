@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sklearn\preprocessing\_label.py
+# hypothesis_version: 6.151.10
+
+[2.0, 'LabelBinarizer', 'LabelEncoder', 'MultiLabelBinarizer', 'array-like', 'binary', 'boolean', 'classes', 'csc', 'csr', 'dtype', 'i', 'integral', 'label_binarize', 'multiclass', 'multilabel', 'multilabel-indicator', 'multioutput', 'neg_label', 'neither', 'pos_label', 'shape', 'sparse matrix', 'sparse_output', 'unknown', 'y', 'y has 0 samples: %r']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\litellm\llms\together_ai.py
+# hypothesis_version: 6.151.10
+
+[200, 'Authorization', 'Bearer ', 'POST', '__', 'accept', 'api_base', 'application/json', 'bos_token', 'choices', 'complete_input_dict', 'content', 'content-type', 'created', 'eos_token', 'error', 'final_prompt_value', 'finish_reason', 'headers', 'initial_prompt_value', 'message', 'model', 'output', 'prompt', 'request_type', 'roles', 'self', 'stream_tokens', 'text', 'together_ai', 'together_ai/']

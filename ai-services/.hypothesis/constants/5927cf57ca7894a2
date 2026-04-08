@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\pandas\util\_print_versions.py
+# hypothesis_version: 6.151.10
+
+['\nINSTALLED VERSIONS', '------------------', 'Cython', 'IPython', 'LANG', 'LC_ALL', 'LOCALE', 'N/A', 'OS', 'OS-release', 'P', 'Version', 'byteorder', 'commit', 'dateutil', 'dependencies', 'encoding', 'full-revisionid', 'ignore', 'language-code', 'machine', 'numpy', 'pandas', 'pip', 'processor', 'python', 'python-bits', 'sphinx', 'system', 'utf-8', 'w']

@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\jmespath\visitor.py
+# hypothesis_version: 6.151.10
+
+['  %s -> %s', '%s [label="%s(%s)"]', '%s%s', 'children', 'default_visit', 'digraph AST {', 'eq', 'gt', 'gte', 'lt', 'lte', 'ne', 'type', 'value', 'visit_%s', '}']

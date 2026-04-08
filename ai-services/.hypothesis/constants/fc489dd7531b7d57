@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\integrations\hqq.py
+# hypothesis_version: 6.151.10
+
+['.', 'W_q', 'layers', 'meta', 'model', 'quant_config', 'quant_method', 'skip_modules']

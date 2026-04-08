@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\core\numbers.py
+# hypothesis_version: 6.151.10
+
+[-1.0, 1e-08, 1e-05, 223, 1000000, '+-', '+inf', '-+_.', '-.', '-0.', '-\\infty', '-inf', '.', '/', '0', '0x', '1', '1.11', '1234567890', '1e-15', 'G', 'Indeterminate 0/0', 'L', 'Number', '\\gamma', '\\infty', '\\phi', '\\pi', '\\text{NaN}', '\\tilde{\\infty}', '_', '__ge__', '__gt__', '__le__', '__lt__', '_mpf_', '_own_minpoly', '_prec', 'alias', 'divide', 'e', 'expecting 2 numbers', 'gen', 'imaginary_unit_latex', 'inf', 'invalid input: %s', 'is_number', 'k', 'malformed mpf: %s', 'measure', 'minpoly', 'modulo by zero', 'nan', 'other', 'p', 'precision', 'q', 'ratio', 'rep', 'root', 'x']

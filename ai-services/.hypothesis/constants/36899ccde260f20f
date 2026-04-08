@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\polys\polyconfig.py
+# hypothesis_version: 6.151.10
+
+['EEZ_MODULUS_STEP', 'EEZ_NUMBER_OF_TRIES', 'GF_FACTOR_METHOD', 'GF_IRRED_METHOD', 'GROEBNER', 'SYMPY_', 'USE_HEU_GCD', 'USE_SIMPLIFY_GCD', 'buchberger', 'rabin', 'zassenhaus']

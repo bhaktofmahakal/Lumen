@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\sympy\utilities\timeutils.py
+# hypothesis_version: 6.151.10
+
+[0.0, 0.2, 1.0, 1000.0, 1000000.0, 1000000000.0, '%.2f %s%s', ',', '-', 'SYMPY_TIMINGS', 'ms', 'ns', 'pass', 's', 'μs']

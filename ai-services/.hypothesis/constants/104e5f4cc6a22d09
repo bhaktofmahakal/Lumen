@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\optimize\_root.py
+# hypothesis_version: 6.151.10
+
+[0.0, 1.49012e-08, 100, 'anderson', 'armijo', 'broyden1', 'broyden2', 'df-sane', 'diagbroyden', 'excitingmixing', 'fatol', 'ftol', 'fvec', 'hybr', 'krylov', 'linearmixing', 'lm', 'root', 'xatol', 'xtol']

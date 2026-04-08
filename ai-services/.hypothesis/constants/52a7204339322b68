@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\cuda\gds.py
+# hypothesis_version: 6.151.10
+
+['GdsFile', '_gds_load_storage', '_gds_register_buffer', '_gds_register_handle', '_gds_save_storage', 'gds_register_buffer', 'win32']

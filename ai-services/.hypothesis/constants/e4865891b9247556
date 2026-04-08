@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\scipy\ndimage\_support_alternative_backends.py
+# hypothesis_version: 6.151.10
+
+['_signature', 'cupy', 'find_objects', 'geometric_transform', 'jax.numpy', 'map_coordinates', 'ndimage', 'vectorized_filter']

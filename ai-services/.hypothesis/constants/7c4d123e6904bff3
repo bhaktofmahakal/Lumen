@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\huggingface_hub\utils\_verification.py
+# hypothesis_version: 6.151.10
+
+['*', 'RepoFile', '^[0-9a-f]{40}$', 'git-sha1', 'lfs', 'main', 'rb', 'refs', 'sha256', 'snapshots', 'utf-8']

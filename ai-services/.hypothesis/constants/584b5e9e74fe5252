@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\algorithms\_comm_hooks\default_hooks.py
+# hypothesis_version: 6.151.10
+
+['parameter_type', 'privateuse1', 'process_group', 'world_size']

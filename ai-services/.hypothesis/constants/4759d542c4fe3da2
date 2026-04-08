@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\torch\distributed\fsdp\_common_utils.py
+# hypothesis_version: 6.151.10
+
+['.', 'FlatParamHandle', '_FSDPDeviceHandle', '_dmp_wrapped_module', '_fsdp_flattened', '_fsdp_wrapped_module', 'cuda', 'mixed_precision', 'module', 'mtia', 'remove_duplicate', 'xpu']

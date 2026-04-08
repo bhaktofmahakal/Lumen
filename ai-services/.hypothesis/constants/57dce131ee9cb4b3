@@ -1,0 +1,4 @@
+# file: C:\Users\movie\AppData\Roaming\Python\Python312\site-packages\transformers\quantizers\quantizer_quark.py
+# hypothesis_version: 6.151.10
+
+['PreTrainedModel', 'QuarkConfig', 'bias_quantizer.scale', 'bias_scale', 'bias_zero_point', 'input_scale', 'input_zero_point', 'output_scale', 'output_zero_point', 'weight_scale', 'weight_zero_point']
