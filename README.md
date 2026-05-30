@@ -5,7 +5,7 @@
 [![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 
-AI Research Copilot (Lumen) is a multi-service research workspace that helps teams ingest papers, ask questions with citations, and draft LaTeX documents with AI assistance. This repository contains the full stack: a React web app (PWA-enabled), a PHP API, Python AI services, and a Yjs collaboration server.
+AI Research Copilot (Lumen is the repository name) is a multi-service research workspace for academic researchers and research teams. It helps teams ingest papers, ask questions with citations, and draft LaTeX documents with AI assistance. This repository contains the full stack: a React web app (PWA-enabled), a PHP API, Python AI services, and a Yjs collaboration server.
 
 ## Product capabilities
 - **PDF ingestion with OCR** using PyMuPDF/PyPDF and Tesseract-backed fallbacks.
@@ -31,14 +31,14 @@ AI Research Copilot (Lumen) is a multi-service research workspace that helps tea
    ```bash
    cp .env.example .env
    ```
-2. Set the required secrets in `.env` (at least one LLM key, plus JWT/DB/Redis passwords).
+2. Set the required secrets in `.env` (at least one LLM key such as `GEMINI_API_KEY` or `GROQ_API_KEY`, plus JWT/DB/Redis passwords).
 3. Start services:
    ```bash
    ./scripts/setup-infrastructure.sh
    # or: docker-compose up -d
    ```
 4. Open:
-   - **Web app:** http://localhost (HTTP) or https://localhost (self-signed)
+   - **Web app:** http://localhost (HTTP) or https://localhost (self-signed; accept the browser warning)
    - **AI service docs:** http://localhost:8000/docs
    - **Health:** http://localhost:8000/health
 
