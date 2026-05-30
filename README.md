@@ -40,7 +40,9 @@ AI Research Copilot is a multi-service research workspace for academic researche
    # or: docker-compose up -d
    ```
 4. Open:
-   - **Web app:** http://localhost (port 80) or https://localhost (port 443, self-signed; accept the warning for local development, use real certificates in production)
+   - **Web app (HTTP):** http://localhost (port 80)
+   - **Web app (HTTPS):** https://localhost (port 443, self-signed)
+   - **Certificate note:** accept the warning for local development, use real certificates in production
    - **AI service docs:** http://localhost:8000/docs
    - **Health:** http://localhost:8000/health
 
