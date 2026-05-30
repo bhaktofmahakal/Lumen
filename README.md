@@ -1,11 +1,11 @@
-# Lumen — AI Research Copilot
+# AI Research Copilot (Lumen)
 
 [![React](https://img.shields.io/badge/React-18-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
 [![Python](https://img.shields.io/badge/Python-3.11-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://python.org)
 [![PHP](https://img.shields.io/badge/PHP-8.3-777BB4?style=for-the-badge&logo=php&logoColor=white)](https://php.net)
 [![Docker](https://img.shields.io/badge/Docker-Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://docker.com)
 
-Lumen is a multi-service research workspace that helps teams ingest papers, ask questions with citations, and draft LaTeX documents with AI assistance. This repository contains the full stack: a React web app (PWA-enabled), a PHP API, Python AI services, and a Yjs collaboration server.
+AI Research Copilot (Lumen) is a multi-service research workspace that helps teams ingest papers, ask questions with citations, and draft LaTeX documents with AI assistance. This repository contains the full stack: a React web app (PWA-enabled), a PHP API, Python AI services, and a Yjs collaboration server.
 
 ## Product capabilities
 - **PDF ingestion with OCR** using PyMuPDF/PyPDF and Tesseract-backed fallbacks.
@@ -38,7 +38,7 @@ Lumen is a multi-service research workspace that helps teams ingest papers, ask 
    # or: docker-compose up -d
    ```
 4. Open:
-   - **Web app:** https://localhost
+   - **Web app:** http://localhost (HTTP) or https://localhost (self-signed)
    - **AI service docs:** http://localhost:8000/docs
    - **Health:** http://localhost:8000/health
 
