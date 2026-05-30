@@ -40,14 +40,13 @@ AI Research Copilot is a multi-service research workspace for academic researche
 3. Start services:
    ```bash
    ./scripts/setup-infrastructure.sh
+   # Windows (PowerShell): .\scripts\setup-infrastructure.ps1
    # or: docker-compose up -d
    ```
 4. Open:
    - **Web app:** http://localhost (HTTP) or https://localhost (self-signed; accept the warning for local development only and never in production)
    - **AI service docs:** http://localhost:8000/docs
    - **Health:** http://localhost:8000/health
-
-Windows users can use `scripts/setup-infrastructure.ps1` for the same bootstrap flow.
 
 ## Production notes
 - Replace the self-signed certificates in `nginx/ssl` with real TLS certs.
