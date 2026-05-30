@@ -7,7 +7,6 @@
 
 AI Research Copilot is a multi-service research workspace for academic researchers and research teams. It helps teams ingest papers, ask questions with citations, and draft LaTeX documents with AI assistance. This repository contains the full stack: a React web app (PWA-enabled), a PHP API, Python AI services, and a Yjs collaboration server.
 
-> Note: The repository is named **Lumen**; the product name used across the codebase is **AI Research Copilot**.
 
 ## Product capabilities
 - **PDF ingestion with OCR** using PyMuPDF/PyPDF and Tesseract-backed fallbacks.
