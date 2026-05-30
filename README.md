@@ -38,7 +38,7 @@ AI Research Copilot (Lumen is the repository name) is a multi-service research w
    # or: docker-compose up -d
    ```
 4. Open:
-   - **Web app:** http://localhost (HTTP) or https://localhost (self-signed; accept the browser warning)
+   - **Web app:** http://localhost (HTTP) or https://localhost (self-signed; accept the warning for local development only)
    - **AI service docs:** http://localhost:8000/docs
    - **Health:** http://localhost:8000/health
 
@@ -53,7 +53,7 @@ Windows users can use `scripts/setup-infrastructure.ps1` for the same bootstrap 
 
 ## API surface
 - **PHP API:** `/api/auth`, `/api/projects`, `/api/documents`, `/api/chat`, `/api/citations`, `/api/latex`
-- **AI service docs:** `/docs` (FastAPI schema)
+- **AI service docs:** http://localhost:8000/docs (FastAPI schema)
 - **Endpoint references:** `api/*/README.md`
 
 ## Repository layout
