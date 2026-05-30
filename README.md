@@ -18,14 +18,11 @@ AI Research Copilot is a multi-service research workspace for academic researche
 - **PWA-ready frontend** with Workbox caching for faster repeat visits.
 
 ## Architecture
-
-| Service | Responsibility | Tech |
-| --- | --- | --- |
-| frontend | Web UI, LaTeX editor, PWA | React, Vite, CodeMirror, MathJax, Yjs |
-| api | Auth, projects, documents, citations, LaTeX endpoints | PHP 8.3, MySQL, Redis |
-| ai-services | RAG, OCR, agent orchestration, LLM routing | FastAPI, LangGraph, Qdrant, LiteLLM |
-| collaboration-server | Realtime document sync | Node.js, y-websocket |
-| infra | Reverse proxy + data stores | Nginx, Docker Compose, MySQL, Redis, Qdrant |
+- **frontend:** Web UI, LaTeX editor, PWA (React, Vite, CodeMirror, MathJax, Yjs)
+- **api:** Auth, projects, documents, citations, LaTeX endpoints (PHP 8.3, MySQL, Redis)
+- **ai-services:** RAG, OCR, agent orchestration, LLM routing (FastAPI, LangGraph, Qdrant, LiteLLM)
+- **collaboration-server:** Realtime document sync (Node.js, y-websocket)
+- **infra:** Reverse proxy + data stores (Nginx, Docker Compose, MySQL, Redis, Qdrant)
 
 ## Local development
 1. Copy the environment template:
@@ -43,7 +40,7 @@ AI Research Copilot is a multi-service research workspace for academic researche
    # or: docker-compose up -d
    ```
 4. Open:
-   - **Web app:** http://localhost (HTTP) or https://localhost (self-signed; accept the warning for local development only and never in production)
+   - **Web app:** http://localhost (HTTP) or https://localhost (self-signed; accept the warning for local development, use real certificates in production)
    - **AI service docs:** http://localhost:8000/docs
    - **Health:** http://localhost:8000/health
 
